@@ -1,0 +1,400 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+xmin = 0 
+xmax = 1610.69 
+tiers? <exists> 
+size = 2 
+item []: 
+   item [1]:
+       class = "IntervalTier"
+       name = "???"
+       xmin = 0 
+       xmax = 1610.69 
+       intervals: size = 476 
+       intervals [1]:
+           xmin = 0 
+           xmax = 1.2 
+           text = "Hi, I am Hannah."
+       intervals [2]:
+           xmin = 1.2 
+           xmax = 4.23 
+           text = "<NOISE>"
+       intervals [3]:
+           xmin = 4.23 
+           xmax = 7.5 
+           text = "Hi, I am Nick. Let's read some novels."
+       intervals [4]:
+           xmin = 7.5 
+           xmax = 8.48 
+           text = "<NOISE>"
+       intervals [5]:
+           xmin = 8.48 
+           xmax = 17.48 
+           text = "I had to make a conscious effort to remain absolutely still. Keeping every muscle utterly relaxed under the present circumstances required an astonishing amount of willpower when every instinct"
+       intervals [6]:
+           xmin = 17.48 
+           xmax = 26.65 
+           text = "screamed at me to move. It was a true battle between reflex and resolution, and though precious instinct had saved me often in the past, this time I must not give in to basic impulse."
+       intervals [7]:
+           xmin = 26.65 
+           xmax = 28.07 
+           text = "<NOISE>"
+       intervals [8]:
+           xmin = 28.07 
+           xmax = 38.34 
+           text = "I managed to hold quite still, inspired by the knowledge that if Azalin found out my deception, he would instantly understand that I'd discovered his great secret."
+       intervals [9]:
+           xmin = 38.34 
+           xmax = 38.94 
+           text = "<NOISE>"
+       intervals [10]:
+           xmin = 38.94 
+           xmax = 40.71 
+           text = "And that would be very bad for me."
+       intervals [11]:
+           xmin = 40.71 
+           xmax = 42.44 
+           text = "<NOISE>"
+       intervals [12]:
+           xmin = 42.44 
+           xmax = 47.87 
+           text = "I heard more sounds from his area of the chamber, the brush of his bones against the stone floor, a ghostly groan."
+       intervals [13]:
+           xmin = 47.87 
+           xmax = 48.52 
+           text = "<NOISE>"
+       intervals [14]:
+           xmin = 48.52 
+           xmax = 55.502615660561766 
+           text = "Whether it was an expression of physical or mental distress, I couldn't tell. Could such creatures feel bodily pain in the same sense as other beings?"
+       intervals [15]:
+           xmin = 55.502615660561766 
+           xmax = 58.86 
+           text = "Never before having encountered such a powerful being, I did'nt know."
+       intervals [16]:
+           xmin = 58.86 
+           xmax = 60.7 
+           text = "<NOISE>"
+       intervals [17]:
+           xmin = 60.7 
+           xmax = 67.35 
+           text = "After a few moments, I stirred and moaned and let my eyes flutter open in what I hoped would seem a normal manner."
+       intervals [18]:
+           xmin = 67.35 
+           xmax = 68.5 
+           text = "<NOISE>"
+       intervals [19]:
+           xmin = 68.5 
+           xmax = 77.08 
+           text = "His illusion was firmly in place, he looked the same as ever, except for his gloves, which were gone. Probably torn or burned from his withered hands when, stop that right now."
+       intervals [20]:
+           xmin = 77.08 
+           xmax = 79.47 
+           text = "<NOISE>"
+       intervals [21]:
+           xmin = 79.47 
+           xmax = 89.42 
+           text = "Now, did I allow myself to look around, doing my best to recreate my initial reaction to the destruction, being careful not to overplay things."
+       intervals [22]:
+           xmin = 89.42 
+           xmax = 90.06 
+           text = "<NOISE>"
+       intervals [23]:
+           xmin = 90.06 
+           xmax = 94.66 
+           text = "When my gaze fell upon Azalin, he was already getting to his feet."
+       intervals [24]:
+           xmin = 94.66 
+           xmax = 96.79 
+           text = "<NOISE>"
+       intervals [25]:
+           xmin = 96.79 
+           xmax = 104.74 
+           text = "Perhaps, I wasn't animate in the same way as others, but I did retain a spark of true passion within me, and that made me a closer, more willing ally to the living than to this creature."
+       intervals [26]:
+           xmin = 104.74 
+           xmax = 105.59928253942103 
+           text = "<NOISE>"
+       intervals [27]:
+           xmin = 105.59928253942103 
+           xmax = 114.24 
+           text = "If I started making mental comparisons between the illusion and what I knew to be reality, it would affect my behavior and be a giveaway to him."
+       intervals [28]:
+           xmin = 114.24 
+           xmax = 115.33 
+           text = "<NOISE>"
+       intervals [29]:
+           xmin = 115.33 
+           xmax = 119.35 
+           text = "In all our time together, in all the recollections he'd passed to me  "
+       intervals [30]:
+           xmin = 119.35 
+           xmax = 119.99 
+           text = "<NOISE>"
+       intervals [31]:
+           xmin = 119.99 
+           xmax = 125.08 
+           text = "he hadn't once dropped the least hint of his true self, and quite wisely."
+       intervals [32]:
+           xmin = 125.08 
+           xmax = 126.03 
+           text = "<NOISE>"
+       intervals [33]:
+           xmin = 126.03 
+           xmax = 129.15 
+           text = "Final death could still ultimately claim one, such as myself  "
+       intervals [34]:
+           xmin = 129.15 
+           xmax = 130.72 
+           text = "<NOISE>"
+       intervals [35]:
+           xmin = 130.72 
+           xmax = 137.52 
+           text = "Had I known, I would never have given him my shelter and protection and would have done my utmost to destroy him."
+       intervals [36]:
+           xmin = 137.52 
+           xmax = 138.89 
+           text = "<NOISE>"
+       intervals [37]:
+           xmin = 138.89 
+           xmax = 140.39 
+           text = "but a lich was already dead  "
+       intervals [38]:
+           xmin = 140.39 
+           xmax = 141.8 
+           text = "<NOISE>"
+       intervals [39]:
+           xmin = 141.8 
+           xmax = 145.54 
+           text = "While I still suppled with pleasure from life's table  "
+       intervals [40]:
+           xmin = 145.54 
+           xmax = 146.29 
+           text = "<NOISE>"
+       intervals [41]:
+           xmin = 146.29 
+           xmax = 151.58 
+           text = "still hold my place as a predator in the workings of the world, not so for a lich  "
+       intervals [42]:
+           xmin = 151.58 
+           xmax = 152.35 
+           text = "<NOISE>"
+       intervals [43]:
+           xmin = 152.35 
+           xmax = 160.68 
+           text = "who had given up such pleasures, embracing and at the same time, defying death itself, for continuance, empty continuance."
+       intervals [44]:
+           xmin = 160.68 
+           xmax = 161.27 
+           text = "<NOISE>"
+       intervals [45]:
+           xmin = 161.27 
+           xmax = 166.17 
+           text = "The cold revulsion Azalin inspired in all who came near him was quite justified."
+       intervals [46]:
+           xmin = 166.17 
+           xmax = 168.61 
+           text = "<NOISE>"
+       intervals [47]:
+           xmin = 168.61 
+           xmax = 175.72 
+           text = "a collection of bones existent by the foulest kind of dark magic and its own monumental determination to dwell beyond its normal span of years."
+       intervals [48]:
+           xmin = 175.72 
+           xmax = 176.99 
+           text = "<NOISE>"
+       intervals [49]:
+           xmin = 176.99 
+           xmax = 188.7113491891123 
+           text = "Barovia was little enough, but all I had. It was also my only hope of seeing Tatyana again, live again. To save her, to save that which was mine, I would do anything  "
+       intervals [50]:
+           xmin = 188.7113491891123 
+           xmax = 192.67 
+           text = "even take on the perilous task of trying to destroy Azalin."
+       intervals [51]:
+           xmin = 192.67 
+           xmax = 194.39 
+           text = "<NOISE>"
+       intervals [52]:
+           xmin = 194.39 
+           xmax = 197.65360381647088 
+           text = "With all my contact with him, I had grown used to that kind of cold  "
+       intervals [53]:
+           xmin = 197.65360381647088 
+           xmax = 198.14700774752575 
+           text = "<NOISE>"
+       intervals [54]:
+           xmin = 198.14700774752575 
+           xmax = 204.87288238664235 
+           text = "successfully ignoring it. The reaction I had now was not aversion to his physical form, so much as the fact that when it came to magic  "
+       intervals [55]:
+           xmin = 204.87288238664235 
+           xmax = 208.06702362452396 
+           text = "he, as a lich, was much more powerful enough to challenge me and win."
+       intervals [56]:
+           xmin = 208.06702362452396 
+           xmax = 208.5863961835291 
+           text = "<NOISE>"
+       intervals [57]:
+           xmin = 208.5863961835291 
+           xmax = 212.0402237009133 
+           text = "Indeed, the only thing holding him back from such conquest must have been our bargain  "
+       intervals [58]:
+           xmin = 212.0402237009133 
+           xmax = 212.4037844922169 
+           text = "<NOISE>"
+       intervals [59]:
+           xmin = 212.4037844922169 
+           xmax = 214.33898405934403 
+           text = "the necessity of our having to work together."
+       intervals [60]:
+           xmin = 214.33898405934403 
+           xmax = 214.80641936244865 
+           text = "<NOISE>"
+       intervals [61]:
+           xmin = 214.80641936244865 
+           xmax = 215.8711331084092 
+           text = "That could change, though."
+       intervals [62]:
+           xmin = 215.8711331084092 
+           xmax = 216.36453703946407 
+           text = "<NOISE>"
+       intervals [63]:
+           xmin = 216.36453703946407 
+           xmax = 223.88 
+           text = "It might have changed already with this catastrophic failure. I had to play this out very carefully and not provide him with the least suspicion that his secret was no more  "
+       intervals [64]:
+           xmin = 223.88 
+           xmax = 224.18 
+           text = "<NOISE>"
+       intervals [65]:
+           xmin = 224.18 
+           xmax = 228.34 
+           text = "that I'd realized my terrible vulnerability to him. His pretense must continue."
+       intervals [66]:
+           xmin = 228.34 
+           xmax = 230.39 
+           text = "<NOISE>"
+       intervals [67]:
+           xmin = 230.39 
+           xmax = 239.63 
+           text = "I stood - my limbs surprisingly steady after what I'd been through and what I was currently dealing with - and surveyed the damaged chamber with him. "
+       intervals [68]:
+           xmin = 239.63 
+           xmax = 240.28 
+           text = "<NOISE>"
+       intervals [69]:
+           xmin = 240.28 
+           xmax = 250.14 
+           text = "To continue the pretense that I was still ignorant of the truth, I had to react as I would normally, which would be easy enough to emulate, for it was already boiling up inside."
+       intervals [70]:
+           xmin = 250.14 
+           xmax = 251.51 
+           text = "<NOISE>"
+       intervals [71]:
+           xmin = 251.51 
+           xmax = 255.3 
+           text = "But I dared not surrender to that impulse, just yet. This was not the time. "
+       intervals [72]:
+           xmin = 255.3 
+           xmax = 256.14 
+           text = "<NOISE>"
+       intervals [73]:
+           xmin = 256.14 
+           xmax = 262.44 
+           text = "Even had I been rested and ready for just such a confrontation, i still would have been hard pressed to overcome a being with Azalin's power."
+       intervals [74]:
+           xmin = 262.44 
+           xmax = 264.13 
+           text = "<NOISE>"
+       intervals [75]:
+           xmin = 264.13 
+           xmax = 270.78 
+           text = "His eyes glowed red, untouched by the fading moonlight coming down from the shattered window. I don't know yet."
+       intervals [76]:
+           xmin = 270.78 
+           xmax = 272.99 
+           text = "<NOISE>"
+       intervals [77]:
+           xmin = 272.99 
+           xmax = 278.44 
+           text = "I fastened him with a stony gaze, trying to suppress my rising rage. What went wrong?I whispered."
+       intervals [78]:
+           xmin = 278.44 
+           xmax = 279.9 
+           text = "<NOISE>"
+       intervals [79]:
+           xmin = 279.9 
+           xmax = 281.17 
+           text = "As you must, also."
+       intervals [80]:
+           xmin = 281.17 
+           xmax = 283.47 
+           text = "<NOISE>"
+       intervals [81]:
+           xmin = 283.47 
+           xmax = 284.86 
+           text = "You must have some idea."
+       intervals [82]:
+           xmin = 284.86 
+           xmax = 286.87 
+           text = "<NOISE>"
+       intervals [83]:
+           xmin = 286.87 
+           xmax = 289.35 
+           text = "I told you to make a severance with the land."
+       intervals [84]:
+           xmin = 289.35 
+           xmax = 291.31 
+           text = "<NOISE>"
+       intervals [85]:
+           xmin = 291.31 
+           xmax = 292.14 
+           text = "What do you mean?"
+       intervals [86]:
+           xmin = 292.14 
+           xmax = 294.03 
+           text = "<NOISE>"
+       intervals [87]:
+           xmin = 294.03 
+           xmax = 301.02 
+           text = "You are the one who chose to blind himself to the facts, so yes, I may place the blame for it upon you. "
+       intervals [88]:
+           xmin = 301.02 
+           xmax = 301.66 
+           text = "<NOISE>"
+       intervals [89]:
+           xmin = 301.66 
+           xmax = 307.2 
+           text = "I said your tie to the land was too strong to be broken, and this more proves me correct."
+       intervals [90]:
+           xmin = 307.2 
+           xmax = 308.88 
+           text = "<NOISE>"
+       intervals [91]:
+           xmin = 308.88 
+           xmax = 312.01 
+           text = "You cannot blame this disaster on such a flimsy detail."
+       intervals [92]:
+           xmin = 312.01 
+           xmax = 314.15 
+           text = "<NOISE>"
+       intervals [93]:
+           xmin = 314.15 
+           xmax = 318.26 
+           text = "By you alone, I gave you fair warning of the foolishness of that theory."
+       intervals [94]:
+           xmin = 318.26 
+           xmax = 320.05 
+           text = "<NOISE>"
+       intervals [95]:
+           xmin = 320.05 
+           xmax = 326.69 
+           text = "It wasn't meant to be broken, the breakage was to be the barrier that separates Barovia from its original plane. That was clearly understood."
+       intervals [96]:
+           xmin = 326.69 
+           xmax = 328.54 
+           text = "<NOISE>"
+       intervals [97]:
+           xmin = 328.54 
+           xmax = 329.79 

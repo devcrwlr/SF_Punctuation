@@ -1,0 +1,368 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+xmin = 0 
+xmax = 1613.53 
+tiers? <exists> 
+size = 2 
+item []: 
+   item [1]:
+       class = "IntervalTier"
+       name = "???"
+       xmin = 0 
+       xmax = 1613.53 
+       intervals: size = 536 
+       intervals [1]:
+           xmin = 0 
+           xmax = 0.63 
+           text = "<NOISE>"
+       intervals [2]:
+           xmin = 0.63 
+           xmax = 3.81 
+           text = "Hi, I'm Jacqueline. And here I have Placida."
+       intervals [3]:
+           xmin = 3.81 
+           xmax = 4.39 
+           text = "<NOISE>"
+       intervals [4]:
+           xmin = 4.39 
+           xmax = 5.6 
+           text = "Let's read some novels."
+       intervals [5]:
+           xmin = 5.6 
+           xmax = 6.299000946073794 
+           text = "<NOISE>"
+       intervals [6]:
+           xmin = 6.299000946073794 
+           xmax = 8.06 
+           text = "Newark, New Jersey."
+       intervals [7]:
+           xmin = 8.06 
+           xmax = 8.723159886471146 
+           text = "<NOISE>"
+       intervals [8]:
+           xmin = 8.723159886471146 
+           xmax = 20.79 
+           text = "Benny come and go. Meerm can't stay hide. Too many kick inside when Meerm sque, squeeze into wall. And must go wee. Meerm come, go wee so very much these day. Leave closet now."
+       intervals [9]:
+           xmin = 20.79 
+           xmax = 21.62 
+           text = "<NOISE>"
+       intervals [10]:
+           xmin = 21.62 
+           xmax = 23.021245126316067 
+           text = "Feel stuff on floor."
+       intervals [11]:
+           xmin = 23.021245126316067 
+           xmax = 23.56658631327147 
+           text = "<NOISE>"
+       intervals [12]:
+           xmin = 23.56658631327147 
+           xmax = 25.29 
+           text = "Look, see white powder."
+       intervals [13]:
+           xmin = 25.29 
+           xmax = 26.117121105586808 
+           text = "<NOISE>"
+       intervals [14]:
+           xmin = 26.117121105586808 
+           xmax = 29.69 
+           text = "Meerm touch taste. Mmmm. Sugar."
+       intervals [15]:
+           xmin = 29.69 
+           xmax = 30.52 
+           text = "<NOISE>"
+       intervals [16]:
+           xmin = 30.52 
+           xmax = 32.03235902505527 
+           text = "Why sugar on floor?"
+       intervals [17]:
+           xmin = 32.03235902505527 
+           xmax = 39.045968787706016 
+           text = "Meerm not know. Must go wee now. Meerm hurry to bathroom. Do wee. When Meerm finish she flush."
+       intervals [18]:
+           xmin = 39.045968787706016 
+           xmax = 39.70972659281482 
+           text = "<NOISE>"
+       intervals [19]:
+           xmin = 39.70972659281482 
+           xmax = 48.552141731985614 
+           text = "No, no, no! Meerm forget! Must not flush? Nev flush in day when no sim round? Benny hear!"
+       intervals [20]:
+           xmin = 48.552141731985614 
+           xmax = 54.60283204439552 
+           text = "Benny come now! Meerm hurry to closet. Climb to shelf. So hard, so ver hard climb."
+       intervals [21]:
+           xmin = 54.60283204439552 
+           xmax = 55.17414185930117 
+           text = "<NOISE>"
+       intervals [22]:
+           xmin = 55.17414185930117 
+           xmax = 57.41911930207458 
+           text = "Squeeze into hole. Squeeze, squeeze, squeeze."
+       intervals [23]:
+           xmin = 57.41911930207458 
+           xmax = 57.90972289715499 
+           text = "<NOISE>"
+       intervals [24]:
+           xmin = 57.90972289715499 
+           xmax = 59.12180236735367 
+           text = "I heard that!"
+       intervals [25]:
+           xmin = 59.12180236735367 
+           xmax = 59.61240596243409 
+           text = "<NOISE>"
+       intervals [26]:
+           xmin = 59.61240596243409 
+           xmax = 65.51213766730972 
+           text = "Goddamn it! I might imagine a creak or a thump, but I know I ain't imagining no toilet flush!"
+       intervals [27]:
+           xmin = 65.51213766730972 
+           xmax = 68.97 
+           text = "Meerm squeeze into hole, push board back. Wait and listen."
+       intervals [28]:
+           xmin = 68.97 
+           xmax = 69.75 
+           text = "<NOISE>"
+       intervals [29]:
+           xmin = 69.75 
+           xmax = 71.38 
+           text = "Aye! Look at that!"
+       intervals [30]:
+           xmin = 71.38 
+           xmax = 72.39 
+           text = "<NOISE>"
+       intervals [31]:
+           xmin = 72.39 
+           xmax = 76.12343482600127 
+           text = "Tracks through my sugar! So, I ain't loco!"
+       intervals [32]:
+           xmin = 76.12343482600127 
+           xmax = 76.69474464090693 
+           text = "<NOISE>"
+       intervals [33]:
+           xmin = 76.69474464090693 
+           xmax = 77.82 
+           text = "Someone's up here  "
+       intervals [34]:
+           xmin = 77.82 
+           xmax = 78.49 
+           text = "<NOISE>"
+       intervals [35]:
+           xmin = 78.49 
+           xmax = 80.82624643645403 
+           text = "and I know just where you are, man!"
+       intervals [36]:
+           xmin = 80.82624643645403 
+           xmax = 84.30604258178849 
+           text = "Meerm hear bang, bang, bang on closet door. Jump with every bang."
+       intervals [37]:
+           xmin = 84.30604258178849 
+           xmax = 96.58426736239578 
+           text = "I don't know where you was hiding before, but Benny gotcha now! Ain't no monkey gonna outsmart Benny. Benny outsmart you. So, come on, out where I can see you."
+       intervals [38]:
+           xmin = 96.58426736239578 
+           xmax = 99.88228311207843 
+           text = "Meerm not come out. Meerm too scare. Meerm stay."
+       intervals [39]:
+           xmin = 99.88228311207843 
+           xmax = 100.53149881083486 
+           text = "<NOISE>"
+       intervals [40]:
+           xmin = 100.53149881083486 
+           xmax = 102.92 
+           text = "Benny nev find Meerm here behind board."
+       intervals [41]:
+           xmin = 102.92 
+           xmax = 104.08 
+           text = "<NOISE>"
+       intervals [42]:
+           xmin = 104.08 
+           xmax = 111.01 
+           text = "Bang! Bang! Bang! Again. Hey! You hear me? No sense draggin this out. It's over! You tagged!"
+       intervals [43]:
+           xmin = 111.01 
+           xmax = 112.03 
+           text = "<NOISE>"
+       intervals [44]:
+           xmin = 112.03 
+           xmax = 112.67494501859157 
+           text = "Meerm"
+       intervals [45]:
+           xmin = 112.67494501859157 
+           xmax = 113.19431757759672 
+           text = "<NOISE>"
+       intervals [46]:
+           xmin = 113.19431757759672 
+           xmax = 114.75243525461214 
+           text = "hear closet door open."
+       intervals [47]:
+           xmin = 114.75243525461214 
+           xmax = 115.29777644156754 
+           text = "<NOISE>"
+       intervals [48]:
+           xmin = 115.29777644156754 
+           xmax = 115.8 
+           text = "You."
+       intervals [49]:
+           xmin = 115.8 
+           xmax = 116.6 
+           text = "<NOISE>"
+       intervals [50]:
+           xmin = 116.6 
+           xmax = 120.24173189489315 
+           text = "What the blazes? Hear, hangers move. Hey!"
+       intervals [51]:
+           xmin = 120.24173189489315 
+           xmax = 120.70916719799777 
+           text = "<NOISE>"
+       intervals [52]:
+           xmin = 120.70916719799777 
+           xmax = 121.77145221943603 
+           text = "What's goin on here?"
+       intervals [53]:
+           xmin = 121.77145221943603 
+           xmax = 122.24131624706294 
+           text = "<NOISE>"
+       intervals [54]:
+           xmin = 122.24131624706294 
+           xmax = 129.59225070571796 
+           text = "Now Benny start hang closet wall. Bang, bang, bang. Very loud to Meerm behind board. Meerm hold breath and hold ear."
+       intervals [55]:
+           xmin = 129.59225070571796 
+           xmax = 129.93855912577473 
+           text = "<NOISE>"
+       intervals [56]:
+           xmin = 129.93855912577473 
+           xmax = 134.57 
+           text = "Now Benny bang Meerm board. No, no, no! Board move. Meerm see light."
+       intervals [57]:
+           xmin = 134.57 
+           xmax = 135.97486565368388 
+           text = "<NOISE>"
+       intervals [58]:
+           xmin = 135.97486565368388 
+           xmax = 146.75 
+           text = "Aye, look at this stuff! Damn me, there's a place back there! Aye, that where you are? That where you been hidin on Benny? Say somethin, will ya?"
+       intervals [59]:
+           xmin = 146.75 
+           xmax = 147.74 
+           text = "<NOISE>"
+       intervals [60]:
+           xmin = 147.74 
+           xmax = 148.23 
+           text = "Awright  "
+       intervals [61]:
+           xmin = 148.23 
+           xmax = 149.07 
+           text = "<NOISE>"
+       intervals [62]:
+           xmin = 149.07 
+           xmax = 150.09 
+           text = "That's the way you wanna be?"
+       intervals [63]:
+           xmin = 150.09 
+           xmax = 150.8312330958087 
+           text = "<NOISE>"
+       intervals [64]:
+           xmin = 150.8312330958087 
+           xmax = 155.11 
+           text = "Meerm hear Benny go but Meerm stay. Not move. Then hear Benny come back."
+       intervals [65]:
+           xmin = 155.11 
+           xmax = 155.63 
+           text = "<NOISE>"
+       intervals [66]:
+           xmin = 155.63 
+           xmax = 160.5 
+           text = "Hear chair drag across floor. Benny push board and big light shine in Meerm eye."
+       intervals [67]:
+           xmin = 160.5 
+           xmax = 161.69 
+           text = "<NOISE>"
+       intervals [68]:
+           xmin = 161.69 
+           xmax = 165.36 
+           text = "There you are, you lazy monkey. Playin hooky from the job  "
+       intervals [69]:
+           xmin = 165.36 
+           xmax = 166.5 
+           text = "<NOISE>"
+       intervals [70]:
+           xmin = 166.5 
+           xmax = 179.44599482074165 
+           text = "Wait, I'll tell the boss. Aye, you're a plump one, aintcha. Whatcha been doin? Eatin all day? You, wait a minute. Wait a freaking minute. You that sim they lookin for! The pregnant one."
+       intervals [71]:
+           xmin = 179.44599482074165 
+           xmax = 185.70371393738125 
+           text = "The five-million-dollar sim? Holy Christ! Holy Christ! You her! And I gotcha! I gotcha!"
+       intervals [72]:
+           xmin = 185.70371393738125 
+           xmax = 186.05 
+           text = "<NOISE>"
+       intervals [73]:
+           xmin = 186.05 
+           xmax = 191.23 
+           text = "Light go way, Benny go way, then closet door close. Meerm hear bumps against closet door."
+       intervals [74]:
+           xmin = 191.23 
+           xmax = 192.7 
+           text = "<NOISE>"
+       intervals [75]:
+           xmin = 192.7 
+           xmax = 193.64 
+           text = "What Benny say?"
+       intervals [76]:
+           xmin = 193.64 
+           xmax = 194.22 
+           text = "<NOISE>"
+       intervals [77]:
+           xmin = 194.22 
+           xmax = 203.23 
+           text = "Meerm pregnant sim. What pregnant? Meerm five-million-dollar sim. What five million? Meerm not understand. Meerm try understand later."
+       intervals [78]:
+           xmin = 203.23 
+           xmax = 203.85 
+           text = "<NOISE>"
+       intervals [79]:
+           xmin = 203.85 
+           xmax = 209.05 
+           text = "Now Meerm must run. Benny find Meerm. Benny will call man who hurts."
+       intervals [80]:
+           xmin = 209.05 
+           xmax = 209.89 
+           text = "<NOISE>"
+       intervals [81]:
+           xmin = 209.89 
+           xmax = 220.20303311732533 
+           text = "Meerm climb out on a closet shelf and drop to floor. Push on closet door but do not move. Meerm push so ver hard. Push, push, push, but door not move. Door locked. No, no, no!"
+       intervals [82]:
+           xmin = 220.20303311732533 
+           xmax = 220.72249574741048 
+           text = "<NOISE>"
+       intervals [83]:
+           xmin = 220.72249574741048 
+           xmax = 230.7654399290566 
+           text = "Meerm trapped. Meerm ver fraid and ver scare. Meerm shake inside and out, almost hard as kick, kick, kick. Meerm cry. Poor, poor Meerm."
+       intervals [84]:
+           xmin = 230.7654399290566 
+           xmax = 231.4291977341654 
+           text = "<NOISE>"
+       intervals [85]:
+           xmin = 231.4291977341654 
+           xmax = 233.03 
+           text = "Sussex County, New Jersey."
+       intervals [86]:
+           xmin = 233.03 
+           xmax = 234.29 
+           text = "<NOISE>"
+       intervals [87]:
+           xmin = 234.29 
+           xmax = 235.53 
+           text = "Mister Portero  "
+       intervals [88]:
+           xmin = 235.53 
+           xmax = 236.31 
+           text = "<NOISE>"
+       intervals [89]:
+           xmin = 236.31 
+           xmax = 243.88490645664731 

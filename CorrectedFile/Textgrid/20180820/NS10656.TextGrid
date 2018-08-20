@@ -1,0 +1,1060 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+xmin = 0 
+xmax = 1620.26 
+tiers? <exists> 
+size = 2 
+item []: 
+   item [1]:
+       class = "IntervalTier"
+       name = "???"
+       xmin = 0 
+       xmax = 1620.26 
+       intervals: size = 432 
+       intervals [1]:
+           xmin = 0 
+           xmax = 1.89 
+           text = "<NOISE>"
+       intervals [2]:
+           xmin = 1.89 
+           xmax = 4.339878226419476 
+           text = "Hi, I'm Sabrina. Here I have Larina."
+       intervals [3]:
+           xmin = 4.339878226419476 
+           xmax = 5.79 
+           text = "Let's read some novels."
+       intervals [4]:
+           xmin = 5.79 
+           xmax = 7.11 
+           text = "<NOISE>"
+       intervals [5]:
+           xmin = 7.11 
+           xmax = 8.99 
+           text = "That was what I saw on her housecoat."
+       intervals [6]:
+           xmin = 8.99 
+           xmax = 9.56 
+           text = "<NOISE>"
+       intervals [7]:
+           xmin = 9.56 
+           xmax = 11.92 
+           text = "The stuff she was eating. And what was on her breath."
+       intervals [8]:
+           xmin = 11.92 
+           xmax = 13.07 
+           text = "<NOISE>"
+       intervals [9]:
+           xmin = 13.07 
+           xmax = 14.206122448979592 
+           text = "His image of Annie"
+       intervals [10]:
+           xmin = 14.206122448979592 
+           xmax = 14.715306122448979 
+           text = "<NOISE>"
+       intervals [11]:
+           xmin = 14.715306122448979 
+           xmax = 16.833786848072563 
+           text = "as Piltdown woman recurred."
+       intervals [12]:
+           xmin = 16.833786848072563 
+           xmax = 17.405011337868483 
+           text = "<NOISE>"
+       intervals [13]:
+           xmin = 17.405011337868483 
+           xmax = 26.27 
+           text = "He saw her sitting in here and scooping ice-cream into her mouth, or maybe handfuls of half-congealed chicken gravy with a Pepsi chaser, simply eating and"
+       intervals [14]:
+           xmin = 26.27 
+           xmax = 28.3 
+           text = "drinking in a deep depressed daze."
+       intervals [15]:
+           xmin = 28.3 
+           xmax = 29.496108560391224 
+           text = "<NOISE>"
+       intervals [16]:
+           xmin = 29.496108560391224 
+           xmax = 32.64786848072562 
+           text = "The penguin sitting on his block of ice was still on the knick"
+       intervals [17]:
+           xmin = 32.64786848072562 
+           xmax = 33.170430839002265 
+           text = "<NOISE>"
+       intervals [18]:
+           xmin = 33.170430839002265 
+           xmax = 42.5115873015873 
+           text = "knack table, but she had thrown many of the other ceramic pieces into the comer, where their littered remains were scattered sharp little hooks and shards"
+       intervals [19]:
+           xmin = 42.5115873015873 
+           xmax = 43.01784580498866 
+           text = "<NOISE>"
+       intervals [20]:
+           xmin = 43.01784580498866 
+           xmax = 49.32442176870748 
+           text = "He kept seeing her fingers as they sank into the rat's body. The red smears of her fingers on the sheet."
+       intervals [21]:
+           xmin = 49.32442176870748 
+           xmax = 49.83517006802721 
+           text = "<NOISE>"
+       intervals [22]:
+           xmin = 49.83517006802721 
+           xmax = 56.36 
+           text = "He kept seeing her licking the blood from her fingers, doing it as absently as him as she must"
+       intervals [23]:
+           xmin = 56.36 
+           xmax = 57.97532879818594 
+           text = "have eaten the ice-cream and Jell-O"
+       intervals [24]:
+           xmin = 57.97532879818594 
+           xmax = 58.56625850340136 
+           text = "<NOISE>"
+       intervals [25]:
+           xmin = 58.56625850340136 
+           xmax = 60.188820861678 
+           text = "and soft black jellyroll cake."
+       intervals [26]:
+           xmin = 60.188820861678 
+           xmax = 60.694807256235826 
+           text = "<NOISE>"
+       intervals [27]:
+           xmin = 60.694807256235826 
+           xmax = 63.608707482993196 
+           text = "These images were hor terrible, but they were a"
+       intervals [28]:
+           xmin = 63.608707482993196 
+           xmax = 64.11725623582767 
+           text = "<NOISE>"
+       intervals [29]:
+           xmin = 64.11725623582767 
+           xmax = 65.64990929705216 
+           text = "wonderful incentive to hurry."
+       intervals [30]:
+           xmin = 65.64990929705216 
+           xmax = 66.2261224489796 
+           text = "<NOISE>"
+       intervals [31]:
+           xmin = 66.2261224489796 
+           xmax = 69.56437641723356 
+           text = "The spray of dried flowers on the coffee-table had overturned  "
+       intervals [32]:
+           xmin = 69.56437641723356 
+           xmax = 70.12349206349207 
+           text = "<NOISE>"
+       intervals [33]:
+           xmin = 70.12349206349207 
+           xmax = 77.17498866213153 
+           text = "beneath the table, barely visible, lay a dish of crusted custard pudding and a large book. Memory Lane, it said"
+       intervals [34]:
+           xmin = 77.17498866213153 
+           xmax = 77.69804988662132 
+           text = "<NOISE>"
+       intervals [35]:
+           xmin = 77.69804988662132 
+           xmax = 86.0374149659864 
+           text = "Trips down Memory Lane when you're feeling depressed are never a very good idea, Annie but I suppose you know that by this point in your life."
+       intervals [36]:
+           xmin = 86.0374149659864 
+           xmax = 86.90780045351475 
+           text = "<NOISE>"
+       intervals [37]:
+           xmin = 86.90780045351475 
+           xmax = 94.2631746031746 
+           text = "He rolled across the room. Straight ahead was the kitchen. On the right a wide, short hallway went down to Annie's front door."
+       intervals [38]:
+           xmin = 94.2631746031746 
+           xmax = 94.76854875283448 
+           text = "<NOISE>"
+       intervals [39]:
+           xmin = 94.76854875283448 
+           xmax = 100.29 
+           text = "Beside this hallways a flight of stairs went up to the second floor. Giving the stairs only a brief glance"
+       intervals [40]:
+           xmin = 100.29 
+           xmax = 100.93 
+           text = "<NOISE>"
+       intervals [41]:
+           xmin = 100.93 
+           xmax = 107.7003628117914 
+           text = "there were drips of ice-cream on some of the carpets steps stair levels and gazey glazey smears of it on the banister  "
+       intervals [42]:
+           xmin = 107.7003628117914 
+           xmax = 108.27576228144928 
+           text = "<NOISE>"
+       intervals [43]:
+           xmin = 108.27576228144928 
+           xmax = 111.31006802721089 
+           text = "Paul rolled down to the door. He thought that if"
+       intervals [44]:
+           xmin = 111.31006802721089 
+           xmax = 111.86031746031746 
+           text = "<NOISE>"
+       intervals [45]:
+           xmin = 111.86031746031746 
+           xmax = 120.3277097505669 
+           text = "there was going to be a way out for him, tied to this chair as he was, it would be by way of the kitchen door the one Annie used when she run out"
+       intervals [46]:
+           xmin = 120.3277097505669 
+           xmax = 120.9578911564626 
+           text = "<NOISE>"
+       intervals [47]:
+           xmin = 120.9578911564626 
+           xmax = 127.94634920634921 
+           text = "went out to feed the animals, the one she galloped from when Mr Rancho Grande showed up but he ought to check this one."
+       intervals [48]:
+           xmin = 127.94634920634921 
+           xmax = 128.52585034013606 
+           text = "<NOISE>"
+       intervals [49]:
+           xmin = 128.52585034013606 
+           xmax = 129.86641723356007 
+           text = "He might get a surprise."
+       intervals [50]:
+           xmin = 129.86641723356007 
+           xmax = 130.63927437641723 
+           text = "He didn't."
+       intervals [51]:
+           xmin = 130.63927437641723 
+           xmax = 131.98124716553286 
+           text = "<NOISE>"
+       intervals [52]:
+           xmin = 131.98124716553286 
+           xmax = 139.16 
+           text = "The porch stairs were every bit as steep as he had feared, but even if there had been a wheelchair ramp"
+       intervals [53]:
+           xmin = 139.16 
+           xmax = 140.02 
+           text = "<NOISE>"
+       intervals [54]:
+           xmin = 140.02 
+           xmax = 141.74 
+           text = "a possibility he never thought"
+       intervals [55]:
+           xmin = 141.74 
+           xmax = 143.16 
+           text = "<NOISE>"
+       intervals [56]:
+           xmin = 143.16 
+           xmax = 150.03396825396825 
+           text = "he never would have accepted it in a spirit game of Can You?, even if a friend had suggested it, he could not have used it."
+       intervals [57]:
+           xmin = 150.03396825396825 
+           xmax = 155.7 
+           text = "There were three locks on the door. The police-bar he could have coped with. The other two were Kreigs  "
+       intervals [58]:
+           xmin = 155.7 
+           xmax = 156.53 
+           text = "<NOISE>"
+       intervals [59]:
+           xmin = 156.53 
+           xmax = 161.47260770975055 
+           text = "the best locks in the whole world, according to his ex-cop friend friend Tom Howard"
+       intervals [60]:
+           xmin = 161.47260770975055 
+           xmax = 162.00340136054422 
+           text = "<NOISE>"
+       intervals [61]:
+           xmin = 162.00340136054422 
+           xmax = 162.47149659863945 
+           text = "Twyford."
+       intervals [62]:
+           xmin = 162.47149659863945 
+           xmax = 162.97430839002266 
+           text = "<NOISE>"
+       intervals [63]:
+           xmin = 162.97430839002266 
+           xmax = 168.33866213151927 
+           text = "And where were the keys? Umm. Let me see. On the way to Annie's Laughing Place, maybe?"
+       intervals [64]:
+           xmin = 168.33866213151927 
+           xmax = 168.84024943310658 
+           text = "<NOISE>"
+       intervals [65]:
+           xmin = 168.84024943310658 
+           xmax = 169.66696145124715 
+           text = "Yes siree Bob!"
+       intervals [66]:
+           xmin = 169.66696145124715 
+           xmax = 170.33709750566894 
+           text = "<NOISE>"
+       intervals [67]:
+           xmin = 170.33709750566894 
+           xmax = 173.02 
+           text = "Give that man a cigar and a blowtorch to light it with!"
+       intervals [68]:
+           xmin = 173.02 
+           xmax = 173.5282653611064 
+           text = "<NOISE>"
+       intervals [69]:
+           xmin = 173.5282653611064 
+           xmax = 179.96932097650946 
+           text = "He reversed down the hall, fighting panic, reminding, himself he hadn't expected much from the front door anyway."
+       intervals [70]:
+           xmin = 179.96932097650946 
+           xmax = 184.2 
+           text = "He pivoted the chair once he was in the parlor and rolled into the kitchen."
+       intervals [71]:
+           xmin = 184.2 
+           xmax = 184.85 
+           text = "<NOISE>"
+       intervals [72]:
+           xmin = 184.85 
+           xmax = 193.4022387681089 
+           text = "This was an old-fashioned room with bright linoleum on the floor and a pressed-tin ceiling. The refrigerator was old but quiet."
+       intervals [73]:
+           xmin = 193.4022387681089 
+           xmax = 199.0554266362092 
+           text = "There were three or four, magnets stuck to its door - not surprisingly, they all looked, like candy."
+       intervals [74]:
+           xmin = 199.0554266362092 
+           xmax = 202.65090702947845 
+           text = "a piece of bubble-gum, a Hershey Bar, a Tootsie Roll."
+       intervals [75]:
+           xmin = 202.65090702947845 
+           xmax = 203.16795918367347 
+           text = "<NOISE>"
+       intervals [76]:
+           xmin = 203.16795918367347 
+           xmax = 208.0485449320539 
+           text = "One of the cabinet doors was open and he could see shelves neatly covered with oilcloth."
+       intervals [77]:
+           xmin = 208.0485449320539 
+           xmax = 212.25 
+           text = "There were big window over the sink and they would let in a"
+       intervals [78]:
+           xmin = 212.25 
+           xmax = 219.64080779845202 
+           text = "lot of light even on cloudy days. It should have been a cheery kitchen but wasn't. The open garbage can overflowed onto"
+       intervals [79]:
+           xmin = 219.64080779845202 
+           xmax = 224.6 
+           text = "the floor and emitted the warm reek of spoiling food, but that wasn't the only thing"
+       intervals [80]:
+           xmin = 224.6 
+           xmax = 234.77 
+           text = "wrong, or the worst smell. There was another that seemed to exist mostly in his mind, but which was no less real for that. It was parfum de Wilkes  "
+       intervals [81]:
+           xmin = 234.77 
+           xmax = 235.61 
+           text = "<NOISE>"
+       intervals [82]:
+           xmin = 235.61 
+           xmax = 236.1 
+           text = "a"
+       intervals [83]:
+           xmin = 236.1 
+           xmax = 238.23227407971672 
+           text = "<NOISE>"
+       intervals [84]:
+           xmin = 238.23227407971672 
+           xmax = 240.62 
+           text = "a psychic odor of obsession."
+       intervals [85]:
+           xmin = 240.62 
+           xmax = 243.99 
+           text = "<NOISE>"
+       intervals [86]:
+           xmin = 243.99 
+           xmax = 249.53 
+           text = "There were three doors in the room, two to the left and one straight ahead, between the refrigerator and the pantry alcove."
+       intervals [87]:
+           xmin = 249.53 
+           xmax = 250.64 
+           text = "<NOISE>"
+       intervals [88]:
+           xmin = 250.64 
+           xmax = 252.44 
+           text = "He went to those on the left first."
+       intervals [89]:
+           xmin = 252.44 
+           xmax = 253.56 
+           text = "<NOISE>"
+       intervals [90]:
+           xmin = 253.56 
+           xmax = 259.16 
+           text = "One was the kitchen closet - he knew that even before he saw the coats, hats, scarves, and"
+       intervals [91]:
+           xmin = 259.16 
+           xmax = 260 
+           text = "<NOISE>"
+       intervals [92]:
+           xmin = 260 
+           xmax = 269.5213766555703 
+           text = "The brief, yapping squeak of the hinges was enough to tell him. The other was the one Annie used to go out. And here was another police-bar and two more Kreigs."
+       intervals [93]:
+           xmin = 269.5213766555703 
+           xmax = 272.3885059265886 
+           text = "Roydmans, stay out. Paul, stay in."
+       intervals [94]:
+           xmin = 272.3885059265886 
+           xmax = 274.3880902787584 
+           text = "He imagined her laughing"
+       intervals [95]:
+           xmin = 274.3880902787584 
+           xmax = 276.22 
+           text = "<NOISE>"
+       intervals [96]:
+           xmin = 276.22 
+           xmax = 284.8038452539633 
+           text = "You fucking shrew! He struck his fist against the side of the door. It hurt, and he pressed the side of his hand against his mouth. He hated the sting of tears  "
+       intervals [97]:
+           xmin = 284.8038452539633 
+           xmax = 289.8 
+           text = "the momentary doubling of his vision when he blinked, but"
+       intervals [98]:
+           xmin = 289.8 
+           xmax = 293.91 
+           text = "there was no way he could stop it. The panic was yammering more loudly now  "
+       intervals [99]:
+           xmin = 293.91 
+           xmax = 294.53 
+           text = "<NOISE>"
+       intervals [100]:
+           xmin = 294.53 
+           xmax = 300.8113137841553 
+           text = "asking what was he going to do, what was he going to do, for Christ's sake, this might be his last chance"
+       intervals [101]:
+           xmin = 300.8113137841553 
+           xmax = 306.72 
+           text = "What I'm going to do first is a thorough job of checking this situation out, he told himself grimly."
+       intervals [102]:
+           xmin = 306.72 
+           xmax = 307.24 
+           text = "<NOISE>"
+       intervals [103]:
+           xmin = 307.24 
+           xmax = 311.98 
+           text = "If you can stay cool for just awhile longer, that is. Think you can do that, chickenshit?"
+       intervals [104]:
+           xmin = 311.98 
+           xmax = 313.95 
+           text = "<NOISE>"
+       intervals [105]:
+           xmin = 313.95 
+           xmax = 321.4520236245241 
+           text = "He wiped his eyes - crying was not going to get him out, of this and looked out through the window which made up the top half of the door."
+       intervals [106]:
+           xmin = 321.4520236245241 
+           xmax = 325.01 
+           text = "It wasn't really just one window but sixteen small panes. "
+       intervals [107]:
+           xmin = 325.01 
+           xmax = 326.24 
+           text = "<NOISE>"
+       intervals [108]:
+           xmin = 326.24 
+           xmax = 330.27 
+           text = "He could break the glass in each, but he would have to bust the lathes  "
+       intervals [109]:
+           xmin = 330.27 
+           xmax = 330.87 
+           text = "<NOISE>"
+       intervals [110]:
+           xmin = 330.87 
+           xmax = 331.51 
+           text = "laughs"
+       intervals [111]:
+           xmin = 331.51 
+           xmax = 332.02 
+           text = "<NOISE>"
+       intervals [112]:
+           xmin = 332.02 
+           xmax = 340.66 
+           text = "too, and that might take hours without a saw - they looked strong. And what then? A kamikaze dive out onto the back porch?"
+       intervals [113]:
+           xmin = 340.66 
+           xmax = 341.37 
+           text = "<NOISE>"
+       intervals [114]:
+           xmin = 341.37 
+           xmax = 347.7136907446939 
+           text = "A great idea. Maybe he could break his back, and that would take his mind off his legs for awhile."
+       intervals [115]:
+           xmin = 347.7136907446939 
+           xmax = 356.64326276779684 
+           text = "But it wouldn't take long, lying out there in the pelting rain before he died of exposure. That would take care of the whole rotten business."
+       intervals [116]:
+           xmin = 356.64326276779684 
+           xmax = 365.09 
+           text = "No way. No fucking way. Maybe I'm going to punch out, but I swear to God I'm not going to do it until I get a chance to show my number-one fan just"
+       intervals [117]:
+           xmin = 365.09 
+           xmax = 370.49 
+           text = "how much I've enjoyed getting to know her. And that isn't just a promise - that's a sacred vow."
+       intervals [118]:
+           xmin = 370.49 
+           xmax = 373.02 
+           text = "<NOISE>"
+       intervals [119]:
+           xmin = 373.02 
+           xmax = 381.43 
+           text = "The idea of paying Annie back did more to still his panic than any amount of self-scolding had done. A little calmer  "
+       intervals [120]:
+           xmin = 381.43 
+           xmax = 382.12 
+           text = "<NOISE>"
+       intervals [121]:
+           xmin = 382.12 
+           xmax = 387.4833804338465 
+           text = "he flicked the switch beside the locked door. It turned on an outside light, which came in handy"
+       intervals [122]:
+           xmin = 387.4833804338465 
+           xmax = 393.07 
+           text = "the last of the daylight had drained away during the time since he had left his room. Annie's driveway was"
+       intervals [123]:
+           xmin = 393.07 
+           xmax = 399.41165210988066 
+           text = "flooded, and her yard was a quagmire of mud, standing water, and gobbets of melting snow."
+       intervals [124]:
+           xmin = 399.41165210988066 
+           xmax = 405.03 
+           text = "By positioning his wheelchair all the way to the left of the door, he could for the first time see the road"
+       intervals [125]:
+           xmin = 405.03 
+           xmax = 405.61 
+           text = "<NOISE>"
+       intervals [126]:
+           xmin = 405.61 
+           xmax = 419.25248950571245 
+           text = "which ran by her place, although it was really no big deal two lane blacktop between decaying snowbanks, shiny as sealskin and awash with rainwater and snowmelt."
+       intervals [127]:
+           xmin = 419.25248950571245 
+           xmax = 428.35 
+           text = "Maybe she locked the doors to keep the Roydmans out, but she sure didn't need to lock them to keep me in. If I got out there in this wheelchair, I'd be bogged to the"
+       intervals [128]:
+           xmin = 428.35 
+           xmax = 428.99 
+           text = "<NOISE>"
+       intervals [129]:
+           xmin = 428.99 
+           xmax = 434.88899993634226 
+           text = "hubcaps in five seconds. You're not going anywhere, Paul. Not tonight and probably not for weeks"
+       intervals [130]:
+           xmin = 434.88899993634226 
+           xmax = 440.33 
+           text = "they'll be a month into the baseball season before the ground firms up enough for you to get out to the"
+       intervals [131]:
+           xmin = 440.33 
+           xmax = 444.32 
+           text = "road in this wheelchair. Unless you want to crash through a window and crawl."
+       intervals [132]:
+           xmin = 444.32 
+           xmax = 445.19 
+           text = "<NOISE>"
+       intervals [133]:
+           xmin = 445.19 
+           xmax = 452.30283351308554 
+           text = "No he didn't want to do that. It was too easy to imagine how his shattered bones would feel after ten or fifteen minutes of wriggling through"
+       intervals [134]:
+           xmin = 452.30283351308554 
+           xmax = 456.54 
+           text = "cold puddles and melting snow, like a dying tadpole. And even"
+       intervals [135]:
+           xmin = 456.54 
+           xmax = 464.24 
+           text = "supposing he could make it out to the road, what were his chances of flagging down a car? The only two he'd ever heard out here  "
+       intervals [136]:
+           xmin = 464.24 
+           xmax = 465.02 
+           text = "<NOISE>"
+       intervals [137]:
+           xmin = 465.02 
+           xmax = 475.36 
+           text = "other than Old Bessie, had been El Rancho Grande's Bel Air and the car which had scared the life out of him passing the house on the first occasion he had escaped his guest-room."
+       intervals [138]:
+           xmin = 475.36 
+           xmax = 476.48 
+           text = "<NOISE>"
+       intervals [139]:
+           xmin = 476.48 
+           xmax = 482.79838487898564 
+           text = "He turned off the outside light and rolled across to the, other door, the one between the refrigerator and the pantry."
+       intervals [140]:
+           xmin = 482.79838487898564 
+           xmax = 486.9 
+           text = "There were three locks on this one as well, and it didn't even open on the outside"
+       intervals [141]:
+           xmin = 486.9 
+           xmax = 487.31 
+           text = "<NOISE>"
+       intervals [142]:
+           xmin = 487.31 
+           xmax = 496.16520782391507 
+           text = "or at least not directly. There was another light-switch beside this door. Paul flicked it and saw a neat shed addition which ran the length of the house"
+       intervals [143]:
+           xmin = 496.16520782391507 
+           xmax = 499.94 
+           text = "on its windward side. At one end was a woodpile and a"
+       intervals [144]:
+           xmin = 499.94 
+           xmax = 505.955380561162 
+           text = "chopping block with an axe buried in it. At the other was a work-table and tools hung on pegs."
+       intervals [145]:
+           xmin = 505.955380561162 
+           xmax = 512.14 
+           text = "To its left there was another door. The bulb out there wasn't terribly bright, but it was bright enough for"
+       intervals [146]:
+           xmin = 512.14 
+           xmax = 512.51 
+           text = "him"
+       intervals [147]:
+           xmin = 512.51 
+           xmax = 513.52 
+           text = "<NOISE>"
+       intervals [148]:
+           xmin = 513.52 
+           xmax = 518.8250469018785 
+           text = "to see another police bolt and another two Kreig locks on that door as well."
+       intervals [149]:
+           xmin = 518.8250469018785 
+           xmax = 519.6060090702948 
+           text = "<NOISE>"
+       intervals [150]:
+           xmin = 519.6060090702948 
+           xmax = 521.7595018602576 
+           text = "The Roydmans. everybody."
+       intervals [151]:
+           xmin = 521.7595018602576 
+           xmax = 522.4087175590141 
+           text = "<NOISE>"
+       intervals [152]:
+           xmin = 522.4087175590141 
+           xmax = 523.6886084496322 
+           text = "all out to get me."
+       intervals [153]:
+           xmin = 523.6886084496322 
+           xmax = 531.8437541372389 
+           text = "I don't know about them, he said to the empty kitchen, but I sure am. Giving up on the doors, he rolled into the pantry."
+       intervals [154]:
+           xmin = 531.8437541372389 
+           xmax = 535.32 
+           text = "Before he looked at the food stored on the shelves, he looked at"
+       intervals [155]:
+           xmin = 535.32 
+           xmax = 543.5830717434504 
+           text = "the matches. There were two cartons of paper book matches and at least two dozen boxes of Diamond Blue Tips, neatly stacked up."
+       intervals [156]:
+           xmin = 543.5830717434504 
+           xmax = 550.6912340589764 
+           text = "For a moment he considered simply lighting the place on fire, began to reject the idea as the most ridiculous yet  "
+       intervals [157]:
+           xmin = 550.6912340589764 
+           xmax = 557.6679904974665 
+           text = "and then saw something which made him reconsider it briefly. In here was yet another door, and this one had no locks on it."
+       intervals [158]:
+           xmin = 557.6679904974665 
+           xmax = 561.3 
+           text = "He opened it and saw a set of steep, rickety stairs"
+       intervals [159]:
+           xmin = 561.3 
+           xmax = 561.79 
+           text = "<NOISE>"
+       intervals [160]:
+           xmin = 561.79 
+           xmax = 569.7888228297751 
+           text = "pitching and yawing their way into the cellar. An almost vicious smell of dampness and rotting vegetables rose from the dark."
+       intervals [161]:
+           xmin = 569.7888228297751 
+           xmax = 573.83 
+           text = "He heard low squeaking sounds and thought of her saying. They come into the"
+       intervals [162]:
+           xmin = 573.83 
+           xmax = 577.0474376417234 
+           text = "cellar when it rains. I put down traps. I have to."
+       intervals [163]:
+           xmin = 577.0474376417234 
+           xmax = 577.575351473923 
+           text = "<NOISE>"
+       intervals [164]:
+           xmin = 577.575351473923 
+           xmax = 586.8426530612245 
+           text = "He slammed the door shut in a hurry. A drop of sweat trickled down from his temple and ran, stingly, into the corner of his right eye. He knuckled it away."
+       intervals [165]:
+           xmin = 586.8426530612245 
+           xmax = 594.3446938775511 
+           text = "Knowing that door must lead to the cellar and seeing that there were no locks on it had made the idea of torching the place seem momentarily more rational"
+       intervals [166]:
+           xmin = 594.3446938775511 
+           xmax = 594.874739229025 
+           text = "<NOISE>"
+       intervals [167]:
+           xmin = 594.874739229025 
+           xmax = 597.8386394557823 
+           text = "he could maybe shelter there. But the stairs were too steep  "
+       intervals [168]:
+           xmin = 597.8386394557823 
+           xmax = 603.2050979580832 
+           text = "the possibility of being burned alive if Annie's flaming house collapsed into the cellar-hole"
+       intervals [169]:
+           xmin = 603.2050979580832 
+           xmax = 609.7126984126985 
+           text = "before the Sidewinder fire engines could get here was too real, and the rats down there, the sound of the rats"
+       intervals [170]:
+           xmin = 609.7126984126985 
+           xmax = 610.2313151927438 
+           text = "<NOISE>"
+       intervals [171]:
+           xmin = 610.2313151927438 
+           xmax = 611.5060052078101 
+           text = "was somehow the worst."
+       intervals [172]:
+           xmin = 611.5060052078101 
+           xmax = 612.1359410430839 
+           text = "<NOISE>"
+       intervals [173]:
+           xmin = 612.1359410430839 
+           xmax = 612.9759183673469 
+           text = "How its heart"
+       intervals [174]:
+           xmin = 612.9759183673469 
+           xmax = 613.4813605442178 
+           text = "<NOISE>"
+       intervals [175]:
+           xmin = 613.4813605442178 
+           xmax = 618.36 
+           text = "beats! How it struggles to get away! As we do, Paul. As we do."
+       intervals [176]:
+           xmin = 618.36 
+           xmax = 619.04 
+           text = "<NOISE>"
+       intervals [177]:
+           xmin = 619.04 
+           xmax = 621.8837868480726 
+           text = "Africa, Paul said, and didn't hear himself say it."
+       intervals [178]:
+           xmin = 621.8837868480726 
+           xmax = 622.3863492063492 
+           text = "<NOISE>"
+       intervals [179]:
+           xmin = 622.3863492063492 
+           xmax = 626.0151528909993 
+           text = "He began to look at the cans and the bags of food in the pantry  "
+       intervals [180]:
+           xmin = 626.0151528909993 
+           xmax = 629.5721315192744 
+           text = "trying to assess what he could take with the least chance of raising he her"
+       intervals [181]:
+           xmin = 629.5721315192744 
+           xmax = 630.2224489795918 
+           text = "<NOISE>"
+       intervals [182]:
+           xmin = 630.2224489795918 
+           xmax = 637.8502721088436 
+           text = "suspicions next time she came out here. Part of him understood exactly what this assessment meant, he had given up the idea of escape."
+       intervals [183]:
+           xmin = 637.8502721088436 
+           xmax = 638.67 
+           text = "<NOISE>"
+       intervals [184]:
+           xmin = 638.67 
+           xmax = 641.8584537954943 
+           text = "Only for the time being, his troubled mind protested."
+       intervals [185]:
+           xmin = 641.8584537954943 
+           xmax = 646.9484580498867 
+           text = "No, a deeper voice responded implacably. Forever, Paul. Forever."
+       intervals [186]:
+           xmin = 646.9484580498867 
+           xmax = 657.2318815420467 
+           text = "I will never give up, he whispered. Do you hear me? Never. Oh no? the voice of the cynic whispered sardonically. Well. we'll see, won't we?"
+       intervals [187]:
+           xmin = 657.2318815420467 
+           xmax = 658.7899992190621 
+           text = "Yes. They would see."
+       intervals [188]:
+           xmin = 658.7899992190621 
+           xmax = 659.3613090339678 
+           text = "<NOISE>"
+       intervals [189]:
+           xmin = 659.3613090339678 
+           xmax = 659.89 
+           text = "Annie's"
+       intervals [190]:
+           xmin = 659.89 
+           xmax = 660.89 
+           text = "<NOISE>"
+       intervals [191]:
+           xmin = 660.89 
+           xmax = 668.0362509127401 
+           text = "larder looked more like a survivalist's bomb shelter than a pantry. He guessed that some of this"
+       intervals [192]:
+           xmin = 668.0362509127401 
+           xmax = 675.14 
+           text = "hoarding was a simple nod to the realities of her situation: she was a woman alone living in the high country  "
+       intervals [193]:
+           xmin = 675.14 
+           xmax = 675.24 
+           text = "<NOISE>"
+       intervals [194]:
+           xmin = 675.24 
+           xmax = 683.0773648114792 
+           text = "where a person might reasonably expect to spend a certain period - maybe only a day, but sometimes as long as a week or even two"
+       intervals [195]:
+           xmin = 683.0773648114792 
+           xmax = 687.01 
+           text = "cut off from the rest of the world. Probably even those cockadoodie Royd"
+       intervals [196]:
+           xmin = 687.01 
+           xmax = 695.5709921251588 
+           text = "mans had a pantry that would make a homeowner from another part of the country raise his or her brows. but he doubted if the cockadoodie"
+       intervals [197]:
+           xmin = 695.5709921251588 
+           xmax = 700.35 
+           text = "Roydmans or anyone else up here had anything which"
+       intervals [198]:
+           xmin = 700.35 
+           xmax = 702.58 
+           text = "came close to what he was now looking at."
+       intervals [199]:
+           xmin = 702.58 
+           xmax = 703.51 
+           text = "<NOISE>"
+       intervals [200]:
+           xmin = 703.51 
+           xmax = 710.2091383219955 
+           text = "This is no pantry, this is a Goddam supermarket. He supposed there was a certain symbolism in Annie's pantry the ranks of"
+       intervals [201]:
+           xmin = 710.2091383219955 
+           xmax = 715.1961904761905 
+           text = "goods has something to say about the murkiness of the borderline between the Sovereign"
+       intervals [202]:
+           xmin = 715.1961904761905 
+           xmax = 718.5487074829932 
+           text = "State of Reality and the People's Republic of Paranoia."
+       intervals [203]:
+           xmin = 718.5487074829932 
+           xmax = 719.0927664399094 
+           text = "<NOISE>"
+       intervals [204]:
+           xmin = 719.0927664399094 
+           xmax = 727.05 
+           text = "In his current situation, however, such niceties hardly seemed worth examination. Fuck the symbolism. Go for the food."
+       intervals [205]:
+           xmin = 727.05 
+           xmax = 730.1 
+           text = "<NOISE>"
+       intervals [206]:
+           xmin = 730.1 
+           xmax = 733.58 
+           text = "Yes, but be careful. It wasn't just a matter of what she might miss."
+       intervals [207]:
+           xmin = 733.58 
+           xmax = 734.61 
+           text = "<NOISE>"
+       intervals [208]:
+           xmin = 734.61 
+           xmax = 736.1302721088435 
+           text = "He must take nor more than he"
+       intervals [209]:
+           xmin = 736.1302721088435 
+           xmax = 736.6417006802722 
+           text = "<NOISE>"
+       intervals [210]:
+           xmin = 736.6417006802722 
+           xmax = 742.3133333333334 
+           text = "would reasonably hope to hide if she came back suddenly and how else did he think she would come?"
+       intervals [211]:
+           xmin = 742.3133333333334 
+           xmax = 742.8256462585034 
+           text = "<NOISE>"
+       intervals [212]:
+           xmin = 742.8256462585034 
+           xmax = 746.68 
+           text = "Her phone was dead and he somehow doubted if Annie would send him a telegram"
+       intervals [213]:
+           xmin = 746.68 
+           xmax = 747.7748299319728 
+           text = "or Flowers by Wire."
+       intervals [214]:
+           xmin = 747.7748299319728 
+           xmax = 748.2855782312926 
+           text = "<NOISE>"
+       intervals [215]:
+           xmin = 748.2855782312926 
+           xmax = 752.259410430839 
+           text = "But in the end what she might miss in here or find in his room hardly mattered."
+       intervals [216]:
+           xmin = 752.259410430839 
+           xmax = 752.7998639455783 
+           text = "<NOISE>"
+       intervals [217]:
+           xmin = 752.7998639455783 
+           xmax = 755.9831519274377 
+           text = "After all, he had to eat. He was hooked on that, too."
+       intervals [218]:
+           xmin = 755.9831519274377 
+           xmax = 764.496456958067 
+           text = "Sardines. There were lots of sardines in those flat rectangular cans with the key under the paper. Good. He would have some of those."
+       intervals [219]:
+           xmin = 764.496456958067 
+           xmax = 771.57 
+           text = "Tins of deviled ham. No keys, but he could open a couple of cans in her kitchen, and eat those first Bury the empties"
+       intervals [220]:
+           xmin = 771.57 
+           xmax = 771.6 
+           text = "<NOISE>"
+       intervals [221]:
+           xmin = 771.6 
+           xmax = 782.0456393487435 
+           text = "deep in her own overflowing garbage There was an open package of Sun-Maid raisins containing smaller boxes, which the ad-copy on the torn"
+       intervals [222]:
+           xmin = 782.0456393487435 
+           xmax = 785.85 
+           text = "cellophane wrapper called mini-snacks. Paul added four of"
+       intervals [223]:
+           xmin = 785.85 
+           xmax = 793.0196269952503 
+           text = "the mini-snacks to the growing stash in his lap, plus single-serving boxes of Corn Flakes and Wheaties."
+       intervals [224]:
+           xmin = 793.0196269952503 
+           xmax = 793.6 
+           text = "<NOISE>"
+       intervals [225]:
+           xmin = 793.6 
+           xmax = 801.17 
+           text = "He noted there were no single-serving boxes of pre-sweetened cereals. If there had been, Annie had chowed them down on her last binge."
+       intervals [226]:
+           xmin = 801.17 
+           xmax = 805.86 
+           text = "<NOISE>"
+       intervals [227]:
+           xmin = 805.86 
+           xmax = 814.86 
+           text = "On a higher shelf was a pile of Slim Jims, as neatly stacked as the kindling in Annie's shed. He took four, trying not to disturb the pyramidal"
+       intervals [228]:
+           xmin = 814.86 
+           xmax = 815.78 
+           text = "<NOISE>"
+       intervals [229]:
+           xmin = 815.78 
+           xmax = 824.89 
+           text = "structure of the pile, and ate one of them greedily, relishing the salty taste and the grease. He tucked the wrapping into his underwear for later disposal."
+       intervals [230]:
+           xmin = 824.89 
+           xmax = 825.76 
+           text = "<NOISE>"
+       intervals [231]:
+           xmin = 825.76 
+           xmax = 833.1965526115478 
+           text = "His legs were beginning to hurt. He decided that if he, wasn't going to escape or burn the house down, he ought go on back to his room."
+       intervals [232]:
+           xmin = 833.1965526115478 
+           xmax = 837.61 
+           text = "An anticlimax, but things could worse. He could take a couple of pills and"
+       intervals [233]:
+           xmin = 837.61 
+           xmax = 846.321988219567 
+           text = "then write until he got drowsy. Then he could go to sleep. He doubted if she would be back tonight, far from abating, the storm was gaining strength."
+       intervals [234]:
+           xmin = 846.321988219567 
+           xmax = 849.59 
+           text = "The idea of writing quietly and then sleeping with"
+       intervals [235]:
+           xmin = 849.59 
+           xmax = 859.4 
+           text = "the knowledge that he was perfectly alone, that Annie was not going to burst in with some wild idea or even wilder demand, held great appeal, anticlimax or not."
+       intervals [236]:
+           xmin = 859.4 
+           xmax = 861.35 
+           text = "<NOISE>"
+       intervals [237]:
+           xmin = 861.35 
+           xmax = 866.62 
+           text = "He reversed out of the pantry, pausing to turn off the light, reminding himself that he must rinse"
+       intervals [238]:
+           xmin = 866.62 
+           xmax = 867.21 
+           text = "<NOISE>"
+       intervals [239]:
+           xmin = 867.21 
+           xmax = 867.7 
+           text = "rinse"
+       intervals [240]:
+           xmin = 867.7 
+           xmax = 868.64 
+           text = "<NOISE>"
+       intervals [241]:
+           xmin = 868.64 
+           xmax = 878.25 
+           text = "put everything back in order as he made his retreat. If he ran out of food before she came back, he could always return for more like a hungry rat, right, Paulie?"
+       intervals [242]:
+           xmin = 878.25 
+           xmax = 878.84 
+           text = "<NOISE>"
+       intervals [243]:
+           xmin = 878.84 
+           xmax = 883.78 
+           text = "ut he must not forget how careful he must be. It would not"
+       intervals [244]:
+           xmin = 883.78 
+           xmax = 884.63 
+           text = "<NOISE>"
+       intervals [245]:
+           xmin = 884.63 
+           xmax = 891.61 
+           text = "It would not do to forget the simple fact that he was risking his life every time he left his room. Forgetting that would not do at all."
+       intervals [246]:
+           xmin = 891.61 
+           xmax = 892.45 
+           text = "<NOISE>"
+       intervals [247]:
+           xmin = 892.45 
+           xmax = 899.0555825423576 
+           text = "As he was rolling across the parlor, the scrapbook under the coffee table caught his eye again. memory lane . It was as big"
+       intervals [248]:
+           xmin = 899.0555825423576 
+           xmax = 902.8572335149038 
+           text = "as a folio Shakespeare play and as thick as a family Bible."
+       intervals [249]:
+           xmin = 902.8572335149038 
+           xmax = 905.0816553287982 
+           text = "Curious, he picked it up and opened it."
+       intervals [250]:
+           xmin = 905.0816553287982 
+           xmax = 908.3625826403584 
+           text = "Outside, the wind gusted. Rain tore against the house."
+       intervals [251]:
+           xmin = 908.3625826403584 
+           xmax = 912.8291866478027 
+           text = "Fascinated, his pain temporarily forgotten, Paul turned the page."
+       intervals [252]:
+           xmin = 912.8291866478027 
+           xmax = 917.1 
+           text = "The next clipping was from page one of the Bakersfield Journal."
+       intervals [253]:
+           xmin = 917.1 
+           xmax = 917.23 
+           text = "<NOISE>"
+       intervals [254]:
+           xmin = 917.23 
+           xmax = 925.0872335600908 
+           text = "The photo showed a fireman on a ladder, silhouetted against a background of flames billowing from the window of a frame building."
+       intervals [255]:
+           xmin = 925.0872335600908 
+           xmax = 928.2904434933123 
+           text = "Five die in apartment house fire."
+       intervals [256]:
+           xmin = 928.2904434933123 
+           xmax = 930.09 
+           text = "I never saw him again, she said."
+       intervals [257]:
+           xmin = 930.09 
+           xmax = 930.43 
+           text = "<NOISE>"
+       intervals [258]:
+           xmin = 930.43 
+           xmax = 933.44 
+           text = "I weep for Mrs Krenmitz and her loss  "
+       intervals [259]:
+           xmin = 933.44 
+           xmax = 935.12 
+           text = "<NOISE>"
+       intervals [260]:
+           xmin = 935.12 
+           xmax = 936.48 
+           text = "Crysilda Wilkes"
+       intervals [261]:
+           xmin = 936.48 
+           xmax = 937.4 
+           text = "<NOISE>"
+       intervals [262]:
+           xmin = 937.4 
+           xmax = 942.46 

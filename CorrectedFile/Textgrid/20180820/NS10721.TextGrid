@@ -1,0 +1,4147 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+xmin = 0 
+xmax = 1654.91 
+tiers? <exists> 
+size = 2 
+item []: 
+   item [1]:
+       class = "IntervalTier"
+       name = "???"
+       xmin = 0 
+       xmax = 1654.91 
+       intervals: size = 516 
+       intervals [1]:
+           xmin = 0 
+           xmax = 0.03 
+           text = "<NOISE>"
+       intervals [2]:
+           xmin = 0.03 
+           xmax = 1.07 
+           text = "Hi, I'm Shannon."
+       intervals [3]:
+           xmin = 1.07 
+           xmax = 2.1 
+           text = "<NOISE>"
+       intervals [4]:
+           xmin = 2.1 
+           xmax = 4.89 
+           text = "Hi, I'm Christina. Let's read some novels."
+       intervals [5]:
+           xmin = 4.89 
+           xmax = 6.02 
+           text = "<NOISE>"
+       intervals [6]:
+           xmin = 6.02 
+           xmax = 7.684234626300852 
+           text = "What's it to you what he asked?"
+       intervals [7]:
+           xmin = 7.684234626300852 
+           xmax = 8.232556291390729 
+           text = "<NOISE>"
+       intervals [8]:
+           xmin = 8.232556291390729 
+           xmax = 12.46 
+           text = "Dez glared at him for a moment, then her eyes shifted away. Sorry."
+       intervals [9]:
+           xmin = 12.46 
+           xmax = 13.63 
+           text = "<NOISE>"
+       intervals [10]:
+           xmin = 13.63 
+           xmax = 17.25 
+           text = "J T pointed a finger at her. Don't take that tone with me, girl."
+       intervals [11]:
+           xmin = 17.25 
+           xmax = 18.26 
+           text = "<NOISE>"
+       intervals [12]:
+           xmin = 18.26 
+           xmax = 25.11040400685113 
+           text = "Dez's hands were clenched into fists. Listen, Doctor Phil, I don't need you to tell me how messed up my life is."
+       intervals [13]:
+           xmin = 25.11040400685113 
+           xmax = 31.60368688291546 
+           text = "The real news flash is that I'm doing okay with it. Messed up is my comfort zone, so stop trying to be my mother."
+       intervals [14]:
+           xmin = 31.60368688291546 
+           xmax = 32.72 
+           text = "<NOISE>"
+       intervals [15]:
+           xmin = 32.72 
+           xmax = 37.08221742641737 
+           text = "In a softer tone, J T said, It matters a lot what happens to you, Dez."
+       intervals [16]:
+           xmin = 37.08221742641737 
+           xmax = 37.659398126511974 
+           text = "<NOISE>"
+       intervals [17]:
+           xmin = 37.659398126511974 
+           xmax = 42.84 
+           text = "You've been a raging shrew since the last breakup. You were drinking too much before, and now."
+       intervals [18]:
+           xmin = 42.84 
+           xmax = 44 
+           text = "<NOISE>"
+       intervals [19]:
+           xmin = 44 
+           xmax = 48.2151091988185 
+           text = "Dez stabbed a finger toward the mortuary. Is this about what happened in there?"
+       intervals [20]:
+           xmin = 48.2151091988185 
+           xmax = 51.851347609414525 
+           text = "You trying to build a case for diminished capacity or something?"
+       intervals [21]:
+           xmin = 51.851347609414525 
+           xmax = 57.30570522530856 
+           text = "Poor Dez, she's so torn up with a broken heart that she's been pickling her brain in Jack Daniels."
+       intervals [22]:
+           xmin = 57.30570522530856 
+           xmax = 61.80771468604649 
+           text = "Can't trust a freaking word she says these days. Pink elephants and"
+       intervals [23]:
+           xmin = 61.80771468604649 
+           xmax = 62.990935121240426 
+           text = "<NOISE>"
+       intervals [24]:
+           xmin = 62.990935121240426 
+           xmax = 65.11 
+           text = "If I was your mother I'd send you to your room."
+       intervals [25]:
+           xmin = 65.11 
+           xmax = 66.73 
+           text = "<NOISE>"
+       intervals [26]:
+           xmin = 66.73 
+           xmax = 70.16 
+           text = "you sold me out in there. You didn't believe me and you didn't back me up."
+       intervals [27]:
+           xmin = 70.16 
+           xmax = 71.22 
+           text = "<NOISE>"
+       intervals [28]:
+           xmin = 71.22 
+           xmax = 75.50838462852269 
+           text = "What's with you today, Dez? You keep thinking that I didn't back your play in there  "
+       intervals [29]:
+           xmin = 75.50838462852269 
+           xmax = 80.87 
+           text = "but if you'd stop shouting at everyone for two minutes maybe you'll remember that I sure as blazes backed you up."
+       intervals [30]:
+           xmin = 80.87 
+           xmax = 82.34 
+           text = "<NOISE>"
+       intervals [31]:
+           xmin = 82.34 
+           xmax = 88.41 
+           text = "Her eyes blazed with icy blue challenge. So, you're saying that you believe that the Russian broad attacked me?"
+       intervals [32]:
+           xmin = 88.41 
+           xmax = 89.3 
+           text = "<NOISE>"
+       intervals [33]:
+           xmin = 89.3 
+           xmax = 95.7855646137275 
+           text = "The blazes I did. I had your back then and I have it now. All the way, and you very well know it."
+       intervals [34]:
+           xmin = 95.7855646137275 
+           xmax = 101.73052582470197 
+           text = "I told the chief the only reason version of the story that makes sense, so stop trying to alienate everyone."
+       intervals [35]:
+           xmin = 101.73052582470197 
+           xmax = 107.24 
+           text = "I am not your enemy. Neither, by the way, is Billy Trout or the rest of the human race."
+       intervals [36]:
+           xmin = 107.24 
+           xmax = 108.9969729223552 
+           text = "<NOISE>"
+       intervals [37]:
+           xmin = 108.9969729223552 
+           xmax = 114.52 
+           text = "He poked him hard in the chest with a stiffened finger. Then why didn't you say so when we were inside?"
+       intervals [38]:
+           xmin = 114.52 
+           xmax = 115.93 
+           text = "<NOISE>"
+       intervals [39]:
+           xmin = 115.93 
+           xmax = 117.54 
+           text = "How many ways would you like me to say it?"
+       intervals [40]:
+           xmin = 117.54 
+           xmax = 119.23 
+           text = "<NOISE>"
+       intervals [41]:
+           xmin = 119.23 
+           xmax = 120.28 
+           text = "Dez said nothing."
+       intervals [42]:
+           xmin = 120.28 
+           xmax = 121.43 
+           text = "<NOISE>"
+       intervals [43]:
+           xmin = 121.43 
+           xmax = 127.80368242864071 
+           text = "J T pushed her finger aside. Because I was in shock, what the blazes do you think? You were in shock, too."
+       intervals [44]:
+           xmin = 127.80368242864071 
+           xmax = 131.2090485591989 
+           text = "At that moment I didn't know what to think about anything."
+       intervals [45]:
+           xmin = 131.2090485591989 
+           xmax = 138.54 
+           text = "Can you stand there and tell me that everything that now, that's now today makes sense? That it's easy to swallow?"
+       intervals [46]:
+           xmin = 138.54 
+           xmax = 139.67 
+           text = "<NOISE>"
+       intervals [47]:
+           xmin = 139.67 
+           xmax = 144.07213881574188 
+           text = "J T and Dez stood staring at each other for several silent seconds."
+       intervals [48]:
+           xmin = 144.07213881574188 
+           xmax = 148.8050205565177 
+           text = "Far to the west there was a low mumble of thunder. The sound broke the moment  "
+       intervals [49]:
+           xmin = 148.8050205565177 
+           xmax = 152.39 
+           text = "and Dez's eyes flicked to the west and then down at the gravel."
+       intervals [50]:
+           xmin = 152.39 
+           xmax = 153.48 
+           text = "<NOISE>"
+       intervals [51]:
+           xmin = 153.48 
+           xmax = 161.9 
+           text = "J T nodded. What I thought. So, what would you have said if I'd told you that Doc Hartnup just got up and strolled off?"
+       intervals [52]:
+           xmin = 161.9 
+           xmax = 162.56 
+           text = "<NOISE>"
+       intervals [53]:
+           xmin = 162.56 
+           xmax = 168.912397097499 
+           text = "You trying to tell me that you'd accept that without pause? Without question? No you wouldn't because it doesn't make sense."
+       intervals [54]:
+           xmin = 168.912397097499 
+           xmax = 174.32 
+           text = "But we know it happened. Just like we know the cleaning lady attacked you. None of this makes sense."
+       intervals [55]:
+           xmin = 174.32 
+           xmax = 175.28 
+           text = "<NOISE>"
+       intervals [56]:
+           xmin = 175.28 
+           xmax = 180 
+           text = "It's okay, JT said softly, touching her arm. We'll get it all sorted out."
+       intervals [57]:
+           xmin = 180 
+           xmax = 180.89 
+           text = "<NOISE>"
+       intervals [58]:
+           xmin = 180.89 
+           xmax = 181.99 
+           text = "God, she said."
+       intervals [59]:
+           xmin = 181.99 
+           xmax = 183.26 
+           text = "<NOISE>"
+       intervals [60]:
+           xmin = 183.26 
+           xmax = 191.41 
+           text = "He didn't specify which issues would be resolved. The case, Billy, or the train wreck that was Dez's life. Even so, she nodded slowly."
+       intervals [61]:
+           xmin = 191.41 
+           xmax = 192.25 
+           text = "<NOISE>"
+       intervals [62]:
+           xmin = 192.25 
+           xmax = 193.64 
+           text = "The crackle came again."
+       intervals [63]:
+           xmin = 193.64 
+           xmax = 195.02 
+           text = "<NOISE>"
+       intervals [64]:
+           xmin = 195.02 
+           xmax = 201.46 
+           text = "There was a dull crackle behind the trees. Dez looked up at the clouds. The radio said that a bad storm was coming, but"
+       intervals [65]:
+           xmin = 201.46 
+           xmax = 202.62850194083438 
+           text = "<NOISE>"
+       intervals [66]:
+           xmin = 202.62850194083438 
+           xmax = 203.66 
+           text = "That was gunfire."
+       intervals [67]:
+           xmin = 203.66 
+           xmax = 205 
+           text = "<NOISE>"
+       intervals [68]:
+           xmin = 205 
+           xmax = 206.28 
+           text = "Not distant thunder."
+       intervals [69]:
+           xmin = 206.28 
+           xmax = 207.5 
+           text = "<NOISE>"
+       intervals [70]:
+           xmin = 207.5 
+           xmax = 208.45802701178994 
+           text = "Chapter Twenty"
+       intervals [71]:
+           xmin = 208.45802701178994 
+           xmax = 209.35265709693658 
+           text = "<NOISE>"
+       intervals [72]:
+           xmin = 209.35265709693658 
+           xmax = 210.88 
+           text = "That's when the screaming started."
+       intervals [73]:
+           xmin = 210.88 
+           xmax = 212.9 
+           text = "<NOISE>"
+       intervals [74]:
+           xmin = 212.9 
+           xmax = 214.7 
+           text = "Dr. Herman Volker nearly"
+       intervals [75]:
+           xmin = 214.7 
+           xmax = 216.95 
+           text = "<NOISE>"
+       intervals [76]:
+           xmin = 216.95 
+           xmax = 220.36742632448983 
+           text = "Dr. Herman Volker nearly shot himself when the phone rang."
+       intervals [77]:
+           xmin = 220.36742632448983 
+           xmax = 230.06406208607928 
+           text = "His nerves were fiddle-string taut, his heart fluttered like nervous fingers on a tabletop, the old Makarov pistol rattling in his hand."
+       intervals [78]:
+           xmin = 230.06406208607928 
+           xmax = 234.47547269538214 
+           text = "His clothes smelled of body odor, old Spice, cigarettes, and fear."
+       intervals [79]:
+           xmin = 234.47547269538214 
+           xmax = 235.0815124304815 
+           text = "<NOISE>"
+       intervals [80]:
+           xmin = 235.0815124304815 
+           xmax = 239.843253206262 
+           text = "He had the barrel pressed to his temple but had not yet slipped his finger inside the trigger guard. "
+       intervals [81]:
+           xmin = 239.843253206262 
+           xmax = 245.42 
+           text = "If he had, he would already be dead. Instead his finger jerked tight round the outside of the guard."
+       intervals [82]:
+           xmin = 245.42 
+           xmax = 246.96339301449865 
+           text = "<NOISE>"
+       intervals [83]:
+           xmin = 246.96339301449865 
+           xmax = 252.24459642036436 
+           text = "God! he gasped aloud. There was no one to hear him there in the brown shadows of his house."
+       intervals [84]:
+           xmin = 252.24459642036436 
+           xmax = 256.7 
+           text = "The single word banged off the walls and burst apart into silent dust."
+       intervals [85]:
+           xmin = 256.7 
+           xmax = 258.23 
+           text = "<NOISE>"
+       intervals [86]:
+           xmin = 258.23 
+           xmax = 267.75 
+           text = "The phone rang again. It was an old hotel model. Kitschy when he bought it, merely cumbersome now. And loud. The bell seemed to shriek at him."
+       intervals [87]:
+           xmin = 267.75 
+           xmax = 268.9 
+           text = "<NOISE>"
+       intervals [88]:
+           xmin = 268.9 
+           xmax = 275.46874791440183 
+           text = "Volker's entire body had jerked on the first ring and he could feel the tremulous echo still reverberating in his chest."
+       intervals [89]:
+           xmin = 275.46874791440183 
+           xmax = 276.0747876495012 
+           text = "<NOISE>"
+       intervals [90]:
+           xmin = 276.0747876495012 
+           xmax = 283.19358466905055 
+           text = "Was it the police? Had his handler called them? Turned him in for what he'd done? Would the police call first or just burst in?"
+       intervals [91]:
+           xmin = 283.19358466905055 
+           xmax = 286.96 
+           text = "Even after all these years working with prisons he didn't really know."
+       intervals [92]:
+           xmin = 286.96 
+           xmax = 288.46 
+           text = "<NOISE>"
+       intervals [93]:
+           xmin = 288.46 
+           xmax = 293.86 
+           text = "The sensation grew worse with the second ring. Anxiety was a cold wire in his stomach."
+       intervals [94]:
+           xmin = 293.86 
+           xmax = 294.53518542590984 
+           text = "<NOISE>"
+       intervals [95]:
+           xmin = 294.53518542590984 
+           xmax = 300.01 
+           text = "Mr. Price Volker's handler at the CIA would call his cell rather than the home phone."
+       intervals [96]:
+           xmin = 300.01 
+           xmax = 300.6781364805865 
+           text = "<NOISE>"
+       intervals [97]:
+           xmin = 300.6781364805865 
+           xmax = 303.14 
+           text = "So would the warden and the staff at Rockview."
+       intervals [98]:
+           xmin = 303.14 
+           xmax = 304.21 
+           text = "<NOISE>"
+       intervals [99]:
+           xmin = 304.21 
+           xmax = 304.76 
+           text = "Ring!"
+       intervals [100]:
+           xmin = 304.76 
+           xmax = 306.32 
+           text = "<NOISE>"
+       intervals [101]:
+           xmin = 306.32 
+           xmax = 306.81 
+           text = "Ring!"
+       intervals [102]:
+           xmin = 306.81 
+           xmax = 308.33 
+           text = "<NOISE>"
+       intervals [103]:
+           xmin = 308.33 
+           xmax = 311.7553140228211 
+           text = "The hand holding the pistol twitched like a dying fish."
+       intervals [104]:
+           xmin = 311.7553140228211 
+           xmax = 320.29 
+           text = "He slapped the pistol down on the table, jerking at the solid clunk the metal made against the hardwood. Then he jerked again a second later as"
+       intervals [105]:
+           xmin = 320.29 
+           xmax = 321.39 
+           text = "<NOISE>"
+       intervals [106]:
+           xmin = 321.39 
+           xmax = 330.02 
+           text = "When they learned what Volker had tried to do had, in fact, done they would his mind refused to form any specific end to that thought."
+       intervals [107]:
+           xmin = 330.02 
+           xmax = 331.34 
+           text = "<NOISE>"
+       intervals [108]:
+           xmin = 331.34 
+           xmax = 338.49 
+           text = "Volker knew that he was a dead man. Even if the police broke down the door and arrested him before he could pull the trigger, he was dead."
+       intervals [109]:
+           xmin = 338.49 
+           xmax = 339.33 
+           text = "<NOISE>"
+       intervals [110]:
+           xmin = 339.33 
+           xmax = 340.14 
+           text = "Who was calling?"
+       intervals [111]:
+           xmin = 340.14 
+           xmax = 341.37 
+           text = "<NOISE>"
+       intervals [112]:
+           xmin = 341.37 
+           xmax = 347.66 
+           text = "A prison official in jail was marked. The convicts would tear him apart. Especially when what he did got out."
+       intervals [113]:
+           xmin = 347.66 
+           xmax = 348.54 
+           text = "<NOISE>"
+       intervals [114]:
+           xmin = 348.54 
+           xmax = 351.03 
+           text = "A voice crackled down the line. Hello?"
+       intervals [115]:
+           xmin = 351.03 
+           xmax = 352.6 
+           text = "<NOISE>"
+       intervals [116]:
+           xmin = 352.6 
+           xmax = 357.62 
+           text = "Homer Gibbon was a legend at Rockview. A convict's convict. They called him the Angel of Death."
+       intervals [117]:
+           xmin = 357.62 
+           xmax = 358.57 
+           text = "<NOISE>"
+       intervals [118]:
+           xmin = 358.57 
+           xmax = 361.12 
+           text = "After a moment, the voice said, Dr. Volker?"
+       intervals [119]:
+           xmin = 361.12 
+           xmax = 362.3 
+           text = "<NOISE>"
+       intervals [120]:
+           xmin = 362.3 
+           xmax = 364.98 
+           text = "Some of them had given face tattooed on their arms."
+       intervals [121]:
+           xmin = 364.98 
+           xmax = 366.28 
+           text = "<NOISE>"
+       intervals [122]:
+           xmin = 366.28 
+           xmax = 369.98 
+           text = "Oh, good, said the caller brightly. Thought I'd misdialed."
+       intervals [123]:
+           xmin = 369.98 
+           xmax = 371.69 
+           text = "<NOISE>"
+       intervals [124]:
+           xmin = 371.69 
+           xmax = 378.9398568062572 
+           text = "Volker held his breath as he watched the phone ring two more times. Five in all. There was no answering machine attached to the phone."
+       intervals [125]:
+           xmin = 378.9398568062572 
+           xmax = 383.93 
+           text = "No voice mail. It would ring until the caller gave up. Or until Volker went mad."
+       intervals [126]:
+           xmin = 383.93 
+           xmax = 385.74 
+           text = "<NOISE>"
+       intervals [127]:
+           xmin = 385.74 
+           xmax = 391.57 
+           text = "Ooops, sorry. This is Billy Trout, Regional Satellite News. I was at the prison yesterday and"
+       intervals [128]:
+           xmin = 391.57 
+           xmax = 393.05 
+           text = "<NOISE>"
+       intervals [129]:
+           xmin = 393.05 
+           xmax = 399.73649859409204 
+           text = "Then he abruptly lunged for it, snatching the receiver from the cradle before it could ring again, pressing the phone to his ear and mouth."
+       intervals [130]:
+           xmin = 399.73649859409204 
+           xmax = 403.02 
+           text = "And here he faltered once more, unable to speak a word."
+       intervals [131]:
+           xmin = 403.02 
+           xmax = 404.5559574398821 
+           text = "<NOISE>"
+       intervals [132]:
+           xmin = 404.5559574398821 
+           xmax = 408.77 
+           text = "Trout cut him off. This isn't about the execution. Not exactly."
+       intervals [133]:
+           xmin = 408.77 
+           xmax = 410.25 
+           text = "<NOISE>"
+       intervals [134]:
+           xmin = 410.25 
+           xmax = 420.22 
+           text = "Volker closed his eyes in relief. A stranger's voice. Not his handle, handler. Not the warden. Not the cool formality he imagined the police would use."
+       intervals [135]:
+           xmin = 420.22 
+           xmax = 421.59 
+           text = "<NOISE>"
+       intervals [136]:
+           xmin = 421.59 
+           xmax = 422.82 
+           text = "Then why are you calling me?"
+       intervals [137]:
+           xmin = 422.82 
+           xmax = 424.17 
+           text = "<NOISE>"
+       intervals [138]:
+           xmin = 424.17 
+           xmax = 428.96 
+           text = "The doctor swallowed a lump in his throat that felt as big as a fist. Yea yes?"
+       intervals [139]:
+           xmin = 428.96 
+           xmax = 430.286153079749 
+           text = "<NOISE>"
+       intervals [140]:
+           xmin = 430.286153079749 
+           xmax = 433.15 
+           text = "Who? He knew it sounded like the lie it was."
+       intervals [141]:
+           xmin = 433.15 
+           xmax = 434.89 
+           text = "<NOISE>"
+       intervals [142]:
+           xmin = 434.89 
+           xmax = 435.64 
+           text = "Who's calling?"
+       intervals [143]:
+           xmin = 435.64 
+           xmax = 436.87 
+           text = "<NOISE>"
+       intervals [144]:
+           xmin = 436.87 
+           xmax = 439.41 
+           text = "Yes, yes, said Volker woodenly."
+       intervals [145]:
+           xmin = 439.41 
+           xmax = 439.98 
+           text = "<NOISE>"
+       intervals [146]:
+           xmin = 439.98 
+           xmax = 445.287488402011 
+           text = "Even to his own ears his voice sounded dead. He glanced at the pistol lying on the table."
+       intervals [147]:
+           xmin = 445.287488402011 
+           xmax = 448.52 
+           text = "He closed his eyes. How do you know about her, Mr. Trout?"
+       intervals [148]:
+           xmin = 448.52 
+           xmax = 449.16 
+           text = "<NOISE>"
+       intervals [149]:
+           xmin = 449.16 
+           xmax = 454.22 
+           text = "It was my understanding that such information was not to be released to the press. How did you find out?"
+       intervals [150]:
+           xmin = 454.22 
+           xmax = 455.56 
+           text = "<NOISE>"
+       intervals [151]:
+           xmin = 455.56 
+           xmax = 463.89017337632527 
+           text = "Please, interrupted Volker, his irritation immediately overriding his fear, I cannot comment on that event and I would appreciate it if you"
+       intervals [152]:
+           xmin = 463.89017337632527 
+           xmax = 464.9579576715003 
+           text = "<NOISE>"
+       intervals [153]:
+           xmin = 464.9579576715003 
+           xmax = 472.98 
+           text = "Volker gave a disgusted grunt. What do you want? My part in this over. If you were at the prison as you say, then you know that."
+       intervals [154]:
+           xmin = 472.98 
+           xmax = 474.6 
+           text = "<NOISE>"
+       intervals [155]:
+           xmin = 474.6 
+           xmax = 480.32 
+           text = "I apologize for calling you at your home, doctor, Trout continued. I tried your office and your cell."
+       intervals [156]:
+           xmin = 480.32 
+           xmax = 482.12 
+           text = "<NOISE>"
+       intervals [157]:
+           xmin = 482.12 
+           xmax = 485.43 
+           text = "Then what do you want? Volker asked again. Was the phone tapped?"
+       intervals [158]:
+           xmin = 485.43 
+           xmax = 486.4 
+           text = "<NOISE>"
+       intervals [159]:
+           xmin = 486.4 
+           xmax = 488.48 
+           text = "I'd like to talk with you about Aunt Selma."
+       intervals [160]:
+           xmin = 488.48 
+           xmax = 489.83 
+           text = "<NOISE>"
+       intervals [161]:
+           xmin = 489.83 
+           xmax = 494.26399138439973 
+           text = "It would not surprise him if the CIA had kept this place tapped since they moved him in."
+       intervals [162]:
+           xmin = 494.26399138439973 
+           xmax = 499.08345023018984 
+           text = "He looked around as if he could see agents huddled over elaborate wiretapping equipment  "
+       intervals [163]:
+           xmin = 499.08345023018984 
+           xmax = 503.11 
+           text = "but all that surrounded him were the empty shadows of his sterile home."
+       intervals [164]:
+           xmin = 503.11 
+           xmax = 504.71 
+           text = "<NOISE>"
+       intervals [165]:
+           xmin = 504.71 
+           xmax = 512.75 
+           text = "Selma Conroy, prompted Trout. Homer Gibbon's aunt. The one who claimed the body? It's my understanding that you released the body to her?"
+       intervals [166]:
+           xmin = 512.75 
+           xmax = 514.86 
+           text = "<NOISE>"
+       intervals [167]:
+           xmin = 514.86 
+           xmax = 522.86 
+           text = "No, Volker said evasively. I was the doctor for the whole facility. I had a large staff. I was not that man's therapist or caseworker."
+       intervals [168]:
+           xmin = 522.86 
+           xmax = 524.79 
+           text = "<NOISE>"
+       intervals [169]:
+           xmin = 524.79 
+           xmax = 528.27 
+           text = "Sorry, Dr. Volker. Confidential sources, said Trout."
+       intervals [170]:
+           xmin = 528.27 
+           xmax = 530.07 
+           text = "<NOISE>"
+       intervals [171]:
+           xmin = 530.07 
+           xmax = 534.75 
+           text = "I Volker said and let his voice trail off, not knowing which answer was safest."
+       intervals [172]:
+           xmin = 534.75 
+           xmax = 535.96 
+           text = "<NOISE>"
+       intervals [173]:
+           xmin = 535.96 
+           xmax = 541.33 
+           text = "Ye-e-es, Trout said, stretching the word to imply other possible meanings."
+       intervals [174]:
+           xmin = 541.33 
+           xmax = 543.43 
+           text = "<NOISE>"
+       intervals [175]:
+           xmin = 543.43 
+           xmax = 548.4680064137965 
+           text = "Steal? Volker's chest heaved so sharply that he almost vomited onto the phone."
+       intervals [176]:
+           xmin = 548.4680064137965 
+           xmax = 548.9874690438817 
+           text = "<NOISE>"
+       intervals [177]:
+           xmin = 548.9874690438817 
+           xmax = 552.7391435944968 
+           text = "He slammed down the receiver and backed away from the instrument as if it could bite him."
+       intervals [178]:
+           xmin = 552.7391435944968 
+           xmax = 553.258606224582 
+           text = "<NOISE>"
+       intervals [179]:
+           xmin = 553.258606224582 
+           xmax = 558.32 
+           text = "Oh, God, he said to the brown shadows that filled the room. Oh, God. What have I done?"
+       intervals [180]:
+           xmin = 558.32 
+           xmax = 559.83 
+           text = "<NOISE>"
+       intervals [181]:
+           xmin = 559.83 
+           xmax = 567.7378040962997 
+           text = "I want an opinion, Doctor, said Trout. As the prison's senior medical officer you would be in a unique position to know Homer Gibbon."
+       intervals [182]:
+           xmin = 567.7378040962997 
+           xmax = 571.43 
+           text = "On a personal level, I mean. People talk to their doctors."
+       intervals [183]:
+           xmin = 571.43 
+           xmax = 573.2740502274457 
+           text = "<NOISE>"
+       intervals [184]:
+           xmin = 573.2740502274457 
+           xmax = 575.11 
+           text = "Fairview Shopping Center parking lot"
+       intervals [185]:
+           xmin = 575.11 
+           xmax = 576.82 
+           text = "<NOISE>"
+       intervals [186]:
+           xmin = 576.82 
+           xmax = 582.7 
+           text = "I understand that, but can we agree that you knew Homer Gibbon? I mean, at least as well as anyone on the medical staff?"
+       intervals [187]:
+           xmin = 582.7 
+           xmax = 584.261976671662 
+           text = "<NOISE>"
+       intervals [188]:
+           xmin = 584.261976671662 
+           xmax = 588.7062680623907 
+           text = "Smooth, said Goat, grinning with a mouthful of Burger King french fries."
+       intervals [189]:
+           xmin = 588.7062680623907 
+           xmax = 595.68 
+           text = "Watching you in action is like a crash course in investigative journalism. You really opened Dr. Volker up. Wow."
+       intervals [190]:
+           xmin = 595.68 
+           xmax = 597.39 
+           text = "<NOISE>"
+       intervals [191]:
+           xmin = 597.39 
+           xmax = 604.81 
+           text = "So, continued Trout as if Volker had given his agreement, could you speculate, doctor, as to why someone might want to steal his body?"
+       intervals [192]:
+           xmin = 604.81 
+           xmax = 606.92 
+           text = "<NOISE>"
+       intervals [193]:
+           xmin = 606.92 
+           xmax = 610.4854631388935 
+           text = "No, really I'll bet Anderson Cooper thinks you're a rock star."
+       intervals [194]:
+           xmin = 610.4854631388935 
+           xmax = 616.7190146999155 
+           text = "I mean, I was impressed with how you dealt with that lady cop, but when you do a phone interview people unburden their souls to you."
+       intervals [195]:
+           xmin = 616.7190146999155 
+           xmax = 618.96 
+           text = "Wish I had video of that to put on YouTube."
+       intervals [196]:
+           xmin = 618.96 
+           xmax = 620.49 
+           text = "<NOISE>"
+       intervals [197]:
+           xmin = 620.49 
+           xmax = 621.73 
+           text = "Chapter twenty-one "
+       intervals [198]:
+           xmin = 621.73 
+           xmax = 623.2049292010287 
+           text = "<NOISE>"
+       intervals [199]:
+           xmin = 623.2049292010287 
+           xmax = 627.66 
+           text = "Goat considered, shrugged. Yeah. Unless there's a third act to this comedy."
+       intervals [200]:
+           xmin = 627.66 
+           xmax = 629.9579433921359 
+           text = "<NOISE>"
+       intervals [201]:
+           xmin = 629.9579433921359 
+           xmax = 631.83 
+           text = "Stebbins County, Pennsylvania"
+       intervals [202]:
+           xmin = 631.83 
+           xmax = 633.09 
+           text = "<NOISE>"
+       intervals [203]:
+           xmin = 633.09 
+           xmax = 636.9129708282762 
+           text = "Speaking of the cop, Goat said, what's with you and lady deathstrike?"
+       intervals [204]:
+           xmin = 636.9129708282762 
+           xmax = 639.2163348857313 
+           text = "<NOISE>"
+       intervals [205]:
+           xmin = 639.2163348857313 
+           xmax = 640.66 
+           text = "End up, grumped Trout."
+       intervals [206]:
+           xmin = 640.66 
+           xmax = 642.05 
+           text = "<NOISE>"
+       intervals [207]:
+           xmin = 642.05 
+           xmax = 648.91 
+           text = "Let me guess, Goat said with a grin, you were the loser who didn't want to commit. All those wild oats to sow."
+       intervals [208]:
+           xmin = 648.91 
+           xmax = 650.8116380615489 
+           text = "<NOISE>"
+       intervals [209]:
+           xmin = 650.8116380615489 
+           xmax = 653.8418367370458 
+           text = "Trout gave him a withering stare. You finished?"
+       intervals [210]:
+           xmin = 653.8418367370458 
+           xmax = 655.3713655922966 
+           text = "<NOISE>"
+       intervals [211]:
+           xmin = 655.3713655922966 
+           xmax = 662.39 
+           text = "That shut Goat up. He stared at Trout's profile for a while and then shook his head. He fished out his iPhone and began trolling Twitter."
+       intervals [212]:
+           xmin = 662.39 
+           xmax = 665.12 
+           text = "<NOISE>"
+       intervals [213]:
+           xmin = 665.12 
+           xmax = 666.15 
+           text = "Trout sighed."
+       intervals [214]:
+           xmin = 666.15 
+           xmax = 667.62 
+           text = "<NOISE>"
+       intervals [215]:
+           xmin = 667.62 
+           xmax = 672.8545820622406 
+           text = "On his good days, Trout believed that he was the template for Dez's subsequent conquests."
+       intervals [216]:
+           xmin = 672.8545820622406 
+           xmax = 673.3740446923258 
+           text = "<NOISE>"
+       intervals [217]:
+           xmin = 673.3740446923258 
+           xmax = 677.64 
+           text = "Trout had blue eyes, blond hair, and a passable version of a weathered smile."
+       intervals [218]:
+           xmin = 677.64 
+           xmax = 678.19 
+           text = "<NOISE>"
+       intervals [219]:
+           xmin = 678.19 
+           xmax = 685.41 
+           text = "On his bad days, he wondered if he simply fit the bill that had coalesced in her head puberty, during puberty."
+       intervals [220]:
+           xmin = 685.41 
+           xmax = 686.2 
+           text = "<NOISE>"
+       intervals [221]:
+           xmin = 686.2 
+           xmax = 690.446538932778 
+           text = "He knew that some people were like that; they fixate on a type and go hunting for it."
+       intervals [222]:
+           xmin = 690.446538932778 
+           xmax = 690.9082834928537 
+           text = "<NOISE>"
+       intervals [223]:
+           xmin = 690.9082834928537 
+           xmax = 698.4404916290887 
+           text = "Years ago, before he and Dez had become an item for the third time, a reporter friend had once remarked that Dez would"
+       intervals [224]:
+           xmin = 698.4404916290887 
+           xmax = 704.79 
+           text = "blow the captain of the Titanic all the way to the bottom of the Atlantic if he had blue eyes and a cowboy smile."
+       intervals [225]:
+           xmin = 704.79 
+           xmax = 706.76 
+           text = "<NOISE>"
+       intervals [226]:
+           xmin = 706.76 
+           xmax = 712.4861354774845 
+           text = "Trout chewed on it for a bit, then sighed. We've been seeing each other off and on for a while. A long while."
+       intervals [227]:
+           xmin = 712.4861354774845 
+           xmax = 712.9478800375601 
+           text = "<NOISE>"
+       intervals [228]:
+           xmin = 712.9478800375601 
+           xmax = 718.15 
+           text = "We mostly kept it off the radar you know, cop and reporter. That sort of thing always looks hinky."
+       intervals [229]:
+           xmin = 718.15 
+           xmax = 719 
+           text = "<NOISE>"
+       intervals [230]:
+           xmin = 719 
+           xmax = 727.4297568670121 
+           text = "But things keep getting more serious, and we kind of hit a wall. You know how it is one person wants to commit and the other wants to keep things open."
+       intervals [231]:
+           xmin = 727.4297568670121 
+           xmax = 729.81 
+           text = "After a while all we were doing was fighting."
+       intervals [232]:
+           xmin = 729.81 
+           xmax = 731.18 
+           text = "<NOISE>"
+       intervals [233]:
+           xmin = 731.18 
+           xmax = 734.66 
+           text = "The last time they'd been involved, Trout had given Dez an ultimatum."
+       intervals [234]:
+           xmin = 734.66 
+           xmax = 735.8498968666033 
+           text = "<NOISE>"
+       intervals [235]:
+           xmin = 735.8498968666033 
+           xmax = 741.6794219375591 
+           text = "Trout looked through the windshield as if it were a window into the past. He sighed again deep and long."
+       intervals [236]:
+           xmin = 741.6794219375591 
+           xmax = 745.21 
+           text = "No, he said, I was the idiot who wanted to marry her."
+       intervals [237]:
+           xmin = 745.21 
+           xmax = 747.71 
+           text = "<NOISE>"
+       intervals [238]:
+           xmin = 747.71 
+           xmax = 749.8136373055576 
+           text = "He couldn't take the roller coaster ride anymore."
+       intervals [239]:
+           xmin = 749.8136373055576 
+           xmax = 757.316986406788 
+           text = "He wanted to make it permanent with Dez, despite the therapy bills and probable mutual murder that would almost certainly go along with that."
+       intervals [240]:
+           xmin = 757.316986406788 
+           xmax = 759.62 
+           text = "Dez had told him she wanted to think about it."
+       intervals [241]:
+           xmin = 759.62 
+           xmax = 761.17 
+           text = "<NOISE>"
+       intervals [242]:
+           xmin = 761.17 
+           xmax = 766.8324302576917 
+           text = "Trout didn't bother filling in any details about the breakup. He didn't want to go any farther down that road."
+       intervals [243]:
+           xmin = 766.8324302576917 
+           xmax = 770.01 
+           text = "The breakup with Dez was six months old and it felt like yesterday."
+       intervals [244]:
+           xmin = 770.01 
+           xmax = 771.14 
+           text = "<NOISE>"
+       intervals [245]:
+           xmin = 771.14 
+           xmax = 779.69 
+           text = "From what he'd heard, Dez had soothed her shattered heart by messing anything that had two legs, testosterone, and a tolera tolerance for boilermakers."
+       intervals [246]:
+           xmin = 779.69 
+           xmax = 780.3862917060096 
+           text = "<NOISE>"
+       intervals [247]:
+           xmin = 780.3862917060096 
+           xmax = 789.7391365039523 
+           text = "Trout lost it. He blow he threw the flowers at Dez, dragged the biker out of bed by his hair, kicked him in the nuts, and threw him naked into the dirt outside."
+       intervals [248]:
+           xmin = 789.7391365039523 
+           xmax = 790.4028943090611 
+           text = "<NOISE>"
+       intervals [249]:
+           xmin = 790.4028943090611 
+           xmax = 795.67 
+           text = "Then he called Dez a lot of names that he normally reserved for the lawyers who had represented his ex-wives."
+       intervals [250]:
+           xmin = 795.67 
+           xmax = 796.96 
+           text = "<NOISE>"
+       intervals [251]:
+           xmin = 796.96 
+           xmax = 799.41 
+           text = "And every one of them was probably the same type, too."
+       intervals [252]:
+           xmin = 799.41 
+           xmax = 800.12 
+           text = "<NOISE>"
+       intervals [253]:
+           xmin = 800.12 
+           xmax = 806.6424933160674 
+           text = "Tall, blond or sandy hair, blue eyes, an outdoorsy face with laugh lines and a tan. That was Dez's type."
+       intervals [254]:
+           xmin = 806.6424933160674 
+           xmax = 813.049199087118 
+           text = "It had been ever since high school and that sizzling junior year when they were dating for the first time."
+       intervals [255]:
+           xmin = 813.049199087118 
+           xmax = 821.07 
+           text = "They'd broken into the school at night and lost their virginity together on the couch in the vice principal's office. The detention couch, no less."
+       intervals [256]:
+           xmin = 821.07 
+           xmax = 822.21 
+           text = "<NOISE>"
+       intervals [257]:
+           xmin = 822.21 
+           xmax = 825.4183374651398 
+           text = "She was naked, and the shotgun, it turned out, was unloaded."
+       intervals [258]:
+           xmin = 825.4183374651398 
+           xmax = 832.16 
+           text = "It took JT Hammond and two pairs of handcuffs to quiet things down, but the magic seemed to have gone out of their relationship."
+       intervals [259]:
+           xmin = 832.16 
+           xmax = 834.06 
+           text = "<NOISE>"
+       intervals [260]:
+           xmin = 834.06 
+           xmax = 840.2753834045632 
+           text = "So far they had been an item five times, and between some of those times Trout had gotten married and divorced."
+       intervals [261]:
+           xmin = 840.2753834045632 
+           xmax = 847.83 
+           text = "It did not help his peace of mind any when that same reporter friend pointed out how much of those, how much each of those women looked like Dez."
+       intervals [262]:
+           xmin = 847.83 
+           xmax = 848.99 
+           text = "<NOISE>"
+       intervals [263]:
+           xmin = 848.99 
+           xmax = 855.79 
+           text = "I posted another teaser on Twitter, Goat said, breaking into Trout's dismal reverie. So, what's next?"
+       intervals [264]:
+           xmin = 855.79 
+           xmax = 858.39 
+           text = "<NOISE>"
+       intervals [265]:
+           xmin = 858.39 
+           xmax = 862.657940085886 
+           text = "The next day he went to her trailer with a ring, flowers, and plane tickets to Aruba."
+       intervals [266]:
+           xmin = 862.657940085886 
+           xmax = 863.2351207859807 
+           text = "<NOISE>"
+       intervals [267]:
+           xmin = 863.2351207859807 
+           xmax = 871.75 
+           text = "He let himself in with the key she'd given him, smiling like a kid and ready to put it all on the line his heart, his career, his actual hopes and dreams."
+       intervals [268]:
+           xmin = 871.75 
+           xmax = 872.6 
+           text = "<NOISE>"
+       intervals [269]:
+           xmin = 872.6 
+           xmax = 876.7 
+           text = "Goat stared up at the roof of the car, considering. Well he was upset."
+       intervals [270]:
+           xmin = 876.7 
+           xmax = 878.24 
+           text = "<NOISE>"
+       intervals [271]:
+           xmin = 878.24 
+           xmax = 883.69 
+           text = "Dez was sprawled naked in the arms of a biker with jailhouse tats and long blond hair."
+       intervals [272]:
+           xmin = 883.69 
+           xmax = 885.08 
+           text = "<NOISE>"
+       intervals [273]:
+           xmin = 885.08 
+           xmax = 890.63 
+           text = "Volker was either trying to keep his voice in neutral, and messing it up, Goat said slowly, or he was scared."
+       intervals [274]:
+           xmin = 890.63 
+           xmax = 892 
+           text = "<NOISE>"
+       intervals [275]:
+           xmin = 892 
+           xmax = 895.8049143416091 
+           text = "Dez chased him out of the trailer and halfway down the road with a shotgun."
+       intervals [276]:
+           xmin = 895.8049143416091 
+           xmax = 896.95 
+           text = "<NOISE>"
+       intervals [277]:
+           xmin = 896.95 
+           xmax = 904.84 
+           text = "Sure, scared and maybe paranoid. His voice was stiff. He vacillated between guarded defensiveness and trying to figure out what you knew."
+       intervals [278]:
+           xmin = 904.84 
+           xmax = 906.59 
+           text = "<NOISE>"
+       intervals [279]:
+           xmin = 906.59 
+           xmax = 909.59 
+           text = "Ain't love grand? Trout mused as he drove."
+       intervals [280]:
+           xmin = 909.59 
+           xmax = 911.0633053309996 
+           text = "<NOISE>"
+       intervals [281]:
+           xmin = 911.0633053309996 
+           xmax = 916.7485352269318 
+           text = "Well, think about it. You called this guy at his house. When you were dialing, you told me that he was probably going to hang up on you."
+       intervals [282]:
+           xmin = 916.7485352269318 
+           xmax = 918.73 
+           text = "Which he did, but not at the right time."
+       intervals [283]:
+           xmin = 918.73 
+           xmax = 919.2519045523015 
+           text = "<NOISE>"
+       intervals [284]:
+           xmin = 919.2519045523015 
+           xmax = 924.2156585731156 
+           text = "He's a prison's senior medical guy and he just performed a lethal injection on a mass murderer."
+       intervals [285]:
+           xmin = 924.2156585731156 
+           xmax = 924.7639802382055 
+           text = "<NOISE>"
+       intervals [286]:
+           xmin = 924.7639802382055 
+           xmax = 928.9485403138916 
+           text = "He's probably been dogged by everyone from the media to the Christian right."
+       intervals [287]:
+           xmin = 928.9485403138916 
+           xmax = 929.5834390839958 
+           text = "<NOISE>"
+       intervals [288]:
+           xmin = 929.5834390839958 
+           xmax = 937.8 
+           text = "If his home number was public knowledge, then he'd be letting it go right to voice mail, or he'd yank the cord because he'd be getting a million calls, right?"
+       intervals [289]:
+           xmin = 937.8 
+           xmax = 939.33 
+           text = "<NOISE>"
+       intervals [290]:
+           xmin = 939.33 
+           xmax = 945.7659910016089 
+           text = "Let's listen to the call again. Trout had recorded the call on his digital unit and played it back with the speakers on high."
+       intervals [291]:
+           xmin = 945.7659910016089 
+           xmax = 949.88 
+           text = "Even with the mild distortion, Volker's voice and inflection had been clear."
+       intervals [292]:
+           xmin = 949.88 
+           xmax = 950.72 
+           text = "<NOISE>"
+       intervals [293]:
+           xmin = 950.72 
+           xmax = 954.5055908457351 
+           text = "But it wasn't public knowledge. You had to call in favors to get that number."
+       intervals [294]:
+           xmin = 954.5055908457351 
+           xmax = 959.02 
+           text = "Volker isn't getting calls on that line, so yours must have been a genuine surprise."
+       intervals [295]:
+           xmin = 959.02 
+           xmax = 960.35 
+           text = "<NOISE>"
+       intervals [296]:
+           xmin = 960.35 
+           xmax = 967.6 
+           text = "Okay, O mighty Goat you're supposed to be the great filmmaker and director.Give me notes on Volker's performance."
+       intervals [297]:
+           xmin = 967.6 
+           xmax = 969.2156643073105 
+           text = "<NOISE>"
+       intervals [298]:
+           xmin = 969.2156643073105 
+           xmax = 975.4203568333279 
+           text = "And he didn't. He didn't even press you to find out how you got the number. He wanted to know why you called."
+       intervals [299]:
+           xmin = 975.4203568333279 
+           xmax = 981.7116264643596 
+           text = "Anyone else in his position would already know why you were calling an insider's view on Gibbon or the protests  "
+       intervals [300]:
+           xmin = 981.7116264643596 
+           xmax = 987.3029117077806 
+           text = "or the issue of execution. That stuff. The sort of stuff you usually do. But Volker didn't do that."
+       intervals [301]:
+           xmin = 987.3029117077806 
+           xmax = 991.48 
+           text = "I think he was not only trying to figure out why you called but was afraid of what you'd say."
+       intervals [302]:
+           xmin = 991.48 
+           xmax = 992.72 
+           text = "<NOISE>"
+       intervals [303]:
+           xmin = 992.72 
+           xmax = 995.49 
+           text = "Trout twirled his finger in a keep going gesture."
+       intervals [304]:
+           xmin = 995.49 
+           xmax = 997.0217082825847 
+           text = "<NOISE>"
+       intervals [305]:
+           xmin = 997.0217082825847 
+           xmax = 1000.3404973081289 
+           text = "Hey, said Goat, tapping his own chest with a crooked french fry  "
+       intervals [306]:
+           xmin = 1000.3404973081289 
+           xmax = 1000.9465370432282 
+           text = "<NOISE>"
+       intervals [307]:
+           xmin = 1000.9465370432282 
+           xmax = 1005.04 
+           text = "if I was building a guilty knowledge scene in a movie, this would be cookie cutter."
+       intervals [308]:
+           xmin = 1005.04 
+           xmax = 1006.5163307991415 
+           text = "<NOISE>"
+       intervals [309]:
+           xmin = 1006.5163307991415 
+           xmax = 1008.07 
+           text = "Aired? I didn't get that."
+       intervals [310]:
+           xmin = 1008.07 
+           xmax = 1009.06 
+           text = "<NOISE>"
+       intervals [311]:
+           xmin = 1009.06 
+           xmax = 1010.54 
+           text = "What'd you get out of it? asked Goat."
+       intervals [312]:
+           xmin = 1010.54 
+           xmax = 1012.51 
+           text = "<NOISE>"
+       intervals [313]:
+           xmin = 1012.51 
+           xmax = 1014.75 
+           text = "Trout was fascinated. Explain."
+       intervals [314]:
+           xmin = 1014.75 
+           xmax = 1016.32 
+           text = "<NOISE>"
+       intervals [315]:
+           xmin = 1016.32 
+           xmax = 1021.24 
+           text = "Regional Satellite News, answered a voice that was as bright and flowery as a spring meadow."
+       intervals [316]:
+           xmin = 1021.24 
+           xmax = 1023.08 
+           text = "<NOISE>"
+       intervals [317]:
+           xmin = 1023.08 
+           xmax = 1023.6 
+           text = "Right."
+       intervals [318]:
+           xmin = 1023.6 
+           xmax = 1025.46 
+           text = "<NOISE>"
+       intervals [319]:
+           xmin = 1025.46 
+           xmax = 1029.18 
+           text = "As long as it doesn't involve a stripper's pole or popping out of a cake, I'm your girl."
+       intervals [320]:
+           xmin = 1029.18 
+           xmax = 1030.56 
+           text = "<NOISE>"
+       intervals [321]:
+           xmin = 1030.56 
+           xmax = 1035.010857807225 
+           text = "Trout nodded, seeing the shape of it now. So he should have been outraged at my call."
+       intervals [322]:
+           xmin = 1035.010857807225 
+           xmax = 1039.7 
+           text = "He should have read me the riot act, threatened repercussions, yada yada."
+       intervals [323]:
+           xmin = 1039.7 
+           xmax = 1041.1289732282285 
+           text = "<NOISE>"
+       intervals [324]:
+           xmin = 1041.1289732282285 
+           xmax = 1043.18 
+           text = "Sadly, not this time, Trout said."
+       intervals [325]:
+           xmin = 1043.18 
+           xmax = 1044.9638774278724 
+           text = "<NOISE>"
+       intervals [326]:
+           xmin = 1044.9638774278724 
+           xmax = 1048.64 
+           text = "Trout grunted. You're building a case for guilty knowledge."
+       intervals [327]:
+           xmin = 1048.64 
+           xmax = 1050.04 
+           text = "<NOISE>"
+       intervals [328]:
+           xmin = 1050.04 
+           xmax = 1056.5893824273817 
+           text = "Yes, Trout said, fudging the truth. Although Klein hadn't approved this, given the nature of the story, he would."
+       intervals [329]:
+           xmin = 1056.5893824273817 
+           xmax = 1057.1088450574669 
+           text = "<NOISE>"
+       intervals [330]:
+           xmin = 1057.1088450574669 
+           xmax = 1062.71 
+           text = "I need some of your research magic. You could find Jimmy Hoffa if there were any legs left to that story."
+       intervals [331]:
+           xmin = 1062.71 
+           xmax = 1064.45 
+           text = "<NOISE>"
+       intervals [332]:
+           xmin = 1064.45 
+           xmax = 1069.7142177682704 
+           text = "Trout settled back and stared into the middle distance. Goat held out the cardboard sleeve of fries"
+       intervals [333]:
+           xmin = 1069.7142177682704 
+           xmax = 1076.2 
+           text = "Trout took one and munched it slowly, biting his way along its length with tiny, contemplative nips."
+       intervals [334]:
+           xmin = 1076.2 
+           xmax = 1077.3263080975487 
+           text = "<NOISE>"
+       intervals [335]:
+           xmin = 1077.3263080975487 
+           xmax = 1081.2222778231876 
+           text = "I need everything you can dig up on two people. Deep background."
+       intervals [336]:
+           xmin = 1081.2222778231876 
+           xmax = 1086.2726089490159 
+           text = "I need what's on the net and anything you can find from other sources. First is Selma Conroy."
+       intervals [337]:
+           xmin = 1086.2726089490159 
+           xmax = 1089.08 
+           text = "Don't know if that's her maiden or married name."
+       intervals [338]:
+           xmin = 1089.08 
+           xmax = 1090.59 
+           text = "<NOISE>"
+       intervals [339]:
+           xmin = 1090.59 
+           xmax = 1095.94 
+           text = "Not that much. You're good, kid, said Trout. He picked up his cell and punched a speed dial number."
+       intervals [340]:
+           xmin = 1095.94 
+           xmax = 1097.02 
+           text = "<NOISE>"
+       intervals [341]:
+           xmin = 1097.02 
+           xmax = 1101.4 
+           text = "Dear Marcia, said Trout, how would you like to earn some overtime cash?"
+       intervals [342]:
+           xmin = 1101.4 
+           xmax = 1102.1061767986575 
+           text = "<NOISE>"
+       intervals [343]:
+           xmin = 1102.1061767986575 
+           xmax = 1107.6 
+           text = "Look this is for something really important. Major. You can't tell anyone. An-nee-one."
+       intervals [344]:
+           xmin = 1107.6 
+           xmax = 1109.12 
+           text = "<NOISE>"
+       intervals [345]:
+           xmin = 1109.12 
+           xmax = 1115.3189287234275 
+           text = "Trout grinned. Marcia Sloane had the voice that promised the smile and curves of a twenty something California blonde."
+       intervals [346]:
+           xmin = 1115.3189287234275 
+           xmax = 1115.9538274935317 
+           text = "<NOISE>"
+       intervals [347]:
+           xmin = 1115.9538274935317 
+           xmax = 1121.99 
+           text = "Everyone who called the bureau fell in love with her. She was actually just north of forty and far north of two hundred pounds."
+       intervals [348]:
+           xmin = 1121.99 
+           xmax = 1122.5847106326491 
+           text = "<NOISE>"
+       intervals [349]:
+           xmin = 1122.5847106326491 
+           xmax = 1130.0014826288655 
+           text = "Curvy to be sure, with a heart-shaped face, masses of curly black hair, and she claimed nineteen separate piercings."
+       intervals [350]:
+           xmin = 1130.0014826288655 
+           xmax = 1135.1961089297174 
+           text = "Billy Trout had seen eight of them and, despite the fact that she outweighed him by at least fifty pounds  "
+       intervals [351]:
+           xmin = 1135.1961089297174 
+           xmax = 1138.27 
+           text = "was intrigued to one day discover the rest."
+       intervals [352]:
+           xmin = 1138.27 
+           xmax = 1139.86 
+           text = "<NOISE>"
+       intervals [353]:
+           xmin = 1139.86 
+           xmax = 1140.67 
+           text = "I'm serious."
+       intervals [354]:
+           xmin = 1140.67 
+           xmax = 1142.61 
+           text = "<NOISE>"
+       intervals [355]:
+           xmin = 1142.61 
+           xmax = 1144.42 
+           text = "Murray approve it? she asked."
+       intervals [356]:
+           xmin = 1144.42 
+           xmax = 1144.93 
+           text = "<NOISE>"
+       intervals [357]:
+           xmin = 1144.93 
+           xmax = 1148.98 
+           text = "Their editor, Murray Klein, was notorious for denying overtime for anything  "
+       intervals [358]:
+           xmin = 1148.98 
+           xmax = 1149.444438658672 
+           text = "<NOISE>"
+       intervals [359]:
+           xmin = 1149.444438658672 
+           xmax = 1154.7833601345476 
+           text = "expecting his staff to finish their work on their personal time. Trout didn't hate him for it, though. "
+       intervals [360]:
+           xmin = 1154.7833601345476 
+           xmax = 1160.67 
+           text = "Regional Satellite News worked with a budget surplus that could barely finance two cups of diner coffee."
+       intervals [361]:
+           xmin = 1160.67 
+           xmax = 1162.31 
+           text = "<NOISE>"
+       intervals [362]:
+           xmin = 1162.31 
+           xmax = 1169.176654364232 
+           text = "Okay this is tied to the Homer Gibbon case. And there is a strong possibility that Selma Conroy is Gibbon's aunt  "
+       intervals [363]:
+           xmin = 1169.176654364232 
+           xmax = 1172.29 
+           text = "and she filed to have his body brought here to Stebbins."
+       intervals [364]:
+           xmin = 1172.29 
+           xmax = 1173.8 
+           text = "<NOISE>"
+       intervals [365]:
+           xmin = 1173.8 
+           xmax = 1175.8 
+           text = "Probably. What can I do for you, Billy?"
+       intervals [366]:
+           xmin = 1175.8 
+           xmax = 1177.2222995442876 
+           text = "<NOISE>"
+       intervals [367]:
+           xmin = 1177.2222995442876 
+           xmax = 1180.25 
+           text = "Trout said, That's it? I thought you'd be surprised."
+       intervals [368]:
+           xmin = 1180.25 
+           xmax = 1181.62 
+           text = "<NOISE>"
+       intervals [369]:
+           xmin = 1181.62 
+           xmax = 1185.187393205594 
+           text = "Sexy Selma? God don't tell me she's back in business."
+       intervals [370]:
+           xmin = 1185.187393205594 
+           xmax = 1191.359879240621 
+           text = "She went to school with my mom, and I'm pretty sure she was at least some part of my dear parents' complicated divorce."
+       intervals [371]:
+           xmin = 1191.359879240621 
+           xmax = 1192.0813551157394 
+           text = "<NOISE>"
+       intervals [372]:
+           xmin = 1192.0813551157394 
+           xmax = 1192.97 
+           text = "To Selma?"
+       intervals [373]:
+           xmin = 1192.97 
+           xmax = 1194.71 
+           text = "<NOISE>"
+       intervals [374]:
+           xmin = 1194.71 
+           xmax = 1195.88 
+           text = "Lips are sealed."
+       intervals [375]:
+           xmin = 1195.88 
+           xmax = 1197.04 
+           text = "<NOISE>"
+       intervals [376]:
+           xmin = 1197.04 
+           xmax = 1197.95 
+           text = "There's a sister?"
+       intervals [377]:
+           xmin = 1197.95 
+           xmax = 1200.0397546925296 
+           text = "<NOISE>"
+       intervals [378]:
+           xmin = 1200.0397546925296 
+           xmax = 1200.876666707667 
+           text = "So am I."
+       intervals [379]:
+           xmin = 1200.876666707667 
+           xmax = 1201.9733100378469 
+           text = "<NOISE>"
+       intervals [380]:
+           xmin = 1201.9733100378469 
+           xmax = 1208.6108880889353 
+           text = "Prison doctor from Rockview. Herman Volker. When I did a background on him for my story I got as far as him being from Europe."
+       intervals [381]:
+           xmin = 1208.6108880889353 
+           xmax = 1209.1592097540254 
+           text = "<NOISE>"
+       intervals [382]:
+           xmin = 1209.1592097540254 
+           xmax = 1216.97 
+           text = "The name's German, but the accent isn't. Sounds Polish or something. Lived here a long time. Medical degree from Jefferson in Philly."
+       intervals [383]:
+           xmin = 1216.97 
+           xmax = 1218.35 
+           text = "<NOISE>"
+       intervals [384]:
+           xmin = 1218.35 
+           xmax = 1219.55 
+           text = "Marcia grunted."
+       intervals [385]:
+           xmin = 1219.55 
+           xmax = 1221.04 
+           text = "<NOISE>"
+       intervals [386]:
+           xmin = 1221.04 
+           xmax = 1223.14 
+           text = "No, sweetie, but I need this ASAP."
+       intervals [387]:
+           xmin = 1223.14 
+           xmax = 1224.8484824286434 
+           text = "<NOISE>"
+       intervals [388]:
+           xmin = 1224.8484824286434 
+           xmax = 1229.9 
+           text = "Actually I'm not, she said, cause now that you say it I can see a little resemblance."
+       intervals [389]:
+           xmin = 1229.9 
+           xmax = 1231.11 
+           text = "<NOISE>"
+       intervals [390]:
+           xmin = 1231.11 
+           xmax = 1235.77 
+           text = "I don't know. We stopped there and ran into Dez, and that could have gone better. She ran us off."
+       intervals [391]:
+           xmin = 1235.77 
+           xmax = 1238.41 
+           text = "<NOISE>"
+       intervals [392]:
+           xmin = 1238.41 
+           xmax = 1239.69 
+           text = "No to her sister."
+       intervals [393]:
+           xmin = 1239.69 
+           xmax = 1240.76 
+           text = "<NOISE>"
+       intervals [394]:
+           xmin = 1240.76 
+           xmax = 1245.95 
+           text = "Then she and Sheldon broke through a screen of shrubs and the day became even more impossible."
+       intervals [395]:
+           xmin = 1245.95 
+           xmax = 1248.57 
+           text = "<NOISE>"
+       intervals [396]:
+           xmin = 1248.57 
+           xmax = 1255.2270039206705 
+           text = "There was. She died a while back. Look, I'll put that stuff together. I know where to look for everything on the Conroys."
+       intervals [397]:
+           xmin = 1255.2270039206705 
+           xmax = 1256.54 
+           text = "Who's the other target?"
+       intervals [398]:
+           xmin = 1256.54 
+           xmax = 1257.89 
+           text = "<NOISE>"
+       intervals [399]:
+           xmin = 1257.89 
+           xmax = 1263.327689867911 
+           text = "Much closer, just a few yards away, Officer Mike Schneider stood with his back to Dez and Sheldon."
+       intervals [400]:
+           xmin = 1263.327689867911 
+           xmax = 1270.571307654099 
+           text = "Schneider's Glock was down at his side, clutched in a tight fist. Schneider's whole body twitched and he jerked the trigger."
+       intervals [401]:
+           xmin = 1270.571307654099 
+           xmax = 1279.3672877442775 
+           text = "The blast was sharp and loud and the bullet punched a bloodied groove through the side of Schneider's ankle bone before burying itself in the dirt."
+       intervals [402]:
+           xmin = 1279.3672877442775 
+           xmax = 1279.9156094093676 
+           text = "<NOISE>"
+       intervals [403]:
+           xmin = 1279.9156094093676 
+           xmax = 1286.6652761444896 
+           text = "Then Schneider's legs buckled and he dropped full-weight onto his knees, the jolt knocking the gun from his twitching fingers."
+       intervals [404]:
+           xmin = 1286.6652761444896 
+           xmax = 1295.74 
+           text = "There was a hissing sound and Dez saw a geyser of bright red blood shoot outward from below Schneider's chin and splash the pale face of Andy Diviny."
+       intervals [405]:
+           xmin = 1295.74 
+           xmax = 1296.51 
+           text = "<NOISE>"
+       intervals [406]:
+           xmin = 1296.51 
+           xmax = 1302.5317198108276 
+           text = "The blood struck him in the mouth and eyes and splattered the rubbery leaves of a big rhododendron."
+       intervals [407]:
+           xmin = 1302.5317198108276 
+           xmax = 1303.1377595459269 
+           text = "<NOISE>"
+       intervals [408]:
+           xmin = 1303.1377595459269 
+           xmax = 1307.34 
+           text = "As Schneider canted sideways and fell, Diviny stared straight at Dez."
+       intervals [409]:
+           xmin = 1307.34 
+           xmax = 1309.04 
+           text = "<NOISE>"
+       intervals [410]:
+           xmin = 1309.04 
+           xmax = 1311.61 
+           text = "Okay. I'll get what I can get. Anything else?"
+       intervals [411]:
+           xmin = 1311.61 
+           xmax = 1313.1451506080532 
+           text = "<NOISE>"
+       intervals [412]:
+           xmin = 1313.1451506080532 
+           xmax = 1314.36 
+           text = "Chapter Twenty-four"
+       intervals [413]:
+           xmin = 1314.36 
+           xmax = 1316 
+           text = "<NOISE>"
+       intervals [414]:
+           xmin = 1316 
+           xmax = 1318.07 
+           text = "Is this tied with what's happening at Doc's?"
+       intervals [415]:
+           xmin = 1318.07 
+           xmax = 1319.62 
+           text = "<NOISE>"
+       intervals [416]:
+           xmin = 1319.62 
+           xmax = 1320.04 
+           text = "No."
+       intervals [417]:
+           xmin = 1320.04 
+           xmax = 1322.3 
+           text = "<NOISE>"
+       intervals [418]:
+           xmin = 1322.3 
+           xmax = 1325.6948132259652 
+           text = "Ouch, she said. I'll see if I can find out what's going on out there."
+       intervals [419]:
+           xmin = 1325.6948132259652 
+           xmax = 1330.86 
+           text = "Lots of cops on that one and more coming in, and they just made a second call for ambulances."
+       intervals [420]:
+           xmin = 1330.86 
+           xmax = 1331.7 
+           text = "<NOISE>"
+       intervals [421]:
+           xmin = 1331.7 
+           xmax = 1338.95 
+           text = "The sounds of the forest were gone, washed out of the moment by another sound. That of Andy Diviny chewing a mouthful of flesh."
+       intervals [422]:
+           xmin = 1338.95 
+           xmax = 1341.77 
+           text = "<NOISE>"
+       intervals [423]:
+           xmin = 1341.77 
+           xmax = 1348.455219629904 
+           text = "This time it was Sheldon who spoke who almost sobbed the word and then his sob turned into snarl as he rushed forward"
+       intervals [424]:
+           xmin = 1348.455219629904 
+           xmax = 1355.6699783810873 
+           text = "and swung the stock of his shotgun at Diviny's jaw. Dez watched, unable to react. There was a terrific crack!"
+       intervals [425]:
+           xmin = 1355.6699783810873 
+           xmax = 1363.24 
+           text = "Bone shattered, teeth flew, and the young cop's head whipped around so fast that his whole body was spun into an awkward pirouette."
+       intervals [426]:
+           xmin = 1363.24 
+           xmax = 1364.18 
+           text = "<NOISE>"
+       intervals [427]:
+           xmin = 1364.18 
+           xmax = 1370.865300004639 
+           text = "Officer Jeff Straus lay faceup on the grass at the far side of the clearing. His entire face was gone."
+       intervals [428]:
+           xmin = 1370.865300004639 
+           xmax = 1376.05 
+           text = "Torn away to reveal ragged red muscle and white bone. Blood oozed down the sides of his face."
+       intervals [429]:
+           xmin = 1376.05 
+           xmax = 1376.08 
+           text = "<NOISE>"
+       intervals [430]:
+           xmin = 1376.08 
+           xmax = 1379.53 
+           text = "Strauss's pistol lay three inches from his hand."
+       intervals [431]:
+           xmin = 1379.53 
+           xmax = 1381.56 
+           text = "<NOISE>"
+       intervals [432]:
+           xmin = 1381.56 
+           xmax = 1386.87 
+           text = "Diviny crashed into the rhododendron and fell almost out of sight except for his twitching legs."
+       intervals [433]:
+           xmin = 1386.87 
+           xmax = 1388.34 
+           text = "<NOISE>"
+       intervals [434]:
+           xmin = 1388.34 
+           xmax = 1392.59 
+           text = "Purple lips peeled back from bloodstained teeth and Diviny hissed at her."
+       intervals [435]:
+           xmin = 1392.59 
+           xmax = 1394.0337496803359 
+           text = "<NOISE>"
+       intervals [436]:
+           xmin = 1394.0337496803359 
+           xmax = 1395.63 
+           text = "No! screamed Sheldon."
+       intervals [437]:
+           xmin = 1395.63 
+           xmax = 1397.42 
+           text = "<NOISE>"
+       intervals [438]:
+           xmin = 1397.42 
+           xmax = 1399.47 
+           text = "Hartnup's Transition State"
+       intervals [439]:
+           xmin = 1399.47 
+           xmax = 1400.87 
+           text = "<NOISE>"
+       intervals [440]:
+           xmin = 1400.87 
+           xmax = 1408.944497735532 
+           text = "There were sounds behind her. Yells, bodies crashing through the brush, and, as she turned, JT was there, and the others were right behind him."
+       intervals [441]:
+           xmin = 1408.944497735532 
+           xmax = 1414.96 
+           text = "They hit the edge of the clearing and jerked to a stop as if there were a force field. It was impossible to them as well."
+       intervals [442]:
+           xmin = 1414.96 
+           xmax = 1417.22 
+           text = "<NOISE>"
+       intervals [443]:
+           xmin = 1417.22 
+           xmax = 1423.108258336591 
+           text = "Dez heard the word, but she could not tell if she spoke it, or Sheldon. It could not have been Strauss."
+       intervals [444]:
+           xmin = 1423.108258336591 
+           xmax = 1426.8310738522014 
+           text = "That much was obvious. He had no lips left with which to speak."
+       intervals [445]:
+           xmin = 1426.8310738522014 
+           xmax = 1433.24 
+           text = "His mouth and cheeks had been torn away, and his eyes stared in terminal astonishment up at the roof of green leaves."
+       intervals [446]:
+           xmin = 1433.24 
+           xmax = 1434.08 
+           text = "<NOISE>"
+       intervals [447]:
+           xmin = 1434.08 
+           xmax = 1434.69 
+           text = "No!"
+       intervals [448]:
+           xmin = 1434.69 
+           xmax = 1436 
+           text = "<NOISE>"
+       intervals [449]:
+           xmin = 1436 
+           xmax = 1442.54 
+           text = "It was Andy Diviny, said Dez woodenly. When we got here Strauss was down and Andy was biting Schneider."
+       intervals [450]:
+           xmin = 1442.54 
+           xmax = 1443.13 
+           text = "<NOISE>"
+       intervals [451]:
+           xmin = 1443.13 
+           xmax = 1448.18 
+           text = "I don't, I don't she shook her head, unable to construct a logical end to that sentence."
+       intervals [452]:
+           xmin = 1448.18 
+           xmax = 1450.03 
+           text = "<NOISE>"
+       intervals [453]:
+           xmin = 1450.03 
+           xmax = 1456.0216888016366 
+           text = "Sheldon looked down at him and then jerked his head around to look at Schneider and Strauss; then he spun toward Dez."
+       intervals [454]:
+           xmin = 1456.0216888016366 
+           xmax = 1460.6 
+           text = "His eyes were huge and wild and he was breathing in and out with alarming rapidity."
+       intervals [455]:
+           xmin = 1460.6 
+           xmax = 1461.51 
+           text = "<NOISE>"
+       intervals [456]:
+           xmin = 1461.51 
+           xmax = 1462.76 
+           text = "Dez! Are you hurt?"
+       intervals [457]:
+           xmin = 1462.76 
+           xmax = 1464.22 
+           text = "<NOISE>"
+       intervals [458]:
+           xmin = 1464.22 
+           xmax = 1467.77 
+           text = "Dez shook her head in mute agreement and denial."
+       intervals [459]:
+           xmin = 1467.77 
+           xmax = 1468.83 
+           text = "<NOISE>"
+       intervals [460]:
+           xmin = 1468.83 
+           xmax = 1469.62 
+           text = "She said, No."
+       intervals [461]:
+           xmin = 1469.62 
+           xmax = 1471.54 
+           text = "<NOISE>"
+       intervals [462]:
+           xmin = 1471.54 
+           xmax = 1478.6666590655566 
+           text = "Three officers down. Two dead. One battered and twitching. Everyone looked around wildly for the perps, for the maniacs who had done this"
+       intervals [463]:
+           xmin = 1478.6666590655566 
+           xmax = 1482.1 
+           text = "and gradually those eyes focused on Sheldon and Dez."
+       intervals [464]:
+           xmin = 1482.1 
+           xmax = 1483.76 
+           text = "<NOISE>"
+       intervals [465]:
+           xmin = 1483.76 
+           xmax = 1491.02 
+           text = "Chief Goss came waddling into the clearing, his face bright red and his uniform damp at the chest and armpits with fresh sweat."
+       intervals [466]:
+           xmin = 1491.02 
+           xmax = 1491.65 
+           text = "<NOISE>"
+       intervals [467]:
+           xmin = 1491.65 
+           xmax = 1497.01 
+           text = "Dez pulled free of JT's hug and turned toward him. She watched him as he tried to read the scene."
+       intervals [468]:
+           xmin = 1497.01 
+           xmax = 1498.49 
+           text = "<NOISE>"
+       intervals [469]:
+           xmin = 1498.49 
+           xmax = 1505.0901541105231 
+           text = "JT stood blinking at the dead officers, his eyelids fluttering as if they could brush away the image that he was seeing."
+       intervals [470]:
+           xmin = 1505.0901541105231 
+           xmax = 1510.169344271356 
+           text = "Then he took a tentative step in, and another, and then he ran the rest of the way to Dez."
+       intervals [471]:
+           xmin = 1510.169344271356 
+           xmax = 1515.24 
+           text = "He took her by the arms and stared at her, his gaze flicking up and down, looking for injuries."
+       intervals [472]:
+           xmin = 1515.24 
+           xmax = 1516.29 
+           text = "<NOISE>"
+       intervals [473]:
+           xmin = 1516.29 
+           xmax = 1519.45 
+           text = "He did what? shouted goss. What are you trying to say?"
+       intervals [474]:
+           xmin = 1519.45 
+           xmax = 1520.79 
+           text = "<NOISE>"
+       intervals [475]:
+           xmin = 1520.79 
+           xmax = 1521.92 
+           text = "She half laughed."
+       intervals [476]:
+           xmin = 1521.92 
+           xmax = 1522.5968766647331 
+           text = "<NOISE>"
+       intervals [477]:
+           xmin = 1522.5968766647331 
+           xmax = 1526.85 
+           text = "That was what he had asked her before. The answer was clear. The answer was yes."
+       intervals [478]:
+           xmin = 1526.85 
+           xmax = 1527.8 
+           text = "<NOISE>"
+       intervals [479]:
+           xmin = 1527.8 
+           xmax = 1531.1 
+           text = "Hey! yelled JT. Sheldon watch He's getting up?"
+       intervals [480]:
+           xmin = 1531.1 
+           xmax = 1532.85 
+           text = "<NOISE>"
+       intervals [481]:
+           xmin = 1532.85 
+           xmax = 1538.02 
+           text = "He suddenly pulled her to him and gave her a fierce hug. Like a father would. Like a brother in arms would."
+       intervals [482]:
+           xmin = 1538.02 
+           xmax = 1539.2405062990808 
+           text = "<NOISE>"
+       intervals [483]:
+           xmin = 1539.2405062990808 
+           xmax = 1540.94 
+           text = "Cuff that sick son of a shrew!"
+       intervals [484]:
+           xmin = 1540.94 
+           xmax = 1542.45 
+           text = "<NOISE>"
+       intervals [485]:
+           xmin = 1542.45 
+           xmax = 1546.9458686453445 
+           text = "It was Andy, said Sheldon in a hoarse voice. Andy Diviny he"
+       intervals [486]:
+           xmin = 1546.9458686453445 
+           xmax = 1547.5519083804438 
+           text = "<NOISE>"
+       intervals [487]:
+           xmin = 1547.5519083804438 
+           xmax = 1549.1968733757135 
+           text = "Wait, what do you seing show?"
+       intervals [488]:
+           xmin = 1549.1968733757135 
+           xmax = 1549.78 
+           text = "<NOISE>"
+       intervals [489]:
+           xmin = 1549.78 
+           xmax = 1556.72 
+           text = "said the older of the two you're all screwed up here. Andy got here the same time we did. He couldn't have attacked Doc and"
+       intervals [490]:
+           xmin = 1556.72 
+           xmax = 1558.76 
+           text = "<NOISE>"
+       intervals [491]:
+           xmin = 1558.76 
+           xmax = 1563.2733875460522 
+           text = "He shook his head. Like Dez, he did not possess a vocabulary for this."
+       intervals [492]:
+           xmin = 1563.2733875460522 
+           xmax = 1563.9082863161561 
+           text = "<NOISE>"
+       intervals [493]:
+           xmin = 1563.9082863161561 
+           xmax = 1568.6915218892648 
+           text = "Diviny twisted around on the, on the ground. His eyes were wide and dark and empty."
+       intervals [494]:
+           xmin = 1568.6915218892648 
+           xmax = 1573.741853015093 
+           text = "His shattered chin was bearded with blood, and his throat was a junkyard of torn flesh."
+       intervals [495]:
+           xmin = 1573.741853015093 
+           xmax = 1583.4384887766832 
+           text = "His mouth was a feral snarl. With another unnatural hiss, he threw himself at the older cop, but the officer jerked away, backpedaling ten feet."
+       intervals [496]:
+           xmin = 1583.4384887766832 
+           xmax = 1586.6 
+           text = "Every gun swiveled around and pointed at Diviny."
+       intervals [497]:
+           xmin = 1586.6 
+           xmax = 1588.65 
+           text = "<NOISE>"
+       intervals [498]:
+           xmin = 1588.65 
+           xmax = 1592.27 
+           text = "It's true, croaked Dez. Diviny, he when we got here he was."
+       intervals [499]:
+           xmin = 1592.27 
+           xmax = 1593.6492309077998 
+           text = "<NOISE>"
+       intervals [500]:
+           xmin = 1593.6492309077998 
+           xmax = 1596.05 
+           text = "Hey, it was nice talking to you, but I have to go."
+       intervals [501]:
+           xmin = 1596.05 
+           xmax = 1596.95 
+           text = "<NOISE>"
+       intervals [502]:
+           xmin = 1596.95 
+           xmax = 1602.6465549173054 
+           text = "Everyone turned toward Diviny, who was struggling to get to his hands and knees in the dense tangle of the shrubbery."
+       intervals [503]:
+           xmin = 1602.6465549173054 
+           xmax = 1606.0807800828686 
+           text = "He snarled, exposing jagged rows of broken teeth."
+       intervals [504]:
+           xmin = 1606.0807800828686 
+           xmax = 1612.626425595839 
+           text = "Then, with a savage growl, Sheldon Higdon stepped forward and grabbed him by the back of the belt and hauled him up  "
+       intervals [505]:
+           xmin = 1612.626425595839 
+           xmax = 1617.34 
+           text = "spun him violently around and then flung him face first onto the grass."
+       intervals [506]:
+           xmin = 1617.34 
+           xmax = 1619.3794397869465 
+           text = "<NOISE>"
+       intervals [507]:
+           xmin = 1619.3794397869465 
+           xmax = 1623.47 
+           text = "The two closest officers hesitated. This was all so weird."
+       intervals [508]:
+           xmin = 1623.47 
+           xmax = 1624.42 
+           text = "<NOISE>"
+       intervals [509]:
+           xmin = 1624.42 
+           xmax = 1628.1458915164142 
+           text = "Open your eyes! He just killed Mike Schneider and Jeff Strauss, curse it."
+       intervals [510]:
+           xmin = 1628.1458915164142 
+           xmax = 1635.8 
+           text = "We saw him do it, yelled Sheldon, and he aimed a savage kick at Diviny's backside, knocking the young cop down as he tried to get up."
+       intervals [511]:
+           xmin = 1635.8 
+           xmax = 1639.44 
+           text = "Throw some cuffs on that loser before I pop a cap in"
+       intervals [512]:
+           xmin = 1639.44 
+           xmax = 1640.87 
+           text = "<NOISE>"
+       intervals [513]:
+           xmin = 1640.87 
+           xmax = 1644.5995923741004 
+           text = "As Diviny rushed at Sheldon, Dez stuck a leg out and tripped him."
+       intervals [514]:
+           xmin = 1644.5995923741004 
+           xmax = 1651.24 
+           text = "The deranged young cop fell hard, but again he began climbing to his feet, showing no signs of pain or fear."
+       intervals [515]:
+           xmin = 1651.24 
+           xmax = 1652.73 
+           text = "<NOISE>"
+       intervals [516]:
+           xmin = 1652.73 
+           xmax = 1654.91 
+           text = "OK, no problem. Have a good one!"
+   item [2]:
+       class = "IntervalTier"
+       name = "???"
+       xmin = 0 
+       xmax = 1654.91 
+       intervals: size = 516 
+       intervals [1]:
+           xmin = 0 
+           xmax = 0.03 
+           text = "<NOISE>"
+       intervals [2]:
+           xmin = 0.03 
+           xmax = 1.07 
+           text = "<A>"
+       intervals [3]:
+           xmin = 1.07 
+           xmax = 2.1 
+           text = "<NOISE>"
+       intervals [4]:
+           xmin = 2.1 
+           xmax = 4.89 
+           text = "<B>"
+       intervals [5]:
+           xmin = 4.89 
+           xmax = 6.02 
+           text = "<NOISE>"
+       intervals [6]:
+           xmin = 6.02 
+           xmax = 7.684234626300852 
+           text = "<A>"
+       intervals [7]:
+           xmin = 7.684234626300852 
+           xmax = 8.232556291390729 
+           text = "<NOISE>"
+       intervals [8]:
+           xmin = 8.232556291390729 
+           xmax = 12.46 
+           text = "<A>"
+       intervals [9]:
+           xmin = 12.46 
+           xmax = 13.63 
+           text = "<NOISE>"
+       intervals [10]:
+           xmin = 13.63 
+           xmax = 17.25 
+           text = "<B>"
+       intervals [11]:
+           xmin = 17.25 
+           xmax = 18.26 
+           text = "<NOISE>"
+       intervals [12]:
+           xmin = 18.26 
+           xmax = 25.11040400685113 
+           text = "<A>"
+       intervals [13]:
+           xmin = 25.11040400685113 
+           xmax = 31.60368688291546 
+           text = "<A>"
+       intervals [14]:
+           xmin = 31.60368688291546 
+           xmax = 32.72 
+           text = "<NOISE>"
+       intervals [15]:
+           xmin = 32.72 
+           xmax = 37.08221742641737 
+           text = "<B>"
+       intervals [16]:
+           xmin = 37.08221742641737 
+           xmax = 37.659398126511974 
+           text = "<NOISE>"
+       intervals [17]:
+           xmin = 37.659398126511974 
+           xmax = 42.84 
+           text = "<B>"
+       intervals [18]:
+           xmin = 42.84 
+           xmax = 44 
+           text = "<NOISE>"
+       intervals [19]:
+           xmin = 44 
+           xmax = 48.2151091988185 
+           text = "<A>"
+       intervals [20]:
+           xmin = 48.2151091988185 
+           xmax = 51.851347609414525 
+           text = "<A>"
+       intervals [21]:
+           xmin = 51.851347609414525 
+           xmax = 57.24798715529909 
+           text = "<A>"
+       intervals [22]:
+           xmin = 57.24798715529909 
+           xmax = 61.80771468604649 
+           text = "<A>"
+       intervals [23]:
+           xmin = 61.80771468604649 
+           xmax = 62.990935121240426 
+           text = "<NOISE>"
+       intervals [24]:
+           xmin = 62.990935121240426 
+           xmax = 65.11 
+           text = "<B>"
+       intervals [25]:
+           xmin = 65.11 
+           xmax = 66.73 
+           text = "<NOISE>"
+       intervals [26]:
+           xmin = 66.73 
+           xmax = 70.16 
+           text = "<A>"
+       intervals [27]:
+           xmin = 70.16 
+           xmax = 71.22 
+           text = "<NOISE>"
+       intervals [28]:
+           xmin = 71.22 
+           xmax = 75.50838462852269 
+           text = "<B>"
+       intervals [29]:
+           xmin = 75.50838462852269 
+           xmax = 80.87 
+           text = "<B>"
+       intervals [30]:
+           xmin = 80.87 
+           xmax = 82.34 
+           text = "<NOISE>"
+       intervals [31]:
+           xmin = 82.34 
+           xmax = 88.41 
+           text = "<A>"
+       intervals [32]:
+           xmin = 88.41 
+           xmax = 89.3 
+           text = "<NOISE>"
+       intervals [33]:
+           xmin = 89.3 
+           xmax = 95.7855646137275 
+           text = "<B>"
+       intervals [34]:
+           xmin = 95.7855646137275 
+           xmax = 101.73052582470197 
+           text = "<B>"
+       intervals [35]:
+           xmin = 101.73052582470197 
+           xmax = 107.24 
+           text = "<B>"
+       intervals [36]:
+           xmin = 107.24 
+           xmax = 108.9969729223552 
+           text = "<NOISE>"
+       intervals [37]:
+           xmin = 108.9969729223552 
+           xmax = 114.52 
+           text = "<A>"
+       intervals [38]:
+           xmin = 114.52 
+           xmax = 115.93 
+           text = "<NOISE>"
+       intervals [39]:
+           xmin = 115.93 
+           xmax = 117.54 
+           text = "<B>"
+       intervals [40]:
+           xmin = 117.54 
+           xmax = 119.23 
+           text = "<NOISE>"
+       intervals [41]:
+           xmin = 119.23 
+           xmax = 120.28 
+           text = "<A>"
+       intervals [42]:
+           xmin = 120.28 
+           xmax = 121.43 
+           text = "<NOISE>"
+       intervals [43]:
+           xmin = 121.43 
+           xmax = 127.80368242864071 
+           text = "<B>"
+       intervals [44]:
+           xmin = 127.80368242864071 
+           xmax = 131.2090485591989 
+           text = "<B>"
+       intervals [45]:
+           xmin = 131.2090485591989 
+           xmax = 138.54 
+           text = "<B>"
+       intervals [46]:
+           xmin = 138.54 
+           xmax = 139.67 
+           text = "<NOISE>"
+       intervals [47]:
+           xmin = 139.67 
+           xmax = 144.07213881574188 
+           text = "<A>"
+       intervals [48]:
+           xmin = 144.07213881574188 
+           xmax = 148.8050205565177 
+           text = "<A>"
+       intervals [49]:
+           xmin = 148.8050205565177 
+           xmax = 152.39 
+           text = "<A>"
+       intervals [50]:
+           xmin = 152.39 
+           xmax = 153.48 
+           text = "<NOISE>"
+       intervals [51]:
+           xmin = 153.48 
+           xmax = 161.9 
+           text = "<B>"
+       intervals [52]:
+           xmin = 161.9 
+           xmax = 162.56 
+           text = "<NOISE>"
+       intervals [53]:
+           xmin = 162.56 
+           xmax = 168.912397097499 
+           text = "<B>"
+       intervals [54]:
+           xmin = 168.912397097499 
+           xmax = 174.32 
+           text = "<B>"
+       intervals [55]:
+           xmin = 174.32 
+           xmax = 175.28 
+           text = "<NOISE>"
+       intervals [56]:
+           xmin = 175.28 
+           xmax = 180 
+           text = "<A>"
+       intervals [57]:
+           xmin = 180 
+           xmax = 180.89 
+           text = "<NOISE>"
+       intervals [58]:
+           xmin = 180.89 
+           xmax = 181.99 
+           text = "<B>"
+       intervals [59]:
+           xmin = 181.99 
+           xmax = 183.26 
+           text = "<NOISE>"
+       intervals [60]:
+           xmin = 183.26 
+           xmax = 191.41 
+           text = "<A>"
+       intervals [61]:
+           xmin = 191.41 
+           xmax = 192.25 
+           text = "<NOISE>"
+       intervals [62]:
+           xmin = 192.25 
+           xmax = 193.64 
+           text = "<A>"
+       intervals [63]:
+           xmin = 193.64 
+           xmax = 195.02 
+           text = "<NOISE>"
+       intervals [64]:
+           xmin = 195.02 
+           xmax = 201.46 
+           text = "<B>"
+       intervals [65]:
+           xmin = 201.46 
+           xmax = 202.62850194083438 
+           text = "<NOISE>"
+       intervals [66]:
+           xmin = 202.62850194083438 
+           xmax = 203.66 
+           text = "<A>"
+       intervals [67]:
+           xmin = 203.66 
+           xmax = 205 
+           text = "<NOISE>"
+       intervals [68]:
+           xmin = 205 
+           xmax = 206.28 
+           text = "<B>"
+       intervals [69]:
+           xmin = 206.28 
+           xmax = 207.5 
+           text = "<NOISE>"
+       intervals [70]:
+           xmin = 207.5 
+           xmax = 208.45802701178994 
+           text = "<A>"
+       intervals [71]:
+           xmin = 208.45802701178994 
+           xmax = 209.35265709693658 
+           text = "<NOISE>"
+       intervals [72]:
+           xmin = 209.35265709693658 
+           xmax = 210.88 
+           text = "<B>"
+       intervals [73]:
+           xmin = 210.88 
+           xmax = 212.9 
+           text = "<NOISE>"
+       intervals [74]:
+           xmin = 212.9 
+           xmax = 214.7 
+           text = "<A>"
+       intervals [75]:
+           xmin = 214.7 
+           xmax = 216.95 
+           text = "<NOISE>"
+       intervals [76]:
+           xmin = 216.95 
+           xmax = 220.36742632448983 
+           text = "<B>"
+       intervals [77]:
+           xmin = 220.36742632448983 
+           xmax = 230.06406208607928 
+           text = "<B>"
+       intervals [78]:
+           xmin = 230.06406208607928 
+           xmax = 234.47547269538214 
+           text = "<B>"
+       intervals [79]:
+           xmin = 234.47547269538214 
+           xmax = 235.0815124304815 
+           text = "<NOISE>"
+       intervals [80]:
+           xmin = 235.0815124304815 
+           xmax = 239.843253206262 
+           text = "<B>"
+       intervals [81]:
+           xmin = 239.843253206262 
+           xmax = 245.42 
+           text = "<B>"
+       intervals [82]:
+           xmin = 245.42 
+           xmax = 246.96339301449865 
+           text = "<NOISE>"
+       intervals [83]:
+           xmin = 246.96339301449865 
+           xmax = 252.24459642036436 
+           text = "<A>"
+       intervals [84]:
+           xmin = 252.24459642036436 
+           xmax = 256.7 
+           text = "<A>"
+       intervals [85]:
+           xmin = 256.7 
+           xmax = 258.23 
+           text = "<NOISE>"
+       intervals [86]:
+           xmin = 258.23 
+           xmax = 267.75 
+           text = "<B>"
+       intervals [87]:
+           xmin = 267.75 
+           xmax = 268.9 
+           text = "<NOISE>"
+       intervals [88]:
+           xmin = 268.9 
+           xmax = 275.46874791440183 
+           text = "<A>"
+       intervals [89]:
+           xmin = 275.46874791440183 
+           xmax = 276.1036466845059 
+           text = "<NOISE>"
+       intervals [90]:
+           xmin = 276.1036466845059 
+           xmax = 283.19358466905055 
+           text = "<B>"
+       intervals [91]:
+           xmin = 283.19358466905055 
+           xmax = 286.96 
+           text = "<B>"
+       intervals [92]:
+           xmin = 286.96 
+           xmax = 288.46 
+           text = "<NOISE>"
+       intervals [93]:
+           xmin = 288.46 
+           xmax = 293.86 
+           text = "<A>"
+       intervals [94]:
+           xmin = 293.86 
+           xmax = 294.53518542590984 
+           text = "<NOISE>"
+       intervals [95]:
+           xmin = 294.53518542590984 
+           xmax = 300.01 
+           text = "<B>"
+       intervals [96]:
+           xmin = 300.01 
+           xmax = 300.6781364805865 
+           text = "<NOISE>"
+       intervals [97]:
+           xmin = 300.6781364805865 
+           xmax = 303.14 
+           text = "<B>"
+       intervals [98]:
+           xmin = 303.14 
+           xmax = 304.21 
+           text = "<NOISE>"
+       intervals [99]:
+           xmin = 304.21 
+           xmax = 304.76 
+           text = "<A>"
+       intervals [100]:
+           xmin = 304.76 
+           xmax = 306.32 
+           text = "<NOISE>"
+       intervals [101]:
+           xmin = 306.32 
+           xmax = 306.81 
+           text = "<B>"
+       intervals [102]:
+           xmin = 306.81 
+           xmax = 308.33 
+           text = "<NOISE>"
+       intervals [103]:
+           xmin = 308.33 
+           xmax = 311.7553140228211 
+           text = "<A>"
+       intervals [104]:
+           xmin = 311.7553140228211 
+           xmax = 320.29 
+           text = "<A>"
+       intervals [105]:
+           xmin = 320.29 
+           xmax = 321.39 
+           text = "<NOISE>"
+       intervals [106]:
+           xmin = 321.39 
+           xmax = 330.02 
+           text = "<B>"
+       intervals [107]:
+           xmin = 330.02 
+           xmax = 331.34 
+           text = "<NOISE>"
+       intervals [108]:
+           xmin = 331.34 
+           xmax = 338.49 
+           text = "<A>"
+       intervals [109]:
+           xmin = 338.49 
+           xmax = 339.33 
+           text = "<NOISE>"
+       intervals [110]:
+           xmin = 339.33 
+           xmax = 340.14 
+           text = "<B>"
+       intervals [111]:
+           xmin = 340.14 
+           xmax = 341.37 
+           text = "<NOISE>"
+       intervals [112]:
+           xmin = 341.37 
+           xmax = 347.66 
+           text = "<A>"
+       intervals [113]:
+           xmin = 347.66 
+           xmax = 348.54 
+           text = "<NOISE>"
+       intervals [114]:
+           xmin = 348.54 
+           xmax = 351.03 
+           text = "<B>"
+       intervals [115]:
+           xmin = 351.03 
+           xmax = 352.6 
+           text = "<NOISE>"
+       intervals [116]:
+           xmin = 352.6 
+           xmax = 357.62 
+           text = "<A>"
+       intervals [117]:
+           xmin = 357.62 
+           xmax = 358.57 
+           text = "<NOISE>"
+       intervals [118]:
+           xmin = 358.57 
+           xmax = 361.12 
+           text = "<B>"
+       intervals [119]:
+           xmin = 361.12 
+           xmax = 362.3 
+           text = "<NOISE>"
+       intervals [120]:
+           xmin = 362.3 
+           xmax = 364.98 
+           text = "<A>"
+       intervals [121]:
+           xmin = 364.98 
+           xmax = 366.28 
+           text = "<NOISE>"
+       intervals [122]:
+           xmin = 366.28 
+           xmax = 369.98 
+           text = "<B>"
+       intervals [123]:
+           xmin = 369.98 
+           xmax = 371.69 
+           text = "<NOISE>"
+       intervals [124]:
+           xmin = 371.69 
+           xmax = 378.9398568062572 
+           text = "<A>"
+       intervals [125]:
+           xmin = 378.9398568062572 
+           xmax = 383.93 
+           text = "<A>"
+       intervals [126]:
+           xmin = 383.93 
+           xmax = 385.74 
+           text = "<NOISE>"
+       intervals [127]:
+           xmin = 385.74 
+           xmax = 391.57 
+           text = "<B>"
+       intervals [128]:
+           xmin = 391.57 
+           xmax = 393.05 
+           text = "<NOISE>"
+       intervals [129]:
+           xmin = 393.05 
+           xmax = 399.73649859409204 
+           text = "<A>"
+       intervals [130]:
+           xmin = 399.73649859409204 
+           xmax = 403.02 
+           text = "<A>"
+       intervals [131]:
+           xmin = 403.02 
+           xmax = 404.5559574398821 
+           text = "<NOISE>"
+       intervals [132]:
+           xmin = 404.5559574398821 
+           xmax = 408.77 
+           text = "<B>"
+       intervals [133]:
+           xmin = 408.77 
+           xmax = 410.25 
+           text = "<NOISE>"
+       intervals [134]:
+           xmin = 410.25 
+           xmax = 420.22 
+           text = "<A>"
+       intervals [135]:
+           xmin = 420.22 
+           xmax = 421.59 
+           text = "<NOISE>"
+       intervals [136]:
+           xmin = 421.59 
+           xmax = 422.82 
+           text = "<B>"
+       intervals [137]:
+           xmin = 422.82 
+           xmax = 424.17 
+           text = "<NOISE>"
+       intervals [138]:
+           xmin = 424.17 
+           xmax = 428.96 
+           text = "<A>"
+       intervals [139]:
+           xmin = 428.96 
+           xmax = 430.286153079749 
+           text = "<NOISE>"
+       intervals [140]:
+           xmin = 430.286153079749 
+           xmax = 433.15 
+           text = "<B>"
+       intervals [141]:
+           xmin = 433.15 
+           xmax = 434.89 
+           text = "<NOISE>"
+       intervals [142]:
+           xmin = 434.89 
+           xmax = 435.64 
+           text = "<A>"
+       intervals [143]:
+           xmin = 435.64 
+           xmax = 436.87 
+           text = "<NOISE>"
+       intervals [144]:
+           xmin = 436.87 
+           xmax = 439.41 
+           text = "<B>"
+       intervals [145]:
+           xmin = 439.41 
+           xmax = 439.98 
+           text = "<NOISE>"
+       intervals [146]:
+           xmin = 439.98 
+           xmax = 445.287488402011 
+           text = "<B>"
+       intervals [147]:
+           xmin = 445.287488402011 
+           xmax = 448.52 
+           text = "<B>"
+       intervals [148]:
+           xmin = 448.52 
+           xmax = 449.16 
+           text = "<NOISE>"
+       intervals [149]:
+           xmin = 449.16 
+           xmax = 454.22 
+           text = "<B>"
+       intervals [150]:
+           xmin = 454.22 
+           xmax = 455.56 
+           text = "<NOISE>"
+       intervals [151]:
+           xmin = 455.56 
+           xmax = 463.89017337632527 
+           text = "<A>"
+       intervals [152]:
+           xmin = 463.89017337632527 
+           xmax = 464.9579576715003 
+           text = "<NOISE>"
+       intervals [153]:
+           xmin = 464.9579576715003 
+           xmax = 472.98 
+           text = "<B>"
+       intervals [154]:
+           xmin = 472.98 
+           xmax = 474.6 
+           text = "<NOISE>"
+       intervals [155]:
+           xmin = 474.6 
+           xmax = 480.32 
+           text = "<A>"
+       intervals [156]:
+           xmin = 480.32 
+           xmax = 482.12 
+           text = "<NOISE>"
+       intervals [157]:
+           xmin = 482.12 
+           xmax = 485.43 
+           text = "<B>"
+       intervals [158]:
+           xmin = 485.43 
+           xmax = 486.4 
+           text = "<NOISE>"
+       intervals [159]:
+           xmin = 486.4 
+           xmax = 488.48 
+           text = "<A>"
+       intervals [160]:
+           xmin = 488.48 
+           xmax = 489.83 
+           text = "<NOISE>"
+       intervals [161]:
+           xmin = 489.83 
+           xmax = 494.26399138439973 
+           text = "<B>"
+       intervals [162]:
+           xmin = 494.26399138439973 
+           xmax = 499.08345023018984 
+           text = "<B>"
+       intervals [163]:
+           xmin = 499.08345023018984 
+           xmax = 503.11 
+           text = "<B>"
+       intervals [164]:
+           xmin = 503.11 
+           xmax = 504.71 
+           text = "<NOISE>"
+       intervals [165]:
+           xmin = 504.71 
+           xmax = 512.75 
+           text = "<A>"
+       intervals [166]:
+           xmin = 512.75 
+           xmax = 514.86 
+           text = "<NOISE>"
+       intervals [167]:
+           xmin = 514.86 
+           xmax = 522.86 
+           text = "<B>"
+       intervals [168]:
+           xmin = 522.86 
+           xmax = 524.79 
+           text = "<NOISE>"
+       intervals [169]:
+           xmin = 524.79 
+           xmax = 528.27 
+           text = "<A>"
+       intervals [170]:
+           xmin = 528.27 
+           xmax = 530.07 
+           text = "<NOISE>"
+       intervals [171]:
+           xmin = 530.07 
+           xmax = 534.75 
+           text = "<B>"
+       intervals [172]:
+           xmin = 534.75 
+           xmax = 535.96 
+           text = "<NOISE>"
+       intervals [173]:
+           xmin = 535.96 
+           xmax = 541.33 
+           text = "<A>"
+       intervals [174]:
+           xmin = 541.33 
+           xmax = 543.43 
+           text = "<NOISE>"
+       intervals [175]:
+           xmin = 543.43 
+           xmax = 548.4680064137965 
+           text = "<B>"
+       intervals [176]:
+           xmin = 548.4680064137965 
+           xmax = 548.9874690438817 
+           text = "<NOISE>"
+       intervals [177]:
+           xmin = 548.9874690438817 
+           xmax = 552.7391435944968 
+           text = "<B>"
+       intervals [178]:
+           xmin = 552.7391435944968 
+           xmax = 553.258606224582 
+           text = "<NOISE>"
+       intervals [179]:
+           xmin = 553.258606224582 
+           xmax = 558.32 
+           text = "<B>"
+       intervals [180]:
+           xmin = 558.32 
+           xmax = 559.83 
+           text = "<NOISE>"
+       intervals [181]:
+           xmin = 559.83 
+           xmax = 567.7378040962997 
+           text = "<A>"
+       intervals [182]:
+           xmin = 567.7378040962997 
+           xmax = 571.43 
+           text = "<A>"
+       intervals [183]:
+           xmin = 571.43 
+           xmax = 573.2740502274457 
+           text = "<NOISE>"
+       intervals [184]:
+           xmin = 573.2740502274457 
+           xmax = 575.11 
+           text = "<B>"
+       intervals [185]:
+           xmin = 575.11 
+           xmax = 576.82 
+           text = "<NOISE>"
+       intervals [186]:
+           xmin = 576.82 
+           xmax = 582.7 
+           text = "<A>"
+       intervals [187]:
+           xmin = 582.7 
+           xmax = 584.261976671662 
+           text = "<NOISE>"
+       intervals [188]:
+           xmin = 584.261976671662 
+           xmax = 588.7062680623907 
+           text = "<B>"
+       intervals [189]:
+           xmin = 588.7062680623907 
+           xmax = 595.68 
+           text = "<B>"
+       intervals [190]:
+           xmin = 595.68 
+           xmax = 597.39 
+           text = "<NOISE>"
+       intervals [191]:
+           xmin = 597.39 
+           xmax = 604.81 
+           text = "<A>"
+       intervals [192]:
+           xmin = 604.81 
+           xmax = 606.92 
+           text = "<NOISE>"
+       intervals [193]:
+           xmin = 606.92 
+           xmax = 610.4854631388935 
+           text = "<B>"
+       intervals [194]:
+           xmin = 610.4854631388935 
+           xmax = 616.6901556649108 
+           text = "<B>"
+       intervals [195]:
+           xmin = 616.6901556649108 
+           xmax = 618.96 
+           text = "<B>"
+       intervals [196]:
+           xmin = 618.96 
+           xmax = 620.49 
+           text = "<NOISE>"
+       intervals [197]:
+           xmin = 620.49 
+           xmax = 621.73 
+           text = "<A>"
+       intervals [198]:
+           xmin = 621.73 
+           xmax = 623.2049292010287 
+           text = "<NOISE>"
+       intervals [199]:
+           xmin = 623.2049292010287 
+           xmax = 627.66 
+           text = "<B>"
+       intervals [200]:
+           xmin = 627.66 
+           xmax = 629.9579433921359 
+           text = "<NOISE>"
+       intervals [201]:
+           xmin = 629.9579433921359 
+           xmax = 631.83 
+           text = "<A>"
+       intervals [202]:
+           xmin = 631.83 
+           xmax = 633.09 
+           text = "<NOISE>"
+       intervals [203]:
+           xmin = 633.09 
+           xmax = 636.9129708282762 
+           text = "<B>"
+       intervals [204]:
+           xmin = 636.9129708282762 
+           xmax = 639.2163348857313 
+           text = "<NOISE>"
+       intervals [205]:
+           xmin = 639.2163348857313 
+           xmax = 640.66 
+           text = "<A>"
+       intervals [206]:
+           xmin = 640.66 
+           xmax = 642.05 
+           text = "<NOISE>"
+       intervals [207]:
+           xmin = 642.05 
+           xmax = 648.91 
+           text = "<B>"
+       intervals [208]:
+           xmin = 648.91 
+           xmax = 650.8116380615489 
+           text = "<NOISE>"
+       intervals [209]:
+           xmin = 650.8116380615489 
+           xmax = 653.8418367370458 
+           text = "<A>"
+       intervals [210]:
+           xmin = 653.8418367370458 
+           xmax = 655.3713655922966 
+           text = "<NOISE>"
+       intervals [211]:
+           xmin = 655.3713655922966 
+           xmax = 662.39 
+           text = "<B>"
+       intervals [212]:
+           xmin = 662.39 
+           xmax = 665.12 
+           text = "<NOISE>"
+       intervals [213]:
+           xmin = 665.12 
+           xmax = 666.15 
+           text = "<A>"
+       intervals [214]:
+           xmin = 666.15 
+           xmax = 667.62 
+           text = "<NOISE>"
+       intervals [215]:
+           xmin = 667.62 
+           xmax = 672.8545820622406 
+           text = "<B>"
+       intervals [216]:
+           xmin = 672.8545820622406 
+           xmax = 673.3740446923258 
+           text = "<NOISE>"
+       intervals [217]:
+           xmin = 673.3740446923258 
+           xmax = 677.64 
+           text = "<B>"
+       intervals [218]:
+           xmin = 677.64 
+           xmax = 678.19 
+           text = "<NOISE>"
+       intervals [219]:
+           xmin = 678.19 
+           xmax = 685.41 
+           text = "<B>"
+       intervals [220]:
+           xmin = 685.41 
+           xmax = 686.2 
+           text = "<NOISE>"
+       intervals [221]:
+           xmin = 686.2 
+           xmax = 690.446538932778 
+           text = "<B>"
+       intervals [222]:
+           xmin = 690.446538932778 
+           xmax = 690.9082834928537 
+           text = "<NOISE>"
+       intervals [223]:
+           xmin = 690.9082834928537 
+           xmax = 698.4404916290887 
+           text = "<B>"
+       intervals [224]:
+           xmin = 698.4404916290887 
+           xmax = 704.79 
+           text = "<B>"
+       intervals [225]:
+           xmin = 704.79 
+           xmax = 706.76 
+           text = "<NOISE>"
+       intervals [226]:
+           xmin = 706.76 
+           xmax = 712.4861354774845 
+           text = "<A>"
+       intervals [227]:
+           xmin = 712.4861354774845 
+           xmax = 712.9478800375601 
+           text = "<NOISE>"
+       intervals [228]:
+           xmin = 712.9478800375601 
+           xmax = 718.15 
+           text = "<A>"
+       intervals [229]:
+           xmin = 718.15 
+           xmax = 719 
+           text = "<NOISE>"
+       intervals [230]:
+           xmin = 719 
+           xmax = 727.4297568670121 
+           text = "<A>"
+       intervals [231]:
+           xmin = 727.4297568670121 
+           xmax = 729.81 
+           text = "<A>"
+       intervals [232]:
+           xmin = 729.81 
+           xmax = 731.18 
+           text = "<NOISE>"
+       intervals [233]:
+           xmin = 731.18 
+           xmax = 734.66 
+           text = "<B>"
+       intervals [234]:
+           xmin = 734.66 
+           xmax = 735.8498968666033 
+           text = "<NOISE>"
+       intervals [235]:
+           xmin = 735.8498968666033 
+           xmax = 741.6794219375591 
+           text = "<A>"
+       intervals [236]:
+           xmin = 741.6794219375591 
+           xmax = 745.21 
+           text = "<A>"
+       intervals [237]:
+           xmin = 745.21 
+           xmax = 747.71 
+           text = "<NOISE>"
+       intervals [238]:
+           xmin = 747.71 
+           xmax = 749.8136373055576 
+           text = "<B>"
+       intervals [239]:
+           xmin = 749.8136373055576 
+           xmax = 757.316986406788 
+           text = "<B>"
+       intervals [240]:
+           xmin = 757.316986406788 
+           xmax = 759.62 
+           text = "<B>"
+       intervals [241]:
+           xmin = 759.62 
+           xmax = 761.17 
+           text = "<NOISE>"
+       intervals [242]:
+           xmin = 761.17 
+           xmax = 766.8324302576917 
+           text = "<A>"
+       intervals [243]:
+           xmin = 766.8324302576917 
+           xmax = 770.01 
+           text = "<A>"
+       intervals [244]:
+           xmin = 770.01 
+           xmax = 771.14 
+           text = "<NOISE>"
+       intervals [245]:
+           xmin = 771.14 
+           xmax = 779.69 
+           text = "<A>"
+       intervals [246]:
+           xmin = 779.69 
+           xmax = 780.3862917060096 
+           text = "<NOISE>"
+       intervals [247]:
+           xmin = 780.3862917060096 
+           xmax = 789.7391365039523 
+           text = "<B>"
+       intervals [248]:
+           xmin = 789.7391365039523 
+           xmax = 790.4028943090611 
+           text = "<NOISE>"
+       intervals [249]:
+           xmin = 790.4028943090611 
+           xmax = 795.67 
+           text = "<B>"
+       intervals [250]:
+           xmin = 795.67 
+           xmax = 796.96 
+           text = "<NOISE>"
+       intervals [251]:
+           xmin = 796.96 
+           xmax = 799.41 
+           text = "<A>"
+       intervals [252]:
+           xmin = 799.41 
+           xmax = 800.12 
+           text = "<NOISE>"
+       intervals [253]:
+           xmin = 800.12 
+           xmax = 806.6424933160674 
+           text = "<A>"
+       intervals [254]:
+           xmin = 806.6424933160674 
+           xmax = 813.049199087118 
+           text = "<A>"
+       intervals [255]:
+           xmin = 813.049199087118 
+           xmax = 821.07 
+           text = "<A>"
+       intervals [256]:
+           xmin = 821.07 
+           xmax = 822.21 
+           text = "<NOISE>"
+       intervals [257]:
+           xmin = 822.21 
+           xmax = 825.4183374651398 
+           text = "<B>"
+       intervals [258]:
+           xmin = 825.4183374651398 
+           xmax = 832.16 
+           text = "<B>"
+       intervals [259]:
+           xmin = 832.16 
+           xmax = 834.06 
+           text = "<NOISE>"
+       intervals [260]:
+           xmin = 834.06 
+           xmax = 840.2753834045632 
+           text = "<A>"
+       intervals [261]:
+           xmin = 840.2753834045632 
+           xmax = 847.83 
+           text = "<A>"
+       intervals [262]:
+           xmin = 847.83 
+           xmax = 848.99 
+           text = "<NOISE>"
+       intervals [263]:
+           xmin = 848.99 
+           xmax = 855.79 
+           text = "<B>"
+       intervals [264]:
+           xmin = 855.79 
+           xmax = 858.39 
+           text = "<NOISE>"
+       intervals [265]:
+           xmin = 858.39 
+           xmax = 862.657940085886 
+           text = "<A>"
+       intervals [266]:
+           xmin = 862.657940085886 
+           xmax = 863.2351207859807 
+           text = "<NOISE>"
+       intervals [267]:
+           xmin = 863.2351207859807 
+           xmax = 871.75 
+           text = "<A>"
+       intervals [268]:
+           xmin = 871.75 
+           xmax = 872.6 
+           text = "<NOISE>"
+       intervals [269]:
+           xmin = 872.6 
+           xmax = 876.7 
+           text = "<B>"
+       intervals [270]:
+           xmin = 876.7 
+           xmax = 878.24 
+           text = "<NOISE>"
+       intervals [271]:
+           xmin = 878.24 
+           xmax = 883.69 
+           text = "<A>"
+       intervals [272]:
+           xmin = 883.69 
+           xmax = 885.08 
+           text = "<NOISE>"
+       intervals [273]:
+           xmin = 885.08 
+           xmax = 890.63 
+           text = "<B>"
+       intervals [274]:
+           xmin = 890.63 
+           xmax = 892 
+           text = "<NOISE>"
+       intervals [275]:
+           xmin = 892 
+           xmax = 895.8049143416091 
+           text = "<A>"
+       intervals [276]:
+           xmin = 895.8049143416091 
+           xmax = 896.95 
+           text = "<NOISE>"
+       intervals [277]:
+           xmin = 896.95 
+           xmax = 904.84 
+           text = "<B>"
+       intervals [278]:
+           xmin = 904.84 
+           xmax = 906.59 
+           text = "<NOISE>"
+       intervals [279]:
+           xmin = 906.59 
+           xmax = 909.59 
+           text = "<A>"
+       intervals [280]:
+           xmin = 909.59 
+           xmax = 911.0633053309996 
+           text = "<NOISE>"
+       intervals [281]:
+           xmin = 911.0633053309996 
+           xmax = 916.7485352269318 
+           text = "<B>"
+       intervals [282]:
+           xmin = 916.7485352269318 
+           xmax = 918.73 
+           text = "<B>"
+       intervals [283]:
+           xmin = 918.73 
+           xmax = 919.2519045523015 
+           text = "<NOISE>"
+       intervals [284]:
+           xmin = 919.2519045523015 
+           xmax = 924.2156585731156 
+           text = "<B>"
+       intervals [285]:
+           xmin = 924.2156585731156 
+           xmax = 924.7639802382055 
+           text = "<NOISE>"
+       intervals [286]:
+           xmin = 924.7639802382055 
+           xmax = 928.9485403138916 
+           text = "<B>"
+       intervals [287]:
+           xmin = 928.9485403138916 
+           xmax = 929.5834390839958 
+           text = "<NOISE>"
+       intervals [288]:
+           xmin = 929.5834390839958 
+           xmax = 937.8 
+           text = "<B>"
+       intervals [289]:
+           xmin = 937.8 
+           xmax = 939.33 
+           text = "<NOISE>"
+       intervals [290]:
+           xmin = 939.33 
+           xmax = 945.7659910016089 
+           text = "<A>"
+       intervals [291]:
+           xmin = 945.7659910016089 
+           xmax = 949.88 
+           text = "<A>"
+       intervals [292]:
+           xmin = 949.88 
+           xmax = 950.72 
+           text = "<NOISE>"
+       intervals [293]:
+           xmin = 950.72 
+           xmax = 954.5055908457351 
+           text = "<B>"
+       intervals [294]:
+           xmin = 954.5055908457351 
+           xmax = 959.02 
+           text = "<B>"
+       intervals [295]:
+           xmin = 959.02 
+           xmax = 960.35 
+           text = "<NOISE>"
+       intervals [296]:
+           xmin = 960.35 
+           xmax = 967.6 
+           text = "<A>"
+       intervals [297]:
+           xmin = 967.6 
+           xmax = 969.2156643073105 
+           text = "<NOISE>"
+       intervals [298]:
+           xmin = 969.2156643073105 
+           xmax = 975.4203568333279 
+           text = "<B>"
+       intervals [299]:
+           xmin = 975.4203568333279 
+           xmax = 981.7116264643596 
+           text = "<B>"
+       intervals [300]:
+           xmin = 981.7116264643596 
+           xmax = 987.3029117077806 
+           text = "<B>"
+       intervals [301]:
+           xmin = 987.3029117077806 
+           xmax = 991.48 
+           text = "<B>"
+       intervals [302]:
+           xmin = 991.48 
+           xmax = 992.72 
+           text = "<NOISE>"
+       intervals [303]:
+           xmin = 992.72 
+           xmax = 995.49 
+           text = "<A>"
+       intervals [304]:
+           xmin = 995.49 
+           xmax = 997.0217082825847 
+           text = "<NOISE>"
+       intervals [305]:
+           xmin = 997.0217082825847 
+           xmax = 1000.3404973081289 
+           text = "<B>"
+       intervals [306]:
+           xmin = 1000.3404973081289 
+           xmax = 1000.9465370432282 
+           text = "<NOISE>"
+       intervals [307]:
+           xmin = 1000.9465370432282 
+           xmax = 1005.04 
+           text = "<B>"
+       intervals [308]:
+           xmin = 1005.04 
+           xmax = 1006.5163307991415 
+           text = "<NOISE>"
+       intervals [309]:
+           xmin = 1006.5163307991415 
+           xmax = 1008.07 
+           text = "<A>"
+       intervals [310]:
+           xmin = 1008.07 
+           xmax = 1009.06 
+           text = "<NOISE>"
+       intervals [311]:
+           xmin = 1009.06 
+           xmax = 1010.54 
+           text = "<B>"
+       intervals [312]:
+           xmin = 1010.54 
+           xmax = 1012.51 
+           text = "<NOISE>"
+       intervals [313]:
+           xmin = 1012.51 
+           xmax = 1014.75 
+           text = "<A>"
+       intervals [314]:
+           xmin = 1014.75 
+           xmax = 1016.32 
+           text = "<NOISE>"
+       intervals [315]:
+           xmin = 1016.32 
+           xmax = 1021.24 
+           text = "<B>"
+       intervals [316]:
+           xmin = 1021.24 
+           xmax = 1023.08 
+           text = "<NOISE>"
+       intervals [317]:
+           xmin = 1023.08 
+           xmax = 1023.6 
+           text = "<A>"
+       intervals [318]:
+           xmin = 1023.6 
+           xmax = 1025.46 
+           text = "<NOISE>"
+       intervals [319]:
+           xmin = 1025.46 
+           xmax = 1029.18 
+           text = "<B>"
+       intervals [320]:
+           xmin = 1029.18 
+           xmax = 1030.56 
+           text = "<NOISE>"
+       intervals [321]:
+           xmin = 1030.56 
+           xmax = 1035.010857807225 
+           text = "<A>"
+       intervals [322]:
+           xmin = 1035.010857807225 
+           xmax = 1039.7 
+           text = "<A>"
+       intervals [323]:
+           xmin = 1039.7 
+           xmax = 1041.1289732282285 
+           text = "<NOISE>"
+       intervals [324]:
+           xmin = 1041.1289732282285 
+           xmax = 1043.18 
+           text = "<B>"
+       intervals [325]:
+           xmin = 1043.18 
+           xmax = 1044.9638774278724 
+           text = "<NOISE>"
+       intervals [326]:
+           xmin = 1044.9638774278724 
+           xmax = 1048.64 
+           text = "<A>"
+       intervals [327]:
+           xmin = 1048.64 
+           xmax = 1050.04 
+           text = "<NOISE>"
+       intervals [328]:
+           xmin = 1050.04 
+           xmax = 1056.5893824273817 
+           text = "<B>"
+       intervals [329]:
+           xmin = 1056.5893824273817 
+           xmax = 1057.1088450574669 
+           text = "<NOISE>"
+       intervals [330]:
+           xmin = 1057.1088450574669 
+           xmax = 1062.71 
+           text = "<B>"
+       intervals [331]:
+           xmin = 1062.71 
+           xmax = 1064.45 
+           text = "<NOISE>"
+       intervals [332]:
+           xmin = 1064.45 
+           xmax = 1069.7142177682704 
+           text = "<A>"
+       intervals [333]:
+           xmin = 1069.7142177682704 
+           xmax = 1076.2 
+           text = "<A>"
+       intervals [334]:
+           xmin = 1076.2 
+           xmax = 1077.3263080975487 
+           text = "<NOISE>"
+       intervals [335]:
+           xmin = 1077.3263080975487 
+           xmax = 1081.2222778231876 
+           text = "<B>"
+       intervals [336]:
+           xmin = 1081.2222778231876 
+           xmax = 1086.2726089490159 
+           text = "<B>"
+       intervals [337]:
+           xmin = 1086.2726089490159 
+           xmax = 1089.08 
+           text = "<B>"
+       intervals [338]:
+           xmin = 1089.08 
+           xmax = 1090.59 
+           text = "<NOISE>"
+       intervals [339]:
+           xmin = 1090.59 
+           xmax = 1095.94 
+           text = "<A>"
+       intervals [340]:
+           xmin = 1095.94 
+           xmax = 1097.02 
+           text = "<NOISE>"
+       intervals [341]:
+           xmin = 1097.02 
+           xmax = 1101.4 
+           text = "<A>"
+       intervals [342]:
+           xmin = 1101.4 
+           xmax = 1102.1061767986575 
+           text = "<NOISE>"
+       intervals [343]:
+           xmin = 1102.1061767986575 
+           xmax = 1107.6 
+           text = "<B>"
+       intervals [344]:
+           xmin = 1107.6 
+           xmax = 1109.12 
+           text = "<NOISE>"
+       intervals [345]:
+           xmin = 1109.12 
+           xmax = 1115.3477877584323 
+           text = "<A>"
+       intervals [346]:
+           xmin = 1115.3477877584323 
+           xmax = 1115.9538274935317 
+           text = "<NOISE>"
+       intervals [347]:
+           xmin = 1115.9538274935317 
+           xmax = 1121.99 
+           text = "<A>"
+       intervals [348]:
+           xmin = 1121.99 
+           xmax = 1122.5847106326491 
+           text = "<NOISE>"
+       intervals [349]:
+           xmin = 1122.5847106326491 
+           xmax = 1130.0014826288655 
+           text = "<A>"
+       intervals [350]:
+           xmin = 1130.0014826288655 
+           xmax = 1135.1961089297174 
+           text = "<A>"
+       intervals [351]:
+           xmin = 1135.1961089297174 
+           xmax = 1138.27 
+           text = "<A>"
+       intervals [352]:
+           xmin = 1138.27 
+           xmax = 1139.86 
+           text = "<NOISE>"
+       intervals [353]:
+           xmin = 1139.86 
+           xmax = 1140.67 
+           text = "<C>"
+       intervals [354]:
+           xmin = 1140.67 
+           xmax = 1142.61 
+           text = "<NOISE>"
+       intervals [355]:
+           xmin = 1142.61 
+           xmax = 1144.42 
+           text = "<A>"
+       intervals [356]:
+           xmin = 1144.42 
+           xmax = 1144.93 
+           text = "<NOISE>"
+       intervals [357]:
+           xmin = 1144.93 
+           xmax = 1148.98 
+           text = "<A>"
+       intervals [358]:
+           xmin = 1148.98 
+           xmax = 1149.444438658672 
+           text = "<NOISE>"
+       intervals [359]:
+           xmin = 1149.444438658672 
+           xmax = 1154.7833601345476 
+           text = "<A>"
+       intervals [360]:
+           xmin = 1154.7833601345476 
+           xmax = 1160.67 
+           text = "<A>"
+       intervals [361]:
+           xmin = 1160.67 
+           xmax = 1162.31 
+           text = "<NOISE>"
+       intervals [362]:
+           xmin = 1162.31 
+           xmax = 1169.176654364232 
+           text = "<B>"
+       intervals [363]:
+           xmin = 1169.176654364232 
+           xmax = 1172.29 
+           text = "<B>"
+       intervals [364]:
+           xmin = 1172.29 
+           xmax = 1173.8 
+           text = "<NOISE>"
+       intervals [365]:
+           xmin = 1173.8 
+           xmax = 1175.8 
+           text = "<A>"
+       intervals [366]:
+           xmin = 1175.8 
+           xmax = 1177.2222995442876 
+           text = "<NOISE>"
+       intervals [367]:
+           xmin = 1177.2222995442876 
+           xmax = 1180.25 
+           text = "<B>"
+       intervals [368]:
+           xmin = 1180.25 
+           xmax = 1181.62 
+           text = "<NOISE>"
+       intervals [369]:
+           xmin = 1181.62 
+           xmax = 1185.187393205594 
+           text = "<A>"
+       intervals [370]:
+           xmin = 1185.187393205594 
+           xmax = 1191.359879240621 
+           text = "<A>"
+       intervals [371]:
+           xmin = 1191.359879240621 
+           xmax = 1192.0813551157394 
+           text = "<NOISE>"
+       intervals [372]:
+           xmin = 1192.0813551157394 
+           xmax = 1192.97 
+           text = "<B>"
+       intervals [373]:
+           xmin = 1192.97 
+           xmax = 1194.71 
+           text = "<NOISE>"
+       intervals [374]:
+           xmin = 1194.71 
+           xmax = 1195.88 
+           text = "<A>"
+       intervals [375]:
+           xmin = 1195.88 
+           xmax = 1197.04 
+           text = "<NOISE>"
+       intervals [376]:
+           xmin = 1197.04 
+           xmax = 1197.95 
+           text = "<B>"
+       intervals [377]:
+           xmin = 1197.95 
+           xmax = 1200.0397546925296 
+           text = "<NOISE>"
+       intervals [378]:
+           xmin = 1200.0397546925296 
+           xmax = 1200.876666707667 
+           text = "<C>"
+       intervals [379]:
+           xmin = 1200.876666707667 
+           xmax = 1201.9733100378469 
+           text = "<NOISE>"
+       intervals [380]:
+           xmin = 1201.9733100378469 
+           xmax = 1208.6108880889353 
+           text = "<B>"
+       intervals [381]:
+           xmin = 1208.6108880889353 
+           xmax = 1209.1592097540254 
+           text = "<NOISE>"
+       intervals [382]:
+           xmin = 1209.1592097540254 
+           xmax = 1216.97 
+           text = "<B>"
+       intervals [383]:
+           xmin = 1216.97 
+           xmax = 1218.35 
+           text = "<NOISE>"
+       intervals [384]:
+           xmin = 1218.35 
+           xmax = 1219.55 
+           text = "<A>"
+       intervals [385]:
+           xmin = 1219.55 
+           xmax = 1221.04 
+           text = "<NOISE>"
+       intervals [386]:
+           xmin = 1221.04 
+           xmax = 1223.14 
+           text = "<B>"
+       intervals [387]:
+           xmin = 1223.14 
+           xmax = 1224.8484824286434 
+           text = "<NOISE>"
+       intervals [388]:
+           xmin = 1224.8484824286434 
+           xmax = 1229.9 
+           text = "<A>"
+       intervals [389]:
+           xmin = 1229.9 
+           xmax = 1231.11 
+           text = "<NOISE>"
+       intervals [390]:
+           xmin = 1231.11 
+           xmax = 1235.77 
+           text = "<B>"
+       intervals [391]:
+           xmin = 1235.77 
+           xmax = 1238.41 
+           text = "<NOISE>"
+       intervals [392]:
+           xmin = 1238.41 
+           xmax = 1239.69 
+           text = "<A>"
+       intervals [393]:
+           xmin = 1239.69 
+           xmax = 1240.76 
+           text = "<NOISE>"
+       intervals [394]:
+           xmin = 1240.76 
+           xmax = 1245.95 
+           text = "<B>"
+       intervals [395]:
+           xmin = 1245.95 
+           xmax = 1248.57 
+           text = "<NOISE>"
+       intervals [396]:
+           xmin = 1248.57 
+           xmax = 1255.2270039206705 
+           text = "<A>"
+       intervals [397]:
+           xmin = 1255.2270039206705 
+           xmax = 1256.54 
+           text = "<A>"
+       intervals [398]:
+           xmin = 1256.54 
+           xmax = 1257.89 
+           text = "<NOISE>"
+       intervals [399]:
+           xmin = 1257.89 
+           xmax = 1263.327689867911 
+           text = "<B>"
+       intervals [400]:
+           xmin = 1263.327689867911 
+           xmax = 1270.571307654099 
+           text = "<B>"
+       intervals [401]:
+           xmin = 1270.571307654099 
+           xmax = 1279.3672877442775 
+           text = "<B>"
+       intervals [402]:
+           xmin = 1279.3672877442775 
+           xmax = 1279.9156094093676 
+           text = "<NOISE>"
+       intervals [403]:
+           xmin = 1279.9156094093676 
+           xmax = 1286.6652761444896 
+           text = "<B>"
+       intervals [404]:
+           xmin = 1286.6652761444896 
+           xmax = 1295.74 
+           text = "<B>"
+       intervals [405]:
+           xmin = 1295.74 
+           xmax = 1296.51 
+           text = "<NOISE>"
+       intervals [406]:
+           xmin = 1296.51 
+           xmax = 1302.5317198108276 
+           text = "<B>"
+       intervals [407]:
+           xmin = 1302.5317198108276 
+           xmax = 1303.1377595459269 
+           text = "<NOISE>"
+       intervals [408]:
+           xmin = 1303.1377595459269 
+           xmax = 1307.34 
+           text = "<B>"
+       intervals [409]:
+           xmin = 1307.34 
+           xmax = 1309.04 
+           text = "<NOISE>"
+       intervals [410]:
+           xmin = 1309.04 
+           xmax = 1311.61 
+           text = "<A>"
+       intervals [411]:
+           xmin = 1311.61 
+           xmax = 1313.1451506080532 
+           text = "<NOISE>"
+       intervals [412]:
+           xmin = 1313.1451506080532 
+           xmax = 1314.36 
+           text = "<B>"
+       intervals [413]:
+           xmin = 1314.36 
+           xmax = 1316 
+           text = "<NOISE>"
+       intervals [414]:
+           xmin = 1316 
+           xmax = 1318.07 
+           text = "<A>"
+       intervals [415]:
+           xmin = 1318.07 
+           xmax = 1319.62 
+           text = "<NOISE>"
+       intervals [416]:
+           xmin = 1319.62 
+           xmax = 1320.04 
+           text = "<B>"
+       intervals [417]:
+           xmin = 1320.04 
+           xmax = 1322.3 
+           text = "<NOISE>"
+       intervals [418]:
+           xmin = 1322.3 
+           xmax = 1325.6948132259652 
+           text = "<A>"
+       intervals [419]:
+           xmin = 1325.6948132259652 
+           xmax = 1330.86 
+           text = "<A>"
+       intervals [420]:
+           xmin = 1330.86 
+           xmax = 1331.7 
+           text = "<NOISE>"
+       intervals [421]:
+           xmin = 1331.7 
+           xmax = 1338.95 
+           text = "<B>"
+       intervals [422]:
+           xmin = 1338.95 
+           xmax = 1341.77 
+           text = "<NOISE>"
+       intervals [423]:
+           xmin = 1341.77 
+           xmax = 1348.455219629904 
+           text = "<B>"
+       intervals [424]:
+           xmin = 1348.455219629904 
+           xmax = 1355.6699783810873 
+           text = "<B>"
+       intervals [425]:
+           xmin = 1355.6699783810873 
+           xmax = 1363.24 
+           text = "<B>"
+       intervals [426]:
+           xmin = 1363.24 
+           xmax = 1364.18 
+           text = "<NOISE>"
+       intervals [427]:
+           xmin = 1364.18 
+           xmax = 1370.865300004639 
+           text = "<A>"
+       intervals [428]:
+           xmin = 1370.865300004639 
+           xmax = 1376.05 
+           text = "<A>"
+       intervals [429]:
+           xmin = 1376.05 
+           xmax = 1376.08 
+           text = "<NOISE>"
+       intervals [430]:
+           xmin = 1376.08 
+           xmax = 1379.53 
+           text = "<A>"
+       intervals [431]:
+           xmin = 1379.53 
+           xmax = 1381.56 
+           text = "<NOISE>"
+       intervals [432]:
+           xmin = 1381.56 
+           xmax = 1386.87 
+           text = "<B>"
+       intervals [433]:
+           xmin = 1386.87 
+           xmax = 1388.34 
+           text = "<NOISE>"
+       intervals [434]:
+           xmin = 1388.34 
+           xmax = 1392.59 
+           text = "<A>"
+       intervals [435]:
+           xmin = 1392.59 
+           xmax = 1394.0337496803359 
+           text = "<NOISE>"
+       intervals [436]:
+           xmin = 1394.0337496803359 
+           xmax = 1395.63 
+           text = "<B>"
+       intervals [437]:
+           xmin = 1395.63 
+           xmax = 1397.42 
+           text = "<NOISE>"
+       intervals [438]:
+           xmin = 1397.42 
+           xmax = 1399.47 
+           text = "<A>"
+       intervals [439]:
+           xmin = 1399.47 
+           xmax = 1400.87 
+           text = "<NOISE>"
+       intervals [440]:
+           xmin = 1400.87 
+           xmax = 1408.944497735532 
+           text = "<B>"
+       intervals [441]:
+           xmin = 1408.944497735532 
+           xmax = 1414.96 
+           text = "<B>"
+       intervals [442]:
+           xmin = 1414.96 
+           xmax = 1417.22 
+           text = "<NOISE>"
+       intervals [443]:
+           xmin = 1417.22 
+           xmax = 1423.108258336591 
+           text = "<A>"
+       intervals [444]:
+           xmin = 1423.108258336591 
+           xmax = 1426.8310738522014 
+           text = "<A>"
+       intervals [445]:
+           xmin = 1426.8310738522014 
+           xmax = 1433.24 
+           text = "<A>"
+       intervals [446]:
+           xmin = 1433.24 
+           xmax = 1434.08 
+           text = "<NOISE>"
+       intervals [447]:
+           xmin = 1434.08 
+           xmax = 1434.69 
+           text = "<A>"
+       intervals [448]:
+           xmin = 1434.69 
+           xmax = 1436 
+           text = "<NOISE>"
+       intervals [449]:
+           xmin = 1436 
+           xmax = 1442.54 
+           text = "<B>"
+       intervals [450]:
+           xmin = 1442.54 
+           xmax = 1443.13 
+           text = "<NOISE>"
+       intervals [451]:
+           xmin = 1443.13 
+           xmax = 1448.18 
+           text = "<B>"
+       intervals [452]:
+           xmin = 1448.18 
+           xmax = 1450.03 
+           text = "<NOISE>"
+       intervals [453]:
+           xmin = 1450.03 
+           xmax = 1456.0216888016366 
+           text = "<A>"
+       intervals [454]:
+           xmin = 1456.0216888016366 
+           xmax = 1460.6 
+           text = "<A>"
+       intervals [455]:
+           xmin = 1460.6 
+           xmax = 1461.51 
+           text = "<NOISE>"
+       intervals [456]:
+           xmin = 1461.51 
+           xmax = 1462.76 
+           text = "<B>"
+       intervals [457]:
+           xmin = 1462.76 
+           xmax = 1464.22 
+           text = "<NOISE>"
+       intervals [458]:
+           xmin = 1464.22 
+           xmax = 1467.77 
+           text = "<A>"
+       intervals [459]:
+           xmin = 1467.77 
+           xmax = 1468.83 
+           text = "<NOISE>"
+       intervals [460]:
+           xmin = 1468.83 
+           xmax = 1469.62 
+           text = "<B>"
+       intervals [461]:
+           xmin = 1469.62 
+           xmax = 1471.54 
+           text = "<NOISE>"
+       intervals [462]:
+           xmin = 1471.54 
+           xmax = 1478.6666590655566 
+           text = "<A>"
+       intervals [463]:
+           xmin = 1478.6666590655566 
+           xmax = 1482.1 
+           text = "<A>"
+       intervals [464]:
+           xmin = 1482.1 
+           xmax = 1483.76 
+           text = "<NOISE>"
+       intervals [465]:
+           xmin = 1483.76 
+           xmax = 1491.02 
+           text = "<B>"
+       intervals [466]:
+           xmin = 1491.02 
+           xmax = 1491.65 
+           text = "<NOISE>"
+       intervals [467]:
+           xmin = 1491.65 
+           xmax = 1497.01 
+           text = "<B>"
+       intervals [468]:
+           xmin = 1497.01 
+           xmax = 1498.49 
+           text = "<NOISE>"
+       intervals [469]:
+           xmin = 1498.49 
+           xmax = 1505.0901541105231 
+           text = "<A>"
+       intervals [470]:
+           xmin = 1505.0901541105231 
+           xmax = 1510.1982033063607 
+           text = "<A>"
+       intervals [471]:
+           xmin = 1510.1982033063607 
+           xmax = 1515.24 
+           text = "<A>"
+       intervals [472]:
+           xmin = 1515.24 
+           xmax = 1516.29 
+           text = "<NOISE>"
+       intervals [473]:
+           xmin = 1516.29 
+           xmax = 1519.45 
+           text = "<B>"
+       intervals [474]:
+           xmin = 1519.45 
+           xmax = 1520.79 
+           text = "<NOISE>"
+       intervals [475]:
+           xmin = 1520.79 
+           xmax = 1521.92 
+           text = "<A>"
+       intervals [476]:
+           xmin = 1521.92 
+           xmax = 1522.5968766647331 
+           text = "<NOISE>"
+       intervals [477]:
+           xmin = 1522.5968766647331 
+           xmax = 1526.85 
+           text = "<A>"
+       intervals [478]:
+           xmin = 1526.85 
+           xmax = 1527.8 
+           text = "<NOISE>"
+       intervals [479]:
+           xmin = 1527.8 
+           xmax = 1531.1 
+           text = "<B>"
+       intervals [480]:
+           xmin = 1531.1 
+           xmax = 1532.85 
+           text = "<NOISE>"
+       intervals [481]:
+           xmin = 1532.85 
+           xmax = 1538.02 
+           text = "<A>"
+       intervals [482]:
+           xmin = 1538.02 
+           xmax = 1539.2405062990808 
+           text = "<NOISE>"
+       intervals [483]:
+           xmin = 1539.2405062990808 
+           xmax = 1540.94 
+           text = "<B>"
+       intervals [484]:
+           xmin = 1540.94 
+           xmax = 1542.45 
+           text = "<NOISE>"
+       intervals [485]:
+           xmin = 1542.45 
+           xmax = 1546.9458686453445 
+           text = "<B>"
+       intervals [486]:
+           xmin = 1546.9458686453445 
+           xmax = 1547.5519083804438 
+           text = "<NOISE>"
+       intervals [487]:
+           xmin = 1547.5519083804438 
+           xmax = 1549.1968733757135 
+           text = "<B>"
+       intervals [488]:
+           xmin = 1549.1968733757135 
+           xmax = 1549.78 
+           text = "<NOISE>"
+       intervals [489]:
+           xmin = 1549.78 
+           xmax = 1556.72 
+           text = "<B>"
+       intervals [490]:
+           xmin = 1556.72 
+           xmax = 1558.76 
+           text = "<NOISE>"
+       intervals [491]:
+           xmin = 1558.76 
+           xmax = 1563.2733875460522 
+           text = "<B>"
+       intervals [492]:
+           xmin = 1563.2733875460522 
+           xmax = 1563.9082863161561 
+           text = "<NOISE>"
+       intervals [493]:
+           xmin = 1563.9082863161561 
+           xmax = 1568.6915218892648 
+           text = "<B>"
+       intervals [494]:
+           xmin = 1568.6915218892648 
+           xmax = 1573.741853015093 
+           text = "<B>"
+       intervals [495]:
+           xmin = 1573.741853015093 
+           xmax = 1583.4384887766832 
+           text = "<B>"
+       intervals [496]:
+           xmin = 1583.4384887766832 
+           xmax = 1586.6 
+           text = "<B>"
+       intervals [497]:
+           xmin = 1586.6 
+           xmax = 1588.65 
+           text = "<NOISE>"
+       intervals [498]:
+           xmin = 1588.65 
+           xmax = 1592.27 
+           text = "<A>"
+       intervals [499]:
+           xmin = 1592.27 
+           xmax = 1593.6492309077998 
+           text = "<NOISE>"
+       intervals [500]:
+           xmin = 1593.6492309077998 
+           xmax = 1596.05 
+           text = "<B>"
+       intervals [501]:
+           xmin = 1596.05 
+           xmax = 1596.95 
+           text = "<NOISE>"
+       intervals [502]:
+           xmin = 1596.95 
+           xmax = 1602.6465549173054 
+           text = "<A>"
+       intervals [503]:
+           xmin = 1602.6465549173054 
+           xmax = 1606.0754246497645 
+           text = "<A>"
+       intervals [504]:
+           xmin = 1606.0754246497645 
+           xmax = 1612.626425595839 
+           text = "<A>"
+       intervals [505]:
+           xmin = 1612.626425595839 
+           xmax = 1617.34 
+           text = "<A>"
+       intervals [506]:
+           xmin = 1617.34 
+           xmax = 1619.38 
+           text = "<NOISE>"
+       intervals [507]:
+           xmin = 1619.38 
+           xmax = 1623.47 
+           text = "<A>"
+       intervals [508]:
+           xmin = 1623.47 
+           xmax = 1624.42 
+           text = "<NOISE>"
+       intervals [509]:
+           xmin = 1624.42 
+           xmax = 1628.1458915164142 
+           text = "<A>"
+       intervals [510]:
+           xmin = 1628.1458915164142 
+           xmax = 1635.8 
+           text = "<A>"
+       intervals [511]:
+           xmin = 1635.8 
+           xmax = 1639.44 
+           text = "<A>"
+       intervals [512]:
+           xmin = 1639.44 
+           xmax = 1640.87 
+           text = "<NOISE>"
+       intervals [513]:
+           xmin = 1640.87 
+           xmax = 1644.5995923741004 
+           text = "<A>"
+       intervals [514]:
+           xmin = 1644.5995923741004 
+           xmax = 1651.24 
+           text = "<A>"
+       intervals [515]:
+           xmin = 1651.24 
+           xmax = 1652.73 
+           text = "<NOISE>"
+       intervals [516]:
+           xmin = 1652.73 
+           xmax = 1654.91 
+           text = "<A>"
