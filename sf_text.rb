@@ -112,7 +112,7 @@ txtgridfiles.each do |textgrid|
   		           puts newtxt
            end
          rescue => error
-           puts error
+           #puts error
          end
        path = filename.split("/")
        newpath = "CorrectedFile/#{path[0]}/#{path[1]}"
