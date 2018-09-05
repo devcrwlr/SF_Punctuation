@@ -16,18 +16,23 @@ txtgridfiles.each do |textgrid|
          file = file.split("\n")
          begin
            file.each do |txt|
-             splittxt = txt.inspect.gsub("\\u0000","")
+
+               splittxt = txt.inspect.gsub("\\u0000","")
 
                unless splittxt.size.to_i <= 10
 
                   splittxt = splittxt.gsub(" u001C","")
+
                   splittxt = splittxt.gsub(" u001D","")
+
                   splittxt = splittxt.gsub(" u0019","\'")
+
                   splittxt = splittxt.gsub(" \\u001C","")
                   splittxt = splittxt.gsub(" \\u001D","")
                   splittxt = splittxt.gsub(" \\u0019","\'")
 
                   if splittxt.include? ",\\\""
+
                     split_coma =  splittxt.split(",\\\"")
                     splitted1 = "#{split_coma[0]}"
                     splitted2 = split_coma[1].to_s.gsub("r\"","")
@@ -39,9 +44,11 @@ txtgridfiles.each do |textgrid|
                       frstchr = splitted2.chars.first
                       upcase = frstchr.chars.first.upcase
                       slicetxt = splitted2.slice!(1, splitted2.size)
-                      puts newtxt = "#{splitted1}. #{upcase}#{slicetxt}"
+                       newtxt = "#{splitted1}. #{upcase}#{slicetxt}"
+
                     else
                         newtxt = "#{splitted1} #{splitted2}"
+
                     end
 
                   elsif splittxt.include? ", \\\""
@@ -56,18 +63,20 @@ txtgridfiles.each do |textgrid|
                       frstchr = splitted2.chars.first
                       upcase = frstchr.chars.first.upcase
                       slicetxt = splitted2.slice!(1, splitted2.size)
-
+                      newtxt = "#{splitted1}. #{upcase}#{slicetxt}"
                     else
-                        newtxt = "#{splitted1} #{splitted2 }"
+                      newtxt = "#{splitted1} #{splitted2 }"
                     end
                   else
-                    newtxt = splittxt.gsub("\\r\"","")
+                     newtxt = splittxt.gsub("\\r\"","")
+
                   end
-                  
+                  #puts "Check TXT #{newtxt}"
                   newtxt = newtxt.gsub("\\r\"","")
                   newtxt = newtxt.gsub("\" ","")
                   newtxt = newtxt.gsub("\"","")
                   newtxt = newtxt.gsub("\\","")
+
 
                   if newtxt.include? "?@?"
 
@@ -103,16 +112,17 @@ txtgridfiles.each do |textgrid|
                     fixtext =  "#{textsplit[0]} = \"#{textsplit[1]}\""
                     data << "#{fixtext}\r\n"
                   else
-                  data << "#{newtxt}\r\n"
+                    data << "#{newtxt}\r\n"
                   end
 
                else
-                  #puts splittxt.size
+                   splittxt.size
                end
-  		           puts newtxt
-           end
+  		            puts "#{newtxt}"
+             end
+
          rescue => error
-           #puts error
+           puts error
          end
        path = filename.split("/")
        newpath = "CorrectedFile/#{path[0]}/#{path[1]}"
@@ -123,8 +133,4 @@ txtgridfiles.each do |textgrid|
        }
 
   end
-
-
-
-
 end
